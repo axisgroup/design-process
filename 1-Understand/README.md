@@ -97,8 +97,8 @@ Card sorting helps categorize and prioritize features, ideas and different conce
 It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
 
 --
-
-### [Examples of accomplishments of Understand phase](accomplishments.md)
-### [Understand phase : Checklist](checklist.md)
+### [Schedule for Understand](SCHEDULE.md)
+### [Examples of Understand phase](EXAMPLES.md)
+### [Phase Checklist](CHECKLIST.md)
 
 
