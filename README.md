@@ -1,4 +1,4 @@
-![Design Engagement Phases](/images/phases.png?raw=true "Design Engagement Phases")
+ ![Design Engagement Phases](/images/phases.png?raw=true "Design Engagement Phases")
 
 # Visual Analytics Design Process
 This repository is a collection of documents intended to guide the design process at Axis Group. 
@@ -6,14 +6,14 @@ It contains guidelines that should not be followed exactly.
 Each design process should be tailored to the individual project or design engagement. 
 This document intends to provide a walkthrough of each step in our design process and approaches to create artifacts in each phase.
 
-* [Pre-Engagement](0-Pre-Engagement)
-* [Understand](1-Understand)
-* [Define](2-Define)
-* [Diverge](3-Diverge)
-* [Converge](4-Converge)
-* [Prototype](5-Prototype)
-* [Validate](6-Validate)
-* [Design Implementation Support](7-Design-Implementation-Support)
+* [Pre-Engagement Phase](0-Pre-Engagement)
+* [Understand Phase](1-Understand)
+* [Define Phase](2-Define)
+* [Diverge Phase](3-Diverge)
+* [Converge Phase](4-Converge)
+* [Prototype Phase](5-Prototype)
+* [Validate Phase](6-Validate)
+* [Design Implementation Support Phase](7-Design-Implementation-Support)
 
 ## What is a design engagement?
 A design engagement is a technique to quickly solve design problems and test the viability of a solution.
