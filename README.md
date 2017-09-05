@@ -76,7 +76,7 @@ By the end of this phase, we should have validated or invalidated our riskiest k
 assumptions and have confidence in our next steps.
 
 #### [Design Implementation Support](7-Design-Implementation-Support)
-The Design Implementation Support encompasses all efforts towards supporting development 
+The Design Implementation Support phase encompasses all efforts towards supporting development 
 once the design prototype is approved by the client.
 This might entail continued oversight on development and ensuring that the development is as per specifications.
 In addition to availability to support and answer any questions or converns faced during development, 
