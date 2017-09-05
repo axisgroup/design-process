@@ -1,3 +1,4 @@
+![Design Engagement Phases](/images/phases.png?raw=true "Design Engagement Phases")
 
 # Visual Analytics Design Process
 This repository is a collection of documents intended to guide the design process at Axis Group. 
@@ -15,8 +16,21 @@ This document intends to provide a walkthrough of each step in our design proces
 * [Design Implementation Support](7-Design-Implementation-Support)
 
 ## What is a design engagement?
+A design engagement is a technique to quickly solve design problems and test the viability of a solution.
+It allows to better understand the problem at hand, create prototypes and choose a viable solution to the problem at hand.
+
 #### Why do a design engagement?
+A design engaement orients the team and aims our efforts towards a mutual goal.
+Design thinking and visual analytics design engagements keep us on target and invest our time and money wisely.
+Design engagements are useful when kicking off a new business, product, feature, or workflow. 
+Design engagements can also be used to solve problems with an existing products, features, or workflows 
+and help make them better and efficient.
+
 #### What should you expect to have at the end of a design sprint?
+At the end of the design emgagement, the team will understand the problem and will have validated whether 
+we have a viable solution to begin building or whether we need to keep searching for a solution. 
+Design engagement helps channel efforts towards building a solution that engances usability and 
+user experience of interacting with the solution, while achieving the business goal. 
 
 ## Design Engagement Overview
 The Design process at Axis Group is divided into six phases, 
