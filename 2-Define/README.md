@@ -67,7 +67,6 @@ Creating personas should be a comprehensive task that takes all outcomes of inte
 with the client and assumptions, bundled into a relatable use case.
 
 #### [Analyze Tasks](../Exercises/analyze-tasks.md)
-
 Analyzing tasks on hand helps channel efforts of the team towards tackling a central problem.
 It helps clearly divide problems and responsibilities while providing clarity of the 
 'job to be done.'
@@ -77,10 +76,11 @@ The team should make efforts to model the business process that serves as the ba
 problem at hand. This shall help determine any missing aspects or loopholes in the understanding 
 and could also help realize potential risks.
 
-#### [Create Scenarios](../Exercises/scenarios.md) 
+#### [Create Scenarios](../Exercises/scenarios.md)
 Creating user scenarios help narrow down the efforts of the team to understand aspects of 
 the problem that affect clients business process. These scenarios channel efforts of the 
 design engagement towards solving problems that affect daily tasks of clients.
+
 --
 ### [Schedule for Define](SCHEDULE.md)
 ### [Examples of Define phase](EXAMPLES.md)
