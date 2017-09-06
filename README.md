@@ -1,4 +1,4 @@
- ![Design Engagement Phases](/images/phases.png?raw=true "Design Engagement Phases")
+﻿ ![Design Engagement Phases](/images/phases.png?raw=true "Design Engagement Phases")
 
 # Visual Analytics Design Process
 This repository is a collection of documents intended to guide the design process at Axis Group. 
@@ -34,7 +34,8 @@ user experience of interacting with the solution, while achieving the business g
 
 ## Design Engagement Overview
 The Design process at Axis Group is divided into six phases, 
-Understand, Define, Diverge, Decide, Prototype, and Validate. Each phase typically lasts for _________.
+Understand, Define, Diverge, Decide, Prototype, and Validate. Each phase typically lasts for a day or two,
+depending on the scope of the engagement.
 
 #### [Pre-Engagement](0-Pre-Engagement)
 Typically, this phase would require performing research on the client and their industry. This phase is non-billable.
@@ -67,7 +68,7 @@ By exploring and eliminating so many options, we have reason to be more confiden
 
 #### [Prototype](5-Prototype)
 The Prototype phase develops a prototype that fills our riskiest knowledge gaps and assumptions. 
-______________________________________ are all valid mediums. 
+Pan and Paper sketches, Sketch + Envision, and QlikSense are all valid mediums. 
 The medium should be determined by our time constraints and learning goals.
 
 #### [Validate](6-Validate)

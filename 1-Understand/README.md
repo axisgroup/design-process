@@ -1,6 +1,6 @@
-# Understand: Gather existing knowledge, expose assumptions and unknowns
+﻿# Understand: Gather existing knowledge, expose assumptions and unknowns
 
-Day one of the design sprint is about gathering all existing
+The first phase of the design sprint is about gathering all existing
 information/knowledge on the business, the customer and the problem and exposing
 our assumptions and knowledge gaps. From here can make plans to fill the
 riskiest knowledge gaps and validate or invalidate our riskiest assumptions.
@@ -74,7 +74,7 @@ fancy to be useful.
 
 #### [Start an Assumptions Board](../Exercises/assumptions.md)
 
-Throughout the ___________________________ we will ask questions we don’t have
+Throughout the Understand phase, we will ask questions we don’t have
 answers to and identify assumptions we are relying on. We will capture these
 ‘Assumptions’ on a board for later organization and analysis.
 
