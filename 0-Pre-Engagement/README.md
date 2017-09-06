@@ -35,12 +35,12 @@ on the end goal.
 
 ###### Outputs/Artifacts:
 
-* Capture Industry and Client Research
+* Capture Industry and Client Research:
 The team should document research outcomes as they would be useful in furture phases to 
 ensure that the team has common grounds for formulating assumptions and identifying risks.
 Capturing research shall also serve as a repository for any similar sprints in future.
 
-* Requests to Schedule Interviews/ Request for Information
+* Requests to Schedule Interviews/ Request for Information:
 The team should identify resources and key stakeholders from the client-side and 
 send out requests to schedule interviews, and request for additional material/information. 
 This ensures that the client is prepared with information that the design team might require
@@ -55,7 +55,7 @@ The design team should collaborate with the Solutions Director (SD) to discuss a
 thoroughly understand the Statement of Work (SOW). This shall ensure a common grounds of
 understanding the 'job to be done.'
 
-#### [Schedule Interviews] (../Exercises/schedule-interview.md)
+#### [Schedule Interviews](../Exercises/schedule-interview.md)
 The team should send out requests to schedule interviews with the client and block
 time on their calendars to gather further understanding of the problem. This shall ensure
 that the client is available to answer questions, provide insight, and provide any additional
