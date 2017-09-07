@@ -1,17 +1,14 @@
 # Pre-Engagement: Prepare for the engagement
 
 The Pre-Engagement phase is typically non-billable. This phase typically serves as 
-the team's readiness to dive into the engagement. In this phase, the team should 
-develop a strong understanding of the industry that the client is in, as well as the client's
-business. The goal should also be to develop a strong understanding of the Scope of Work (SOW)
-and know the limitations therein.
+the team's readiness to dive into the engagement by providing a baseline of understanding and a common language for user interviews. In this phase, the team should 
+develop a strong understanding of the industry that the client is in, the client's
+business as a whole, the particular business function(s) that will be addressed during the project, and the history of work with the client. The goal should also be to develop a strong understanding of the Scope of Work (SOW) and know the limitations therein.
 
-Annual Reports, 10K Reports, and Key Metrics should serve as sources for 
-performing industry research and know the client. In addition, the team should also 
-make an effort to talk to Subject Matter Experts (SMEs) at Axis Group 
-for the specific client and industry.
+Annual Reports, 10K Reports, and Key Metrics should serve as sources for performing industry research and know the client. In addition, the team should also 
+make an effort to talk to Subject Matter Experts (SMEs) at Axis Group for the specific client and industry.
 
-At the end of Pre-Engagement phase, the team should established a solid understanding of 
+At the end of Pre-Engagement phase, the team should have established a solid understanding of 
 the client, the industry they are in, and the scope of the engagement. The team should 
 now be well-set to dive into the next phase of engaging with the client and understanding 
 the problem at hand. 
@@ -49,6 +46,10 @@ to better understand the problem at hand.
 ---
 
 ## Tasks/Activities in the Pre-Engagement phase:
+
+#### [Capturing Research](.../Exercises/capturing-research.md)
+The team should capture the research performed on the company, industry, business function, and client history. This will provide a paper trail for future design deicisions, and can easily be passed on to other team members to bring them up to speed. Included in this activity is the [Interview Checklist](.../Exercises/interview-checklist.md), which will serve as a running list of assumptions, key ideas, and questions relevant to the engagement. 
+
 
 #### [Pre-Kickoff Meeting](../Exercises/prekickoff.md)
 The design team should collaborate with the Solutions Director (SD) to discuss and 
