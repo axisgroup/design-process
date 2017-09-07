@@ -32,15 +32,29 @@ Ask obvious questions and embrace the beginners mind.
 * Industry and Client research: 
 The team should perform industry research to determine trends, and understand industry standards and best practices.
 The team should also perform extensive research on the client, understand their business process(es), and their competitors.
+Additionally, the team should view pre-existing solutions that may already exist, in order to eliminate the need to 're-invent the wheel' and save time and effort. 
 
-* Reviewing pre-existing solutions to similar problems:
-Looking at pre-existing solutions is crucial for the team to better understand the problem, and know industry standards.
-This would save time and effort by eliminating the need to 're-invent the wheel' while also channeling the team's general understanding of the end goal.
+* Reviewing client's currently existing solution:
+Looking at the existing solution, whether it's a report or dashboard, is crucial in understanding how users are accustomed to viewing information. The team ought to use the existing solution to evaluate where the gap is between a user's need and a user's reality. 
+Questions should be drafted around the existing solution to determine what its purpose is, how it fits into a general workflow, and where its pain points are.
 
-* Schedule Interviews : 
+* Schedule Interviews: 
 The team should have already scheduled and confirmed interviews with multiple resources, at various levels, from client-side.
 
-###### Outputs/Artifacts:
+* Interview Checklist:
+The team should have started the interview checklist, which includes any assumptions, key ideas, and questions that were formed during the Pre-Engagement phase. This checklist will evolve with the project, with items being added and resolved as the engagement progresses. It will also serve useful as a paper trail for future design decisions.
+The team should use this checklist to help guide interviews and keep track of what is learned.
+
+###### Outputs/Artifacts: 
+
+* Raw Notes:
+All team members present at a meeting ought to upload raw notes to a central repository such as SharePoint. 
+
+* Interview Checklist Changes:
+The raw notes can be used to update the interview checklist. Design members can decide which assumptions have been addressed, what key ideas an themes were mentioned, and what new questions have arisen. 
+
+* Follow-Up Email
+After a period of debriefing, the design lead should send a Thank You email to the people that were interviewed and include, if possible, a brief list of key items learned, or any pending questions that still exist. 
 
 ---
 
@@ -91,10 +105,16 @@ will be pertinent to the tasks at hand, but others, although interesting, won’
 be. We will capture these good but not immediately relevant ‘back-burner ideas’
 on a sticky note board.
 
+### Interview Techniques:
+
+#### [Standard Set of Questions](../Exercises/standard-questions.md)
+
 #### [Open Card Sorting](../Exercises/card-sorting.md)
 
 Card sorting helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
 It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
+
+#### [Observation](.../Exercises/observation.md)
 
 --
 ### [Schedule for Understand](SCHEDULE.md)

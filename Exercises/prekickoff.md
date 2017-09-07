@@ -6,7 +6,7 @@ The design team should collaborate with both the Solutions Director (SD) as well
 
 #### 1. Debrief with SD
 * Walk through the SOW to learn about the project's scope, goals, deliverables, schedule, time frame, background, and the users / stakeholders.
-* Identify who the Project Champion is. The Project Champion will be someone from the client who has skin in the game and will whatever is needed to ensure that the engagement succeeds.
+* Identify who the Project Champion is. The Project Champion will be someone from the client who has 'skin in the game' and will do whatever is needed to ensure that the engagement succeeds.
 
 #### 2. Set up a “Pre-Kickoff Meeting” with the Project Champion
 * Confirm that the scope is still relevant, particularly because things may have changed since the SOW was first drafted.

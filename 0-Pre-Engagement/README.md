@@ -50,7 +50,7 @@ to better understand the problem at hand.
 
 ## Tasks/Activities in the Pre-Engagement phase:
 
-#### [Pre-Kickoff Meeting](PREKICKOFF.md)
+#### [Pre-Kickoff Meeting](../Exercises/prekickoff.md)
 The design team should collaborate with the Solutions Director (SD) to discuss and 
 thoroughly understand the Statement of Work (SOW). This shall ensure a common grounds of
 understanding the 'job to be done.'
