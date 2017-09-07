@@ -36,7 +36,7 @@ on the end goal.
 ###### Outputs/Artifacts:
 
 * Capture Industry and Client Research:
-The team should document research outcomes as they would be useful in furture phases to 
+The team should document research outcomes as they would be useful in future phases to 
 ensure that the team has common grounds for formulating assumptions and identifying risks.
 Capturing research shall also serve as a repository for any similar sprints in future.
 
