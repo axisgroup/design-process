@@ -28,6 +28,10 @@ for you to create a simple image map for your users. Because it takes mockups it
 allows for you to create designs that look more visually appealing or visually
 complete.
 
+#### QlikSense
+QlikSense is a great way to create prototypes that could be interactive and workable 
+with dummy data to show how data talks to one another.
+
 #### HTML & CSS
 
 HTML & CSS prototypes tend to be the most time consuming but are best for
