@@ -29,14 +29,14 @@ handy during this phase.
 
 * Statement of Work (SOW): 
 This is a formal scope of work approved by Axis Group and the client. This document
-encompasses the scope of the design engagement and helps narrow the team;s focus 
+encompasses the scope of the design engagement and helps narrow the team's focus 
 on the end goal.
 
 
 ###### Outputs/Artifacts:
 
 * Capture Industry and Client Research:
-The team should document research outcomes as they would be useful in furture phases to 
+The team should document research outcomes as they would be useful in future phases to 
 ensure that the team has common grounds for formulating assumptions and identifying risks.
 Capturing research shall also serve as a repository for any similar sprints in future.
 
@@ -50,7 +50,7 @@ to better understand the problem at hand.
 
 ## Tasks/Activities in the Pre-Engagement phase:
 
-#### [Pre-Kickoff Meeting](../Exercises/card-sorting.md)
+#### [Pre-Kickoff Meeting](PREKICKOFF.md)
 The design team should collaborate with the Solutions Director (SD) to discuss and 
 thoroughly understand the Statement of Work (SOW). This shall ensure a common grounds of
 understanding the 'job to be done.'
