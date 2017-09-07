@@ -47,7 +47,7 @@ to better understand the problem at hand.
 
 ## Tasks/Activities in the Pre-Engagement phase:
 
-#### [Capturing Research](.../Exercises/capturing-research.md)
+#### [Capturing Research](../Exercises/capturing-research.md)
 The team should capture the research performed on the company, industry, business function, and client history. This will provide a paper trail for future design deicisions, and can easily be passed on to other team members to bring them up to speed. Included in this activity is the [Interview Checklist](.../Exercises/interview-checklist.md), which will serve as a running list of assumptions, key ideas, and questions relevant to the engagement. 
 
 
