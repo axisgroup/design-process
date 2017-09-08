@@ -53,12 +53,14 @@ All team members present at a meeting ought to upload raw notes to a central rep
 * Interview Checklist Changes:
 The raw notes can be used to update the interview checklist. Design members can decide which assumptions have been addressed, what key ideas an themes were mentioned, and what new questions have arisen. 
 
-* Follow-Up Email
+* Follow-Up Email:
 After a period of debriefing, the design lead should send a Thank You email to the people that were interviewed and include, if possible, a brief list of key items learned, or any pending questions that still exist. 
 
 ---
 
 ## Tasks/Activities in the Understand phase:
+
+### Internal Design Team Techniques:
 
 #### [Needs / Wants / Desires](../Exercises/needs-wants-desires.md)
 
@@ -109,12 +111,16 @@ on a sticky note board.
 
 #### [Standard Set of Questions](../Exercises/standard-questions.md)
 
+Sometimes we won't have enough time in the Pre-Engagement phase to do all the background research necessary for drafting more specific and tailored questions. In those scenarios, use this standard set of questions to start off an interview and gain a good understanding of the user's need. 
+
 #### [Open Card Sorting](../Exercises/card-sorting.md)
 
-Card sorting helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
+Card sorting with the client helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
 It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
 
 #### [Observation](.../Exercises/observation.md)
+
+Observation of the user's typical interaction with the existing solution is useful in providing context. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's true workflow and the ways their needs are and aren't being met.  
 
 --
 ### [Schedule for Understand](SCHEDULE.md)
