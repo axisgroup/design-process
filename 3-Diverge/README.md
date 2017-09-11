@@ -11,6 +11,16 @@ forward with because we have explored so many alternatives.
 
 * Have a mindset of "Yes" and constantly ask “How might we?”
 
+###### Inputs/Prerequisites:
+
+* Personas and Key Questions: 
+The team should familiarize themselves with each persona's goals, tasks, and key questions, as these are what will lay the groundwork for the Diverge phase. 
+
+###### Outputs/Artifacts:
+
+* Rough Sketches of Ideas
+Each team member should organize their ideas on either paper, whiteboard, or Sketch -- whatever works best for sharing and discussion.
+
 ---
 
 ### Tasks/Activities for Diverge
@@ -21,7 +31,7 @@ individually explore the problem however they choose to.
 
 #### [Storyboards](../Exercises/storyboards.md)
 This exercise mimics a movie storyboard. You'll be drawing a flow for the user
-by using Post-its as frames and writing out out a description next to it.
+by using Post-its as frames and writing out out a description next to it. This can help provide a framework for understanding how specific objects and screens can relate to each other when viewing the dashboard as a whole. 
 
 #### [Silent Critique](../Exercises/silent-critique.md)
 This critique exercise is a way to get everyones input in a short amount of
