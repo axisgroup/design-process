@@ -9,7 +9,7 @@ It's ideal to schedule interviews and request materials soon after the pre-kicko
 
 ---
 
-##Email Template for Scheduling Interviews
+## Email Template for Scheduling Interviews
 
 Hi [Name],
 
