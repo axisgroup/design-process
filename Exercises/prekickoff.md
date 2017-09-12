@@ -7,7 +7,11 @@ The design team should collaborate with both the Solutions Director (SD) as well
 ## Instructions
 
 #### 1. Debrief with SD
-* Walk through the SOW to learn about the project's scope, goals, deliverables, schedule, time frame, background, and the users / stakeholders.
+* Walk through the SOW to learn about the project's scope, goals, deliverables, schedule, time frame, background, and the users / stakeholders. Critical numbers for the egagement: 
+  * number of Personas
+  * number of Views/Screens with consideration of the platform
+  * number of Iterations  
+The designer needs to make sure these numbers are achievable within the time frame, and raise any potential risks. 
 * Identify who the Project Champion is. The Project Champion will be someone from the client who has 'skin in the game' and will do whatever is needed to ensure that the engagement succeeds.
 
 #### 2. Set up a “Pre-Kickoff Meeting” with the Project Champion
