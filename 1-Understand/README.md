@@ -69,17 +69,17 @@ Start with a feature wish list and condense into columns of priority for
 love to have someday...). This activity is great for ironing out which features
 are most important and which could potentially be put on the back burner list.
 
+#### [Problem Statement/5 W's](../Exercises/problem-statement.md)
+
+Identifying the problem will help to determine if there is a problem, if that
+problem is solvable, and how to solve that problem. This step will be the first
+step to answering this question: What is this solution, and is it useful?
+
 #### [Five Whys](../Exercises/five-whys.md)
 
 This activity is meant to dig down deep into what the actual reasons are for a
 problem or what the problem actually is. It is good to use when the apparent
 problem seems to only be a symptom of a larger problem. 
-
-#### [Who / What / Where / When](../Exercises/who-what-when-where.md)
-
-This activity is meant to get consensus on what the problem that is trying to be
-solved when the opinions are widely different. It gives everyone a chance to
-voice they opinions on what. 
 
 #### [Critical Path](../Exercises/critical-path.md)
 
@@ -94,11 +94,6 @@ Throughout the Understand phase, we will ask questions we don’t have
 answers to and identify assumptions we are relying on. We will capture these
 ‘Assumptions’ on a board for later organization and analysis.
 
-#### [Problem Statement](../Exercises/problem-statement.md)
-
-Identifying the problem will help to determine if there is a problem, if that
-problem is solvable, and how to solve that problem. This step will be the first
-step to answering this question: What is this solution, and is it useful?
 
 #### [Start a Back-burner Board](../Exercises/back-burner.md)
 
