@@ -7,9 +7,7 @@ A spreadsheet is useful for capturing this information in a table format, like s
 | ------------- | ------------- | -------------			  | ------------- 	| ------------- 	| ------------- 	|
 | Assumption 	| Assumption 1  | 			  |  	|  	|  	|		
 |  				| Assumption 2  | 			  |  	|  	|  	|
-
 | Key Questions	| Question 1    |			  |  	|  	|  	|
 |  				| Question 2    |			  |  	|  	|  	|
-
 | Key Ideas		| Idea 1	    | 			  |  	|  	|  	|
 |  				| Idea 2	    |			  |  	|  	|  	|
