@@ -69,7 +69,7 @@ Start with a feature wish list and condense into columns of priority for
 love to have someday...). This activity is great for ironing out which features
 are most important and which could potentially be put on the back burner list.
 
-#### [Problem Statement/5 W's](../Exercises/problem-statement.md)
+#### [Problem Statement / Five W's](../Exercises/problem-statement.md)
 
 Identifying the problem will help to determine if there is a problem, if that
 problem is solvable, and how to solve that problem. This step will be the first
@@ -108,14 +108,15 @@ on a sticky note board.
 
 Sometimes we won't have enough time in the Pre-Engagement phase to do all the background research necessary for drafting more specific and tailored questions. In those scenarios, use this standard set of questions to start off an interview and gain a good understanding of the user's need. 
 
+#### [Observation](.../Exercises/observation.md)
+
+Observation of the user's typical interaction with the existing solution is useful in providing context. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's true workflow and the ways their needs are and aren't being met.  
+
+
 #### [Open Card Sorting](../Exercises/card-sorting.md)
 
 Card sorting with the client helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
 It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
-
-#### [Observation](.../Exercises/observation.md)
-
-Observation of the user's typical interaction with the existing solution is useful in providing context. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's true workflow and the ways their needs are and aren't being met.  
 
 --
 ### [Schedule for Understand](SCHEDULE.md)
