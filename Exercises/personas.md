@@ -16,3 +16,7 @@ The following elements should be included in a persona card:
 * Key Activities > Key Tasks
 * Key Questions to answer
 * Notes & Quotes
+
+Example:
+
+ ![Persona Large Example](/images/Persona-Large.png?raw=true "Persona Example")
