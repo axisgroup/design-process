@@ -3,11 +3,11 @@ The team should use this checklist to help guide interviews and keep track of wh
 
 A spreadsheet is useful for capturing this information in a table format, like so:
 
-| 				| 				| Who to Ask/Confirm With | Follow Up Notes | Date |
-| ------------- | ------------- | -------------			  | ------------- 	| ------------- 	|
-| Assumption 	| Assumption 1  | 			  |  	|  	|				
-|  				| Assumption 2  | 			  |  	|  	|
-| Key Ideas		| Idea 1	    | 			  |  	|  	|
-|  				| Idea 2	    |			  |  	|  	|
-| Key Questions	| Question 1    |			  |  	|  	|
-|  				| Question 2    |			  |  	|  	|
+| 				| 				| Who to Ask/Confirm With | Follow Up Notes | Date | Open/Closed |
+| ------------- | ------------- | -------------			  | ------------- 	| ------------- 	| ------------- 	|
+| Assumption 	| Assumption 1  | 			  |  	|  	|  	|		
+|  				| Assumption 2  | 			  |  	|  	|  	|
+| Key Ideas		| Idea 1	    | 			  |  	|  	|  	|
+|  				| Idea 2	    |			  |  	|  	|  	|
+| Key Questions	| Question 1    |			  |  	|  	|  	|
+|  				| Question 2    |			  |  	|  	|  	|
