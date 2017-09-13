@@ -59,6 +59,7 @@ A5.4 We assumed that the benefits were obvious.
 Q5.5 Why was there was insufficient planning?
 A5.5 Top management were too busy fire fighting and dealing with operational work, rather than developing a strategy.
 
-To map everything together:
+
+#### To map everything together: ####
 
 ![Five Whys](/images/five-whys.png?raw-true "Five Whys")
