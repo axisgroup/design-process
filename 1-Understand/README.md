@@ -75,12 +75,6 @@ Identifying the problem will help to determine if there is a problem, if that
 problem is solvable, and how to solve that problem. This step will be the first
 step to answering this question: What is this solution, and is it useful?
 
-#### [Five Whys](../Exercises/five-whys.md)
-
-This activity is meant to dig down deep into what the actual reasons are for a
-problem or what the problem actually is. It is good to use when the apparent
-problem seems to only be a symptom of a larger problem. 
-
 #### [Critical Path](../Exercises/critical-path.md)
 
 As a group, use your common understanding to collaboratively map out the user
@@ -88,14 +82,11 @@ story that’s important in this sprint. The facilitator (or another volunteer)
 should stand at the whiteboard and sketch the flow. This doesn’t have to be
 fancy to be useful.
 
-#### [Start an Assumptions Board](../Exercises/assumptions.md)
+#### [Interview Checklist](../Exercises/interview-checklist.md)
 
 Throughout the Understand phase, we will ask questions we don’t have
 answers to and identify assumptions we are relying on. We will capture these
-‘Assumptions’ on a board for later organization and analysis.
-
-
-#### [Start a Back-burner Board](../Exercises/back-burner.md)
+assumptions and questions for later organization and analysis.
 
 We will also be generating a lot of ideas throughout the week. Some of the ideas
 will be pertinent to the tasks at hand, but others, although interesting, won’t
@@ -117,6 +108,13 @@ Observation of the user's typical interaction with the existing solution is usef
 
 Card sorting with the client helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
 It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
+
+
+#### [Five Whys](../Exercises/five-whys.md)
+
+This activity is meant to dig down deep into what the actual reasons are for a
+problem or what the problem actually is. It is good to use when the apparent
+problem seems to only be a symptom of a larger problem. 
 
 --
 ### [Schedule for Understand](SCHEDULE.md)
