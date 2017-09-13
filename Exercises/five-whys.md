@@ -10,7 +10,9 @@ Steps:
 
 #### Question 1 ####
 Q1. Why are processing of jobs delayed?	
+
 A1.1 There is no computerized solution to handle job applications.
+
 A1.2 There was no formal set of procedures to handle job requests, and procedures were passed on by mouth as opposed to being documented.
 
 #### Question 2 ####
