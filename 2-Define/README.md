@@ -58,7 +58,7 @@ the business process that the design engagement aims to address.
 
 ## Methods/Techniques in the Define phase:
 
-#### [Create Personas](../Exercises/personas.md)
+#### [Personas](../Exercises/personas.md)
 
 Creating personas help categorize and segment various aspects of the problem and their 
 desired solution. They aid in providing personal caracteristics and attributes to 
@@ -77,7 +77,7 @@ design engagement towards solving problems that affect daily tasks of clients.
 #### [Task Analysis](../Exercises/task-analysis.md)
 Task analysis is the process of learning how the users perform their tasks and achieve the intended goals. It helps the designer decide the tasks the solution needs to support and define the navigation and workflow. 
 
-#### [Analyze the Business Process](../Exercises/analyze-process.md)
+#### [Business Process Map](../Exercises/analyze-process.md)
 The team should make efforts to model the business process that serves as the basis of the 
 problem at hand. This shall help determine any missing aspects or loopholes in the understanding 
 and could also help realize potential risks.
