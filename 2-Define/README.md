@@ -66,6 +66,14 @@ multiple viewpoints of the problem that the team as well as clients could easily
 Creating personas should be a comprehensive task that takes all outcomes of interviews
 with the client and assumptions, bundled into a relatable use case.
 
+#### [Problem Statement](../Exercises/problem-statement.md)
+Identifying the problem will help to determine if there is a problem, if that problem is solvable, and how to solve that problem. This step will be the first step to answering this question: What is this solution, and is it useful?
+
+#### [Create Scenarios](../Exercises/scenarios.md)
+Creating user scenarios help narrow down the efforts of the team to understand aspects of 
+the problem that affect clients business process. These scenarios channel efforts of the 
+design engagement towards solving problems that affect daily tasks of clients.
+
 #### [Task Analysis](../Exercises/task-analysis.md)
 Task analysis is the process of learning how the users perform their tasks and achieve the intended goals. It helps the designer decide the tasks the solution needs to support and define the navigation and workflow. 
 
@@ -74,13 +82,8 @@ The team should make efforts to model the business process that serves as the ba
 problem at hand. This shall help determine any missing aspects or loopholes in the understanding 
 and could also help realize potential risks.
 
-#### [Create Scenarios](../Exercises/scenarios.md)
-Creating user scenarios help narrow down the efforts of the team to understand aspects of 
-the problem that affect clients business process. These scenarios channel efforts of the 
-design engagement towards solving problems that affect daily tasks of clients.
-
-
-
+#### [Critical Path](../Exercises/critical-path.md)
+As a group, use your common understanding to collaboratively map out the user story that’s important in this sprint. The facilitator (or another volunteer) should stand at the whiteboard and sketch the flow. This doesn’t have to be fancy to be useful.
 
 
 --
