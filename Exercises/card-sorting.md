@@ -22,6 +22,7 @@ To run a card sorting session, the team needs to first define what the cards rep
   * Measure by Dimension
 * Tasks
 * Reports
+* Ideas (for Diverge phase)
 * Etc.
 
 #### What could the categories be
