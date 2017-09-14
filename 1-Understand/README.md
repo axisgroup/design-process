@@ -60,33 +60,8 @@ After a period of debriefing, the design lead should send a Thank You email to t
 
 ## Tasks/Activities in the Understand phase:
 
-### Internal Design Team Techniques:
 
-#### [Problem Statement / Five W's](../Exercises/problem-statement.md)
-
-Identifying the problem will help to determine if there is a problem, if that
-problem is solvable, and how to solve that problem. This step will be the first
-step to answering this question: What is this solution, and is it useful?
-
-#### [Critical Path](../Exercises/critical-path.md)
-
-As a group, use your common understanding to collaboratively map out the user
-story that’s important in this sprint. The facilitator (or another volunteer)
-should stand at the whiteboard and sketch the flow. This doesn’t have to be
-fancy to be useful.
-
-#### [Interview Checklist](../Exercises/interview-checklist.md)
-
-Throughout the Understand phase, we will ask questions we don’t have
-answers to and identify assumptions we are relying on. We will capture these
-assumptions and questions for later organization and analysis.
-
-We will also be generating a lot of ideas throughout the week. Some of the ideas
-will be pertinent to the tasks at hand, but others, although interesting, won’t
-be. We will capture these good but not immediately relevant ‘back-burner ideas’
-on a sticky note board.
-
-### Interview Techniques:
+### Techniques:
 
 #### [Standard Set of Questions](../Exercises/standard-questions.md)
 
@@ -108,6 +83,19 @@ It is useful for working through user flow, moving features to the back burner b
 This activity is meant to dig down deep into what the actual reasons are for a
 problem or what the problem actually is. It is good to use when the apparent
 problem seems to only be a symptom of a larger problem. 
+
+
+#### [Interview Checklist](../Exercises/interview-checklist.md)
+
+Throughout the Understand phase, we will ask questions we don’t have
+answers to and identify assumptions we are relying on. We will capture these
+assumptions and questions for later organization and analysis.
+
+We will also be generating a lot of ideas throughout the week. Some of the ideas
+will be pertinent to the tasks at hand, but others, although interesting, won’t
+be. We will capture these good but not immediately relevant ‘back-burner ideas’
+on a sticky note board.
+
 
 --
 ### [Schedule for Understand](SCHEDULE.md)
