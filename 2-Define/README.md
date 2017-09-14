@@ -56,7 +56,7 @@ the business process that the design engagement aims to address.
 
 ---
 
-## Tasks/Activities in the Define phase:
+## Methods/Techniques in the Define phase:
 
 #### [Create Personas](../Exercises/personas.md)
 
@@ -78,6 +78,10 @@ and could also help realize potential risks.
 Creating user scenarios help narrow down the efforts of the team to understand aspects of 
 the problem that affect clients business process. These scenarios channel efforts of the 
 design engagement towards solving problems that affect daily tasks of clients.
+
+
+
+
 
 --
 ### [Schedule for Define](SCHEDULE.md)
