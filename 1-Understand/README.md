@@ -62,13 +62,6 @@ After a period of debriefing, the design lead should send a Thank You email to t
 
 ### Internal Design Team Techniques:
 
-#### [Needs / Wants / Desires](../Exercises/needs-wants-desires.md)
-
-Start with a feature wish list and condense into columns of priority for
-"Needs"(aka Must Haves, Top Priority), "Wants"(Nice to Haves), "Desires" (Would
-love to have someday...). This activity is great for ironing out which features
-are most important and which could potentially be put on the back burner list.
-
 #### [Problem Statement / Five W's](../Exercises/problem-statement.md)
 
 Identifying the problem will help to determine if there is a problem, if that
