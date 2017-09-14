@@ -66,10 +66,8 @@ multiple viewpoints of the problem that the team as well as clients could easily
 Creating personas should be a comprehensive task that takes all outcomes of interviews
 with the client and assumptions, bundled into a relatable use case.
 
-#### [Analyze Tasks](../Exercises/analyze-tasks.md)
-Analyzing tasks on hand helps channel efforts of the team towards tackling a central problem.
-It helps clearly divide problems and responsibilities while providing clarity of the 
-'job to be done.'
+#### [Task Analysis](../Exercises/task-analysis.md)
+Task analysis is the process of learning how the users perform their tasks and achieve the intended goals. It helps the designer decide the tasks the solution needs to support and define the navigation and workflow. 
 
 #### [Analyze the Business Process](../Exercises/analyze-process.md)
 The team should make efforts to model the business process that serves as the basis of the 
