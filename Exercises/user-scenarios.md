@@ -15,6 +15,7 @@ And details, like:
 A user scenario is similar to task analysis as in they both describe the tasks a user needs to perform to achive a goal. However, a user scenario is more elaborated and focused more an the interaction with the intended solution. It's a great exercise for the team to tell a story to the user. 
 
 
+
 Example:
 
 Harriet, a local art event organizer, has a problem: she needs to find a great film for her December event. Getting into her psyche, Harriet is specifically looking for a film with a winter theme. Her motivation might be that she needs to attract a larger-than-average attendance to make up for a small failure at the last screening.
