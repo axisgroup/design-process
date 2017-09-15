@@ -83,7 +83,7 @@ design engagement towards solving problems that affect daily tasks of clients.
 #### [Task Analysis](../Exercises/task-analysis.md)
 Task analysis is the process of learning how the users perform their tasks and achieve the intended goals. It helps the designer decide the tasks the solution needs to support and define the navigation and workflow. 
 
-#### [Business Process](../Exercises/analyze-process.md)
+#### [Business Process Mapping](../Exercises/analyze-process.md)
 The team should make efforts to model the business process that serves as the basis of the 
 problem at hand. This shall help determine any missing aspects or loopholes in the understanding 
 and could also help realize potential risks.
