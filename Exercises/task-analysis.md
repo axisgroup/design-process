@@ -9,6 +9,6 @@ Task anslysis can start from high level tasks to accomplish the intended goal, l
 
 In the world of dashboard design, the tasks can take one specific form - to answer key questions, which can lead to visualization ideas. Therefore, instead of mapping tasks, the team can also map out key questions a user needs to answer. 
 
-#### Example of key question mapping
+#### Example:
 
 ![Key Question Mapping](/images/path-of-questions.png?raw=true "Key Question Mapping")
