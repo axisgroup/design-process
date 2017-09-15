@@ -2,10 +2,12 @@ Task analysis is an exercise that enables the team understand the tasks and subt
 
 #### Example:
 
-![Task Analysis Example](/images/task-analysis.jpeg?raw=true "Task Analysis Example")
+![Task Analysis Sequencial](/images/task-analysis.jpeg?raw=true "Task Analysis Sequencial")
 
 
 Task anslysis can start from high level tasks to accomplish the intended goal, like "to monitor sales performance". Then decompose high level tasks to subtasks, like "to compare the YoY variance% of sales across all regions". 
+
+![Task Analysis Hierarchical](/images/task-analysis-2.jpg?raw=true "Task Analysis Hierarchical")
 
 In the world of dashboard design, the tasks can take one specific form - to answer key questions, which can lead to visualization ideas. Therefore, instead of mapping tasks, the team can also map out key questions a user needs to answer. 
 
