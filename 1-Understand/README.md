@@ -63,29 +63,29 @@ After a period of debriefing, the design lead should send a Thank You email to t
 
 ### Techniques:
 
-#### [Standard Set of Questions](../Exercises/standard-questions.md)
+#### [Standard Set of Questions](../1-Understand/Exercises/standard-questions.md)
 
 Sometimes we won't have enough time in the Pre-Engagement phase to do all the background research necessary for drafting more specific and tailored questions. In those scenarios, use this standard set of questions to start off an interview and gain a good understanding of the user's need. 
 
-#### [Observation](.../Exercises/observation.md)
+#### [Observation](.../1-Understand/Exercises/observation.md)
 
 Observation of the user's typical interaction with the existing solution is useful in providing context. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's true workflow and the ways their needs are and aren't being met.  
 
 
-#### [Card Sorting](../Exercises/card-sorting.md)
+#### [Card Sorting](../1-Understand/Exercises/card-sorting.md)
 
 Card sorting with the client helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
 It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
 
 
-#### [Five Whys](../Exercises/five-whys.md)
+#### [Five Whys](../1-Understand/Exercises/five-whys.md)
 
 This activity is meant to dig down deep into what the actual reasons are for a
 problem or what the problem actually is. It is good to use when the apparent
 problem seems to only be a symptom of a larger problem. 
 
 
-#### [Interview Checklist](../Exercises/interview-checklist.md)
+#### [Interview Checklist](../1-Understand/Exercises/interview-checklist.md)
 
 Throughout the Understand phase, we will ask questions we don’t have
 answers to and identify assumptions we are relying on. We will capture these
