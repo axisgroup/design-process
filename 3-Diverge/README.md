@@ -9,7 +9,7 @@ inspiration. Also, once we begin eliminating as many of these options as
 possible we are given reason to be more confident in the options we do move
 forward with because we have explored so many alternatives.
 
-* Have a mindset of "Yes" and constantly ask �How might we?�
+* Have a mindset of "Yes" and constantly ask “How might we?”
 
 ###### Inputs/Prerequisites:
 
@@ -25,20 +25,19 @@ Each team member should organize their ideas on either paper, whiteboard, or Ske
 
 ### Tasks/Activities for Diverge
 
-#### [Mind Mapping](../Exercises/mind-mapping.md)
+#### [Mind Mapping](../3-Diverge/Exercises/mind-mapping.md)
 A warm up exercise to start generating ideas. People are given time to
 individually explore the problem however they choose to.
 
-#### [Storyboards](../Exercises/storyboards.md)
-This exercise mimics a movie storyboard. You'll be drawing a flow for the user
-by using Post-its as frames and writing out out a description next to it. This can help provide a framework for understanding how specific objects and screens can relate to each other when viewing the dashboard as a whole. 
+#### [Crazy Eights](../3-Diverge/Exercises/crazy-8s.md)
+Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes a sheet of printer paper, folds it in half 3 times to get 8 rectangles. They then have 5 minutes to sketch out ideas for a specific feature or flow in a product. After they’re done, they share with the team.
 
-#### [Silent Critique](../Exercises/silent-critique.md)
+#### [Silent Critique](../3-Diverge/Exercises/silent-critique.md)
 This critique exercise is a way to get everyones input in a short amount of
 time. At the end of the exercise you'll have a heat map of the ideas people find
 really interesting.
 
-#### [Group Critique](../Exercises/group-critique.md)
+#### [Group Critique](../3-Diverge/Exercises/group-critique.md)
 
 This critique exercise is more open and allows for a more detailed conversation.
 It gives the person that came up with the idea to add any remaining details or
