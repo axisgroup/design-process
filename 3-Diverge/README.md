@@ -28,16 +28,6 @@ Each team member should organize their ideas on either paper, whiteboard, or Ske
 #### [Crazy Eights](../3-Diverge/Exercises/crazy-8s.md)
 Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes a sheet of printer paper, folds it in half 3 times to get 8 rectangles. They then have 5 minutes to sketch out ideas for a specific feature or flow in a product. After they’re done, they share with the team.
 
-#### [Silent Critique](../3-Diverge/Exercises/silent-critique.md)
-This critique exercise is a way to get everyones input in a short amount of
-time. At the end of the exercise you'll have a heat map of the ideas people find
-really interesting.
-
-#### [Group Critique](../3-Diverge/Exercises/group-critique.md)
-
-This critique exercise is more open and allows for a more detailed conversation.
-It gives the person that came up with the idea to add any remaining details or
-correct any wrong interpretations.
 
 --
 ### [Schedule for Diverge](SCHEDULE.md)
