@@ -1,7 +1,13 @@
-Everybody folds a blank sheet of paper in half three times, then unfolds it, so they get eight panels. Then you have 5 minutes total to draw eight sketches, one in each panel. It sounds crazy but it’s a great way to crank out variations of ideas quickly. And since these aren’t shared with the group, there’s no need to worry about making them pretty.
+Crazy 8’s is a core sprint method. It’s a fast sketching exercise that challenges people to sketch 8 ideas in 8 minutes (not 8 variations of one idea or 8 steps of one idea, but 8 distinct ideas). The goal is to push beyond your first idea, which is frequently not the most innovative, and generate a wide variety of solutions to your challenge.
 
-Since you only have 40 seconds for each drawing, you’ll need to turn off the self-editing and just get your ideas on paper. Crazy Eights will also help loosen up your creative muscles and make you more productive in subsequent sketching exercises. If you get stuck, try repeating an earlier sketch with a small variation — this type of exploration is useful and it keeps you moving.
+Some team members without a design background might find this method intimidating at first, so it’s helpful to reassure everyone that these are rough sketches. They don’t need to be perfect or beautiful— they just need to communicate the idea. If necessary, you could even hold a quick “how to sketch” tutorial session. It’s also important to remember that the ideas don’t have to be great- the exercise is about quieting the inner critic and giving space to our more creative impulses. Weird, impossible, and impractical ideas often give way to truly inspired ones. It’s called Crazy 8's for a reason-- go nuts!
 
 Example:
 
 ![Crazy Eights](/images/crazy-8s.jpg?raw=true "Crazy Eights")
+
+Reference: 
+
+https://designsprintkit.withgoogle.com/methods/sketch/crazy-8s/
+
+https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0
