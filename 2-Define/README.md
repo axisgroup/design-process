@@ -72,6 +72,11 @@ An empathy map is a collaborative tool teams can use to gain a deeper insight in
 #### [Organization Chart](../2-Define/Exercises/org-chart.md)
 An organization chart helps the designer clarify the relationship between different personas/roles within the client's organization, and provide a baseline for prioritizing needs or grouping information. It is especially helpful when many personas or multiple business functions are involved in the Understand phase.
 
+#### [Card Sorting](../2-Define/Exercises/card-sorting.md)
+
+Card sorting with the client helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
+It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
+
 #### [Problem Statement](../2-Define/Exercises/problem-statement.md)
 Identifying the problem will help to determine if there is a problem, if that problem is solvable, and how to solve that problem. This step will be the first step to answering this question: What is this solution, and is it useful?
 
