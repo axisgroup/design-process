@@ -1,5 +1,7 @@
-A mind mapping exercise is pretty much a quiet individual brainstorm session, where you write down or draw on paper everything in your mind with no specific formatting. You can write words and connect them or not, you can draw pictures or not. The important thing is that everyone is getting every solution, old and new, out of their head and onto paper at very low fidelity.
+A mind mapping exercise is a quiet individual brainstorm session, where you write or draw every thought in your mind with no specific order or formatting. The thoughts could be connected, or could be not. The key is to lay out all the thoughts as a pathway or map to possible solutions. 
 
 Example:
 
 ![Mind Map](/images/mind-map.jpg?raw=true "Mind Map")
+
+Reference: https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0
