@@ -72,12 +72,6 @@ Sometimes we won't have enough time in the Pre-Engagement phase to do all the ba
 Observation of the user's typical interaction with the existing solution is useful in providing context. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's true workflow and the ways their needs are and aren't being met.  
 
 
-#### [Card Sorting](../1-Understand/Exercises/card-sorting.md)
-
-Card sorting with the client helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
-It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
-
-
 #### [Five Whys](../1-Understand/Exercises/five-whys.md)
 
 This activity is meant to dig down deep into what the actual reasons are for a
