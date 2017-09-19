@@ -1,4 +1,4 @@
-Affinity mapping, also know as affinity diagram, is a great way to gather information from the users and can also be used to categorize information afterwards. Here's a brief description of the process:
+Affinity mapping, also know as affinity diagram, is a great way to gather information from the users and then categorize them into meaningful groups. Here's a brief description of the process:
 
 * A designer will play the role of the facilitator and write down questions on a big whiteboard, like 
   * What's the first thing you look at on a typical Monday morning?
@@ -10,6 +10,8 @@ Affinity mapping, also know as affinity diagram, is a great way to gather inform
 * The group talk through their answers.
 * Rearrange the sticky notes to explore meaningful themes.
 * Name themes and finish affinity diagram.
+
+This exercise isn't limited to the Understand phase, but also can be applied in the Diverge phase. The team can use this approach to collect and group visual concepts. 
 
 Example:
 
