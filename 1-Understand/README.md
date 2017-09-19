@@ -91,6 +91,11 @@ be. We will capture these good but not immediately relevant ‘back-burner ideas
 on a sticky note board.
 
 
+#### [Affinity Mapping](../1-Understand/Exercises/affinity-mapping.md)
+An Affinity Diagram is a tool that gathers large amounts of language data (ideas,
+opinions, issues) and organizes them into groupings based on their natural
+relationships.
+
 --
 ### [Schedule for Understand](SCHEDULE.md)
 ### [Examples of Understand phase](EXAMPLES.md)
