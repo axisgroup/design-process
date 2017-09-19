@@ -1,2 +1,0 @@
-Everybody gathers around the ideas one at a time. First, people talk about what they liked, then we ask the person who drew it if we missed anything important. Usually the best, most popular ideas are the ones people can understand without an explanation, so the author of the storyboard often doesn’t have anything else to add. This process works far better than letting people explain their ideas first — which almost always uses up a lot of time.
-
