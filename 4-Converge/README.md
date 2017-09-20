@@ -19,21 +19,39 @@ should help the team engage this conversation.
 
 ### Tasks/Activities for Converge
 
-#### Identify Conflicts
+#### [Silent Critique](../4-converge/Exercises/silent-critique.md)
+This critique exercise is a way to get everyones input in a short amount of
+time. At the end of the exercise you'll have a heat map of the ideas people find
+really interesting.
 
-Throughout Diverge there should have been many conflicting ideas.
-A conflict is a place where there are two or more different approaches
-to solving the same problem.
-Conflicting approaches are helpful because they
-illuminate possible choices for your product.
+#### [Three Minute Critiques](../4-converge/Exercises/3-minute-critiques.md)
 
-#### [Assumption / Test Table](../Exercises/assumptions.md)
+This critique exercise is more open and allows for a more detailed conversation.
+It gives the person that came up with the idea to add any remaining details or
+correct any wrong interpretations.
 
-Review all of the Assumptions that have been collected over the course of the
-sprint. Decide a plan to test them and decide how to determine from the test if
-it is valid or not.
+#### Group Concepts into Views
 
-#### [Back Burner Board](../Exercises/back-burner.md)
+After visualization concepts are developed, the team needs to group the concepts into different views. They could be grouped by
+* business function
+* persona
+* time frame
+* Type of analysis
+* etc.
+
+The groupings could potentially become the different views in the application. The team should discuss and weigh out the pros and cons of each group of views. Then decide which views the app should have, and what the workflow should be. 
+
+#### [Map Personas to Views](../Exercises/personas-to-views.md)
+
+After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the  process. 
+
+#### Concept Review with Client
+
+Reviewing visualization concepts with the client allows the team to validate the usefulness, usability, and desiredness of their ideas. It is also a check point for the team to confirm whether we're on the right track or not in general. 
+
+The concepts don't need to be high fidelity for this review, but they should be presentable and organized in a meaningful way. Potential views and the mapping between personas and views can also be reviewed by the client for validation purpose. 
+
+#### Back Burner Board
 
 As a group review all the Back burner ideas. Document the ones that are still
 applicable and throw away any that aren't.
