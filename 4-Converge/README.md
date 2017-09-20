@@ -19,12 +19,12 @@ should help the team engage this conversation.
 
 ### Tasks/Activities for Converge
 
-#### [Silent Critique](../4-converge/Exercises/silent-critique.md)
+#### [Silent Critique](../4-Converge/Exercises/silent-critique.md)
 This critique exercise is a way to get everyones input in a short amount of
 time. At the end of the exercise you'll have a heat map of the ideas people find
 really interesting.
 
-#### [Three Minute Critiques](../4-converge/Exercises/3-minute-critiques.md)
+#### [Three Minute Critiques](../4-Converge/Exercises/3-minute-critiques.md)
 
 This critique exercise is more open and allows for a more detailed conversation.
 It gives the person that came up with the idea to add any remaining details or
@@ -41,7 +41,7 @@ After visualization concepts are developed, the team needs to group the concepts
 
 The groupings could potentially become the different views in the application. The team should discuss and weigh out the pros and cons of each group of views. Then decide which views the app should have, and what the workflow should be. 
 
-#### [Map Personas to Views](../Exercises/personas-to-views.md)
+#### [Map Personas to Views](../4-Converge/Exercises/personas-to-views.md)
 
 After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the  process. 
 
@@ -56,7 +56,7 @@ The concepts don't need to be high fidelity for this review, but they should be 
 As a group review all the Back burner ideas. Document the ones that are still
 applicable and throw away any that aren't.
 
-#### [Final Storyboard](../Exercises/storyboards.md)
+#### [Final Storyboard](../4-Converge/Exercises/storyboards.md)
 
 In this case the Storyboard should be a team effort and should focus
 on what the team will be prototyping. This should be done on a whiteboard so
