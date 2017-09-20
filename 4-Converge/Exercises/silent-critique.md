@@ -2,7 +2,9 @@ Silent critique is an exercise where the group gather around the developed conce
 
 Example:
 
-![Silent Critiques](/images/silent-critiques.png?raw=true "Silent Critiques")
+![Silent Critique](/images/silent-critiques.png?raw=true "Silent Critique")
+
+![Silent Critique Equifax](/images/silent-critique-equifax.jpg?raw=true "Silent Critique Equifax")
 
 image from:
 https://robots.thoughtbot.com/ios-coaching-product-design-sprint
