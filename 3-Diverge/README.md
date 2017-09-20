@@ -25,12 +25,15 @@ Each team member should organize their ideas on either paper, whiteboard, or Ske
 
 ### Tasks/Activities for Diverge
 
+
+#### Exploratory Research
+
+Before sketching up ideas, each individual can search online for visualization examples that answer similar business questions.
+
+
 #### [Mind Mapping](/3-Diverge/Exercises/mind-mapping.md)
 A warm up exercise to start generating ideas. People are given time to individually explore the problem however they choose to.
 
-#### [Exploratory Research]
-
-Before sketching up ideas, each individual can search online for visualization examples that answer similar business questions.
 
 #### [Crazy Eights](../3-Diverge/Exercises/crazy-8s.md)
 Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes a sheet of printer paper, folds it in half 3 times to get 8 rectangles. They then have 5 minutes to sketch out ideas for a specific feature or flow in a product. After they’re done, they share with the team.
