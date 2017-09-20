@@ -56,18 +56,6 @@ The concepts don't need to be high fidelity for this review, but they should be 
 As a group review all the Back burner ideas. Document the ones that are still
 applicable and throw away any that aren't.
 
-#### [Final Storyboard](../4-Converge/Exercises/storyboards.md)
-
-In this case the Storyboard should be a team effort and should focus
-on what the team will be prototyping. This should be done on a whiteboard so
-everyone can see it.
-Start by drawing a comic book frame for each single action
-in the critical path.
-Don't worry too much about layout or design details. 
-Those can be figured out later.
-One person should be drawing but they shouldn't
-be the one figuring everything out. This
-should be a discussion between the whole sprint team.
 
 ---
 
