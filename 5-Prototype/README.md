@@ -1,36 +1,29 @@
-# Prototype: Quickly build the right path
+# Prototype
 
-The core purpose of the prototype, the assumptions you are trying to
-validate/invalidate or the knowledge gaps you are trying to fill should have all
-been discussed in [Converge](../3-Converge). During this phase you will build a
-quick and dirty prototype. Since you only have limited time to build the
-prototype it should be as low-fi as you can get away with during [Testing](../5-Test).
+During this phase, the designers will build high fidelity mockups and assemble prototype for the validation phase. For the hi-fi mockups, the designers need to iron out the layout, styles and interactions. Even though fake data is used in the mockups, the designer should still insert some realistic data for better storytelling. 
 
-During this phase roles shift. Designers are typically the ones building the
-prototype unless it is low-fi enough for everyone to contribute
-(see: [Paper Prototype](#paper-prototype)).
-Solution Directors should be in charge of getting
-realistic information, data and copy into the prototype.
-It should be clear what everyone's role is
-before the phase starts.
-The team should check in with each other as much as possible
-to make sure everything is on the right track.
 
 ---
 
 ### Tasks/Activities for Prototype
 
-#### [Invision](http://www.invisionapp.com/)
+#### Mockup with Sketch
+
+Sketch is the primary tool the team uses to create high fidelity mockups. Here are some useful resources for the team: https://drive.google.com/drive/folders/0BwLVd0W-_5qwZEZnMzRETEZ5QjA
+
+
+#### [InVision](http://www.invisionapp.com/)
 
 Invision really great for being able to take mockups from Photoshop or Sketch and
-allow for users to click through to different states or pages. Invision allows
-for you to create a simple image map for your users. Because it takes mockups it
-allows for you to create designs that look more visually appealing or visually
-complete.
+allow for users to click through different states or pages. 
 
-#### [QlikSense](http:/www.qlik.com/)
-QlikSense is a great way to create prototypes that could be interactive and workable 
-with dummy data to show how data talks to one another.
+Example of a prototype on InVision: https://invis.io/3VBJDMIGC
+
+
+#### QlikSense
+
+When mocking up a QlikSense app, it is sometimes easier build sheets directly in QlikSense, especially when there's sample data provided. The team can also explore extension objects on http://branch.qlik.com
+
 
 #### HTML & CSS
 
