@@ -41,9 +41,8 @@ Paper prototyping is as low-fi as you can get for a prototype. It is especially 
 
 Interesting debate about paper prototyping:
 
-[Paper Prototyping Is A Waste Of Time](https://library.gv.com/paper-prototyping-is-a-waste-of-time-353076395187)
-
-[If You Think Paper Prototyping Is A Waste Of Time, You're Doing It Wrong](http://uxmas.com/2014/if-you-think-paper-prototyping-is-a-waste-of-time)
+* [Paper Prototyping Is A Waste Of Time](https://library.gv.com/paper-prototyping-is-a-waste-of-time-353076395187)
+* [If You Think Paper Prototyping Is A Waste Of Time, You're Doing It Wrong](http://uxmas.com/2014/if-you-think-paper-prototyping-is-a-waste-of-time)
 
 
 ---
