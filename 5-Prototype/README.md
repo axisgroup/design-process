@@ -7,6 +7,11 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 ### Tasks/Activities for Prototype
 
+#### [Wireframe](/5-Prototype/Exercises/wireframe.md)
+
+A wireframe is a two-dimensional illustration of a page’s interface that specifically focuses on space allocation and prioritization of content, functionalities available, and intended behaviors. Wireframes typically do not include any styling, color, or graphics. Wireframes also help establish navigation between different pages within the app.
+
+
 #### Mockup with Sketch
 
 Sketch is the primary tool the team uses to create high fidelity mockups. Here are some useful resources for the team: https://drive.google.com/drive/folders/0BwLVd0W-_5qwZEZnMzRETEZ5QjA
