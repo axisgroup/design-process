@@ -12,7 +12,7 @@ During this phase, the designers will build high fidelity mockups and assemble p
 Sketch is the primary tool the team uses to create high fidelity mockups. Here are some useful resources for the team: https://drive.google.com/drive/folders/0BwLVd0W-_5qwZEZnMzRETEZ5QjA
 
 
-#### [InVision](http://www.invisionapp.com/)
+#### Prototype with InVision
 
 Invision really great for being able to take mockups from Photoshop or Sketch and
 allow for users to click through different states or pages. 
