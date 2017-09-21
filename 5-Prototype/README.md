@@ -45,10 +45,11 @@ Because the prototype is sketches on paper you are relying
 much more on the imagination of the participant.
 It gives you the ability to prototype on the fly,
 even during the session with the participant.
-Tools like [Marvel](https://marvelapp.com/apps) 
-and [POP](https://popapp.in/) can help
-present sketches on a mobile device
-or in the browser so that it seems more real.
+
+(Two interesting articles about paper prototyping:
+[Paper Prototyping Is A Waste Of Time](https://library.gv.com/paper-prototyping-is-a-waste-of-time-353076395187)
+[If You Think Paper Prototyping Is A Waste Of Time, You're Doing It Wrong](http://uxmas.com/2014/if-you-think-paper-prototyping-is-a-waste-of-time)
+
 
 ---
 ### [Schedule for Prototype](SCHEDULE.md)
