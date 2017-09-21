@@ -46,9 +46,10 @@ much more on the imagination of the participant.
 It gives you the ability to prototype on the fly,
 even during the session with the participant.
 
-(Two interesting articles about paper prototyping:
+(Interesting debate about paper prototyping:
+
 [Paper Prototyping Is A Waste Of Time](https://library.gv.com/paper-prototyping-is-a-waste-of-time-353076395187)
-[If You Think Paper Prototyping Is A Waste Of Time, You're Doing It Wrong](http://uxmas.com/2014/if-you-think-paper-prototyping-is-a-waste-of-time)
+[If You Think Paper Prototyping Is A Waste Of Time, You're Doing It Wrong](http://uxmas.com/2014/if-you-think-paper-prototyping-is-a-waste-of-time))
 
 
 ---
