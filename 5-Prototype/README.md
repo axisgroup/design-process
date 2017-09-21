@@ -9,7 +9,7 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 #### [Wireframe](/5-Prototype/Exercises/wireframe.md)
 
-A wireframe is a two-dimensional illustration of a page’s interface that specifically focuses on space allocation and prioritization of content, functionalities available, and intended behaviors. Wireframes typically do not include any styling, color, or graphics. Wireframes also help establish navigation between different pages within the app.
+Building a wireframe before producing the high fidelity mockups could be very beneficial. A wireframe allows the team to quickly explore different layouts and establish the workflow without worrying about the styling details. 
 
 
 #### Mockup with Sketch
