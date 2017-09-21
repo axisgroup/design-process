@@ -10,7 +10,29 @@ Validation table](../Exercises/assumptions-validations.md)
 
 ### Tasks/Activities for Validate
 
-#### Gorilla Usability Testing
+#### Stakeholder/User Review
+
+Reviewing the design with stakeholders and users is the core activity in the validation phase. It allows the design team to observe users' reactions to the design and to collect their feedback, so that they can better refine the design.
+
+
+#### Technical Review
+
+The designer needs to walk the developer throught the design, and make sure everything is possible to build and raise red flags if anything takes extra effort. This step is especially important if an estimate of build document is one of the final deliverables.
+
+
+#### Refine Design
+
+The design team will take the feedback from the stakeholder/user review and implement changes to the prototype, and then circle back to the stakeholders and users to get further feedback or approval.
+
+
+#### Future Recommendations
+
+Sometimes the desgin team can't address all the needs of the users because either time constraint or technology limitations. In such situations, it is helpful to document these unfulfilled needs as recommendations for future engagements. 
+
+
+-- 
+
+#### Usability Testing
 
 This is the most used form of testing. Bring in 4–6 potential users and show
 them the prototype that you made. Pay close attention to problems that they have
