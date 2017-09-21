@@ -37,19 +37,13 @@ heavier web interactions like filling out forms.
 
 #### [Paper Prototype](http://alistapart.com/article/paperprototyping)
 
-Paper prototyping is as low-fi as you can get for a prototype.
-It is especially useful when you are
-under a time crunch to produce a prototype.
-It also allows for the whole team to contribute.
-Because the prototype is sketches on paper you are relying
-much more on the imagination of the participant.
-It gives you the ability to prototype on the fly,
-even during the session with the participant.
+Paper prototyping is as low-fi as you can get for a prototype. It is especially useful when you are under a time crunch to produce a prototype. It also allows for the whole team to contribute. Because the prototype is sketches on paper you are relying much more on the imagination of the participant. It gives you the ability to prototype on the fly, even during the session with the participant.
 
-(Interesting debate about paper prototyping:
+Interesting debate about paper prototyping:
 
 [Paper Prototyping Is A Waste Of Time](https://library.gv.com/paper-prototyping-is-a-waste-of-time-353076395187)
-[If You Think Paper Prototyping Is A Waste Of Time, You're Doing It Wrong](http://uxmas.com/2014/if-you-think-paper-prototyping-is-a-waste-of-time))
+
+[If You Think Paper Prototyping Is A Waste Of Time, You're Doing It Wrong](http://uxmas.com/2014/if-you-think-paper-prototyping-is-a-waste-of-time)
 
 
 ---
