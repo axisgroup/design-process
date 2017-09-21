@@ -14,7 +14,7 @@ Building a wireframe before producing the high fidelity mockups could be very be
 
 #### Mockup with Sketch
 
-Sketch is the primary tool the team uses to create high fidelity mockups. Here are some useful resources for the team: https://drive.google.com/drive/folders/0BwLVd0W-_5qwZEZnMzRETEZ5QjA
+Sketch is the primary tool the team uses to create high fidelity mockups. Here are some useful resources for the team: [Axis Design Resources](https://drive.google.com/drive/folders/0BwLVd0W-_5qwZEZnMzRETEZ5QjA)
 
 
 #### Prototype with InVision
@@ -22,12 +22,12 @@ Sketch is the primary tool the team uses to create high fidelity mockups. Here a
 Invision really great for being able to take mockups from Photoshop or Sketch and
 allow for users to click through different states or pages. 
 
-Example of a prototype on InVision: https://invis.io/3VBJDMIGC
+Example of a prototype on InVision: [Prototype: Conflicts in Democratic Republic of Congo](https://invis.io/3VBJDMIGC)
 
 
 #### QlikSense
 
-When mocking up a QlikSense app, it is sometimes easier build sheets directly in QlikSense, especially when there's sample data provided. The team can also explore extension objects on http://branch.qlik.com
+When mocking up a QlikSense app, it is sometimes easier build sheets directly in QlikSense, especially when there's sample data provided. The team can also explore extension objects on [Qlik Branch](http://branch.qlik.com)
 
 
 #### HTML & CSS
