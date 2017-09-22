@@ -10,3 +10,12 @@ The problem statement should be short and simple, and focus on only one problem.
 
 Example:
 The problem of customers constantly smoking in our rooms affects other customers, who don’t appreciate the smoke and smell, and our housekeeping staff, who spend significantly more time cleaning smoking rooms versus nonsmoking ones, the impact of which is low customer satisfaction, reduced occupancy rates, and increased cleaning costs. 
+
+
+--
+
+References:
+
+http://www.dummies.com/business/business-strategy/how-to-create-a-problem-statement-in-business-analysis/
+
+https://www.slideshare.net/SantoshKumarSingh13/how-to-define-business-problem-statement
