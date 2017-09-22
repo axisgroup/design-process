@@ -6,5 +6,9 @@ Example:
 
 ![Silent Critique Equifax](/images/silent-critique-equifax.jpg?raw=true "Silent Critique Equifax")
 
-image from:
+
+--
+
+References:
+
 https://robots.thoughtbot.com/ios-coaching-product-design-sprint
