@@ -12,3 +12,5 @@ Example:
 References:
 
 https://robots.thoughtbot.com/ios-coaching-product-design-sprint
+
+https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0
