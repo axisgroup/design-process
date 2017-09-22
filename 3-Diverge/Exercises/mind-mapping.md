@@ -4,4 +4,9 @@ Example:
 
 ![Mind Map](/images/mind-map.jpg?raw=true "Mind Map")
 
-Reference: https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0
+
+--
+
+References: 
+
+https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0
