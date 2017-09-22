@@ -41,3 +41,11 @@ To run a card sorting session, the team needs to first define what the cards rep
 * Analytical / Exploratory
 * High Level / Detail
 * Etc.
+
+-- 
+
+Reference:
+
+https://www.optimalworkshop.com/101/card-sorting
+
+https://www.usability.gov/how-to-and-tools/methods/card-sorting.html
