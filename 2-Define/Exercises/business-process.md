@@ -12,4 +12,9 @@ Here's a detailed guide to Business Process Mapping:
 
 ![Warehouse Operation](/images/warehouse-operations.png?raw=true "Warehouse Operation")
 
-Image: https://www.datexcorp.com/inventory-management-tips-optimizing-your-warehouse/
+
+--
+
+References:
+
+https://www.datexcorp.com/inventory-management-tips-optimizing-your-warehouse/
