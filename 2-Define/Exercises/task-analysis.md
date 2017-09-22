@@ -14,3 +14,14 @@ In the world of dashboard design, the tasks can take one specific form - to answ
 #### Example:
 
 ![Key Question Mapping](/images/path-of-questions.png?raw=true "Key Question Mapping")
+
+
+--
+
+References:
+
+https://medium.theuxblog.com/task-analysis-mapping-2117a5e4f6fa
+
+https://www.interaction-design.org/literature/article/task-analysis-a-ux-designer-s-best-friend
+
+http://yleahkim.com/united.html
