@@ -5,5 +5,9 @@ Here's an empathy map canvas that can be used as a template:
 
 ![Empathy Map Canvas](/images/empathy-map-canvas.png?raw=true "Empathy Map Canvas")
 
+
+--
+
 Reference:
+
 https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a
