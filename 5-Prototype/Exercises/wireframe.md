@@ -4,5 +4,9 @@ Example:
 
 ![Wireframe](/images/wireframe.png?raw=true "Wireframe")
 
+
+--
+
 References:
+
 https://www.usability.gov/how-to-and-tools/methods/wireframing.html
