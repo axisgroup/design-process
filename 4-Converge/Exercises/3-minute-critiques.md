@@ -2,4 +2,9 @@ Three minute critiques is another group critique exercise. The group gather arou
 
 This exercise could be combined with the silent critiques and the group can start with the concept that got most stickers on it.
 
-reference: https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0
+
+--
+
+References: 
+
+https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0
