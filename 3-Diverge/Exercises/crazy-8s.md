@@ -6,7 +6,10 @@ Example:
 
 ![Crazy Eights](/images/crazy-8s.jpg?raw=true "Crazy Eights")
 
-Reference: 
+
+--
+
+References: 
 
 https://designsprintkit.withgoogle.com/methods/sketch/crazy-8s/
 
