@@ -29,6 +29,9 @@ Example of a prototype on InVision: [Prototype: Conflicts in Democratic Republic
 
 When mocking up a QlikSense app, it is sometimes easier build sheets directly in QlikSense, especially when there's sample data provided. The team can also explore extension objects on [Qlik Branch](http://branch.qlik.com)
 
+#### Tumult Hype
+
+A good alternative to raw HTML & CSS is to use [Hype](http://tumult.com/hype/) with which you can quickly record and genreate interactive animations to show how users will interact with dashboards. Here's a quick [overview of prototyping using Hype for prototyping](https://blog.prototypr.io/the-leader-in-digital-prototyping-6d392e0df7a). The [Design Sales and Marketing website](http://richsimon.x10host.com/DE_v19.html) was built with Hype.
 
 #### HTML & CSS
 
