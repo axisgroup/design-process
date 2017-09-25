@@ -45,6 +45,10 @@ The groupings could potentially become the different views in the application. T
 
 After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the  process. 
 
+#### [User Workflow](../4-Converge/Methods/user-workflow.md)
+
+A user workflow chart adds more details to the personas to views mapping, by showing how the user navigates through the different views of the app.
+
 #### Concept Review with Client
 
 Reviewing visualization concepts with the client allows the team to validate the usefulness, usability, and desiredness of their ideas. It is also a check point for the team to confirm whether we're on the right track or not in general. 
