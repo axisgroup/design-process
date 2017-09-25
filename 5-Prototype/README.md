@@ -7,7 +7,7 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 ### Tasks/Activities for Prototype
 
-#### [Wireframe](/5-Prototype/Exercises/wireframe.md)
+#### [Wireframe](/5-Prototype/Methods/wireframe.md)
 
 Building a wireframe before producing the high fidelity mockups could be very beneficial. A wireframe allows the team to quickly explore different layouts and establish the workflow without worrying about the styling details. 
 
