@@ -50,9 +50,6 @@ The team should hash out scenarios in which the solution that the engagement aim
 shall interact with the users. Determining user scenarios would better help the team to design
 a truly usable and viable solution to the problem at hand.  
 
-* User Stories
-A user story is a brief statement (1 or 2 sentences) regarding the requirement of the system from the end-user's perspective. 
-
 * Task Analysis
 The team should perform detailed task analysis to clearly determine aspects of 
 the business process that the design engagement aims to address. 
@@ -84,12 +81,22 @@ It is useful for working through user flow, moving features to the back burner b
 Identifying the problem will help to determine if there is a problem, if that problem is solvable, and how to solve that problem. This step will be the first step to answering this question: What is this solution, and is it useful?
 
 #### [User Scenarios](../2-Define/Methods/user-scenarios.md)
-Creating user scenarios help narrow down the efforts of the team to understand aspects of 
-the problem that affect clients business process. These scenarios channel efforts of the 
-design engagement towards solving problems that affect daily tasks of clients.
+A user scenario is a detailed narrative that focuses on one persona. By typing it out, the team thinks throught the details and tell a compelling, easy-to-understand story about the user's needs.
+
+#### [Storyboard](../2-Define/Methods/storyboard.md)
+Storyboards illustrate the how the user interact with the solution, and what the user does, thinks, or feels in the process. 
+
+#### [User Journey Map]
+A user journey map demonstrates the flow of user experience, and highlights user's goals, actions, and emotions along the way.
 
 #### [Task Analysis](../2-Define/Methods/task-analysis.md)
 Task analysis is the process of learning how the users perform their tasks and achieve the intended goals. It helps the designer decide the tasks the solution needs to support and define the navigation and workflow. 
+
+#### [User Stories](../2-Define/Methods/user-stories.md)
+User stories are brief statements (1 or 2 sentences each) regarding the requirement of the solution from the end-user's perspective. It is a very simple method to document design requirements and it helps the design team communicate with both the client and the develpers.
+
+#### [Use Cases](../2-Define/Methods/use-cases.md)
+A use case describes a list of actions or event steps that a user takes to achieve a goal or accomplish a task. It is also used to document requirements, in a much more elaborated manner compared to user stories. 
 
 #### [Business Process Mapping](../2-Define/Methods/business-process.md)
 The team should make efforts to model the business process that serves as the basis of the 
