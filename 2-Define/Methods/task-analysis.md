@@ -1,11 +1,6 @@
 Task analysis is an exercise that enables the team understand the tasks and subtasks a user needs to persona to achieve business goals. It outlines the hierarchy and sequence of the tasks. 
 
-#### Example:
-
-![Task Analysis Sequencial](/images/task-analysis.jpeg?raw=true "Task Analysis Sequencial")
-
-
-Task anslysis can start from high level tasks to accomplish the intended goal, like "to monitor sales performance". Then decompose high level tasks to subtasks, like "to compare the YoY variance% of sales across all regions". 
+The tasks typically start from very high level like "to monitor sales performance". Then these high level tasks are decomposed to subtasks, like "to compare the YoY variance% of sales across all regions". 
 
 ![Task Analysis Hierarchical](/images/task-analysis-2.jpg?raw=true "Task Analysis Hierarchical")
 
