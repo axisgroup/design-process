@@ -86,7 +86,7 @@ A user scenario is a detailed narrative that focuses on one persona. By typing i
 #### [Storyboard](../2-Define/Methods/storyboard.md)
 Storyboards illustrate the how the user interact with the solution, and what the user does, thinks, or feels in the process. 
 
-#### [User Journey Map]
+#### [User Journey Map](../2-Define/Methods/user-journey.md)
 A user journey map demonstrates the flow of user experience, and highlights user's goals, actions, and emotions along the way.
 
 #### [Task Analysis](../2-Define/Methods/task-analysis.md)
