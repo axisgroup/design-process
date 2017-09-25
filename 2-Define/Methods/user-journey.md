@@ -4,7 +4,8 @@ Example:
 
 ![User Journey 1](/images/user-journey-1.jpg)
 
-User journey map can also be constructed like a big table:
+<br>
+Alternatively, a user journey map can also be constructed like a big table:
 
 ![User Journey 3](/images/user-journey-3.png)
 
