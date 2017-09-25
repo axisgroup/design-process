@@ -4,7 +4,7 @@ After the views are established, the team needs to map the views back to persona
 
 --
 
-Link to template: https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk
+[Axis template](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk)
 
 
 Template - View Summary:
