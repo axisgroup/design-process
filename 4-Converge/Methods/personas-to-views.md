@@ -4,9 +4,9 @@ After the views are established, the team needs to map the views back to persona
 
 --
 
-[Axis template](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk)
+[Axis Design Template](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk)
 
-
+<br>
 Template - View Summary:
 
 ![View Summary](/images/views-summary.png?raw=true "View Summary")
