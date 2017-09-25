@@ -50,7 +50,10 @@ The team should hash out scenarios in which the solution that the engagement aim
 shall interact with the users. Determining user scenarios would better help the team to design
 a truly usable and viable solution to the problem at hand.  
 
-* Task Analyses
+* User Stories
+A user story is a brief statement (1 or 2 sentences) regarding the requirement of the system from the end-user's perspective. 
+
+* Task Analysis
 The team should perform detailed task analysis to clearly determine aspects of 
 the business process that the design engagement aims to address. 
 
