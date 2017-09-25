@@ -47,15 +47,15 @@ to better understand the problem at hand.
 
 ## Tasks/Activities in the Pre-Engagement phase:
 
-#### [Capturing Research](../0-Pre-Engagement/Exercises/capturing-research.md)
+#### [Capturing Research](../0-Pre-Engagement/Methods/capturing-research.md)
 The team should capture the research performed on the company, industry, business function, and client history. This will provide a paper trail for future design deicisions, and can easily be passed on to other team members to bring them up to speed. Included in this activity is the Interview Checklist, which will serve as a running list of assumptions, key ideas, and questions relevant to the engagement. 
 
-#### [Pre-Kickoff Meeting](../0-Pre-Engagement/Exercises/prekickoff.md)
+#### [Pre-Kickoff Meeting](../0-Pre-Engagement/Methods/prekickoff.md)
 The design team should collaborate with the Solutions Director (SD) to discuss and 
 thoroughly understand the Statement of Work (SOW). This shall ensure a common grounds of
 understanding the 'job to be done.'
 
-#### [Schedule Interviews and Request Information](../0-Pre-Engagement/Exercises/schedule-interview.md)
+#### [Schedule Interviews and Request Information](../0-Pre-Engagement/Methods/schedule-interview.md)
 The team should send out requests to schedule interviews with the client and block
 time on their calendars to gather further understanding of the problem. This shall ensure
 that the client is available to answer questions, provide insight, and provide any additional
