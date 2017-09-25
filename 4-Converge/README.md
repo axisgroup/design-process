@@ -19,12 +19,12 @@ should help the team engage this conversation.
 
 ### Tasks/Activities for Converge
 
-#### [Silent Critique](../4-Converge/Exercises/silent-critique.md)
+#### [Silent Critique](../4-Converge/Methods/silent-critique.md)
 This critique exercise is a way to get everyones input in a short amount of
 time. At the end of the exercise you'll have a heat map of the ideas people find
 really interesting.
 
-#### [Three Minute Critiques](../4-Converge/Exercises/3-minute-critiques.md)
+#### [Three Minute Critiques](../4-Converge/Methods/3-minute-critiques.md)
 
 This critique exercise is more open and allows for a more detailed conversation.
 It gives the person that came up with the idea to add any remaining details or
@@ -41,7 +41,7 @@ After visualization concepts are developed, the team needs to group the concepts
 
 The groupings could potentially become the different views in the application. The team should discuss and weigh out the pros and cons of each group of views. Then decide which views the app should have, and what the workflow should be. 
 
-#### [Map Personas to Views](../4-Converge/Exercises/personas-to-views.md)
+#### [Map Personas to Views](../4-Converge/Methods/personas-to-views.md)
 
 After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the  process. 
 
