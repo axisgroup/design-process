@@ -63,23 +63,23 @@ After a period of debriefing, the design lead should send a Thank You email to t
 
 ### Techniques:
 
-#### [Standard Set of Questions](../1-Understand/Exercises/standard-questions.md)
+#### [Standard Set of Questions](../1-Understand/Methods/standard-questions.md)
 
 Sometimes we won't have enough time in the Pre-Engagement phase to do all the background research necessary for drafting more specific and tailored questions. In those scenarios, use this standard set of questions to start off an interview and gain a good understanding of the user's need. 
 
-#### [Observation](.../1-Understand/Exercises/observation.md)
+#### [Observation](.../1-Understand/Methods/observation.md)
 
 Observation of the user's typical interaction with the existing solution is useful in providing context. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's true workflow and the ways their needs are and aren't being met.  
 
 
-#### [Five Whys](../1-Understand/Exercises/five-whys.md)
+#### [Five Whys](../1-Understand/Methods/five-whys.md)
 
 This activity is meant to dig down deep into what the actual reasons are for a
 problem or what the problem actually is. It is good to use when the apparent
 problem seems to only be a symptom of a larger problem. 
 
 
-#### [Interview Checklist](../1-Understand/Exercises/interview-checklist.md)
+#### [Interview Checklist](../1-Understand/Methods/interview-checklist.md)
 
 Throughout the Understand phase, we will ask questions we don’t have
 answers to and identify assumptions we are relying on. We will capture these
@@ -91,7 +91,7 @@ be. We will capture these good but not immediately relevant ‘back-burner ideas
 on a sticky note board.
 
 
-#### [Affinity Mapping](../1-Understand/Exercises/affinity-mapping.md)
+#### [Affinity Mapping](../1-Understand/Methods/affinity-mapping.md)
 An Affinity Diagram is a tool that gathers large amounts of language data (ideas,
 opinions, issues) and organizes them into groupings based on their natural
 relationships.
