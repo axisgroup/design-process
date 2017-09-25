@@ -15,4 +15,5 @@ As a doctor, I need to get up to medical date records so that I know how to proc
 References:
 
 https://www.akendi.com/blog/scenarios-user-stories-and-use-casesoh-my/
+
 https://www.interaction-design.org/literature/article/user-stories-capturing-the-user-s-perspective-quickly-and-simply
