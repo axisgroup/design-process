@@ -37,6 +37,8 @@ The team should document research outcomes as they would be useful in future pha
 ensure that the team has common grounds for formulating assumptions and identifying risks.
 Capturing research shall also serve as a repository for any similar sprints in future.
 
+* A list of roles that will be involved in the project.
+
 * Requests to Schedule Interviews/ Request for Information:
 The team should identify resources and key stakeholders from the client-side and 
 send out requests to schedule interviews, and request for additional material/information. 
