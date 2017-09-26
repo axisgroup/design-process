@@ -39,13 +39,6 @@ them the prototype that you made. Pay close attention to problems that they have
 and be sure to follow a script to cover the assumptions that you are testing.
 With their permission you can record these but it's best to see them as they happen.
 
-#### [Closed Card Sorting](../Exercises/card-sorting.md)
-
-A design exercise that guides us toward creating the most coherent
-information architecture of a product.
-During a card sorting session,
-participants are asked to associate two sets
-of flashcards by grouping them.
 
 #### Survey Test
 
