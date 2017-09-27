@@ -100,5 +100,6 @@ relationships.
 ### [Schedule for Understand](SCHEDULE.md)
 ### [Examples of Understand phase](EXAMPLES.md)
 ### [Phase Checklist](CHECKLIST.md)
+- [ ] my sample checklist
 
 
