@@ -19,3 +19,7 @@ The designer needs to make sure these numbers are achievable within the time fra
 * Decide how many interviews will be necessary, and who they will be with.
 * Obtain any current reports that are used or screenshots of the existing solution. 
 * Understand the business as a whole, the different roles in the company, and any key metrics, activities, and processes.
+* Understand security expectations like
+  * Is there protected data involved?
+  * Are we allowed to use cloud based software or platform?
+  * Etc. 
