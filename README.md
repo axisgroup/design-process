@@ -34,8 +34,7 @@ user experience of interacting with the solution, while achieving the business g
 
 ## Design Engagement Overview
 The Design process at Axis Group is divided into six phases, 
-Understand, Define, Diverge, Decide, Prototype, and Validate. Each phase typically lasts for a day or two,
-depending on the scope of the engagement.
+Understand, Define, Diverge, Decide, Prototype, and Validate.
 
 #### [Pre-Engagement](0-Pre-Engagement)
 Typically, this phase would require performing research on the client and their industry. This phase is non-billable.
