@@ -56,7 +56,7 @@ the business process that the design engagement aims to address.
 
 ---
 
-## Methods/Techniques in the Define phase:
+## Methods in the Define phase:
 
 #### [Personas](../2-Define/Methods/personas.md)
 
