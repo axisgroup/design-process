@@ -58,10 +58,8 @@ After a period of debriefing, the design lead should send a Thank You email to t
 
 ---
 
-## Tasks/Activities in the Understand phase:
+## Methods in the Understand phase:
 
-
-### Techniques:
 
 #### [Standard Set of Questions](../1-Understand/Methods/standard-questions.md)
 
