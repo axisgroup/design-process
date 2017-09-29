@@ -42,7 +42,7 @@ Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes 
 --
 ### [Schedule for Diverge](SCHEDULE.md)
 ### [Examples of Diverge phase](EXAMPLES.md)
-### [Phase Checklist](CHECKLIST.md)
+### [Phase Checklist](../3-Diverge/Phase-3-Checklist.md)
 
 
 
