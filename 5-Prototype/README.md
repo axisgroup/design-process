@@ -5,7 +5,7 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 ---
 
-### Tasks/Activities for Prototype
+## Methods in Prototype Phase
 
 #### [Wireframe](/5-Prototype/Methods/wireframe.md)
 
