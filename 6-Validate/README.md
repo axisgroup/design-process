@@ -62,4 +62,4 @@ how many people visit.
 --
 ### [Schedule for Validate](SCHEDULE.md)
 ### [Examples of Validate phase](EXAMPLES.md)
-### [Phase Checklist](CHECKLIST.md)
+### [Phase Checklist](/6-Validate/Phase-6-Checklist.md)
