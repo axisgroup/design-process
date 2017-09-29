@@ -44,4 +44,4 @@ Listed below are steps to submitting a Pull Request in GitHub:
 3. Squash your commits into a single one ([more](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)).
 4. Rebase against `origin/master`, push to your fork and submit a pull request.
 
-[Find more detailed guide here](https://guides.github.com/activities/hello-world/)
+[More detailed guide on pull request](https://guides.github.com/activities/hello-world/)
