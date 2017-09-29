@@ -7,7 +7,11 @@ See this presentation [Similar Design Methods](https://invis.io/8ADPQ09QX)
 
 ## What softwares or tools can I use during the process?
 
-* InVision Freehand for digital whiteboarding
+Here are some tools for digital whiteboarding and remote collaboration:
+
+* [InVision Freehand](https://www.invisionapp.com/feature/freehand)
+* [Realtime Board](https://realtimeboard.com/) 
+* [Mural](https://mural.co/#)
 
 
 --
