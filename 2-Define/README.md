@@ -107,6 +107,6 @@ and could also help realize potential risks.
 --
 ### [Schedule for Define](SCHEDULE.md)
 ### [Examples of Define phase](EXAMPLES.md)
-### [Phase Checklist](CHECKLIST.md)
+### [Phase Checklist](../2-Define/Phase-2-Checklist.md)
 
 
