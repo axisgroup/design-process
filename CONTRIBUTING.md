@@ -2,22 +2,31 @@ We love new ideas that push this repository and design sprints forward. We are u
 for tracking our work on the repository. Here are the ways that you can contribute:
 
 ## Maintenance and Improvements
-If you find a bug, misspelling or other any other problem with the repository, please add a new [issue](https://github.com/axisgroup/design-process/issues/new).
 
-If you are looking to contribute and are not sure where to start, here is a step-by-step breakdown to help you through: 
+#### Submit a new issue
 
-1. Grab an issue from the list of [issues/bugs](https://github.com/axisgroup/design-process/labels/bug) and assign yourself to the issue so that we know someone is working on it. 
-2. Make the necessary changes.
-3. Submit a [Pull Request](#quick-guide-to-submitting-a-pull-request-in-github).
+If you find a mistake or have some questions with the repository, please add a new [issue](https://github.com/axisgroup/design-process/issues/new).
 
-# New Ideas
-Any new ideas or major improvements can be added to a PR so that they can be discussed and tested. 
-We especially like new exercises that might add to 
-[Understand](https://github.com/axisgroup/design-process/tree/master/1-Understand), 
-[Diverge](https://github.com/axisgroup/design-process/tree/master/2-Diverge) and 
-[Converge](https://github.com/axisgroup/design-process/tree/master/3-Converge).
+#### Work on an existing issue
 
-# Previous Engagements: Photos, Examples & Case studies
+1. You can find the list of open issues [here](https://github.com/axisgroup/design-process/issues) 
+2. Enter your thoughts as comments  
+3. Assign yourself to the issue if you want to make some changes so that we know someone is working on it
+4. Make changes and submit a Pull Request. [Here's how](#quick-guide-for-pull-requests).
+
+#### Recommend a method
+
+If you want to recommend a method for our design engagement, you can add a new .md file that describes the method under the folder [Methods](https://github.com/axisgroup/design-process/Methods) in your branch and then submit a pull request. 
+
+The description file should include:
+* Definition and purpose of the method
+* Which phase it belongs to
+* How it works
+* Examples
+* References or resources
+
+#### Photos, examples & case studies from previous engagements
+
 The more examples that we have the better it will be to spread knowledge and experience of running the sprints. 
 Listed below are steps for adding examples:
 
@@ -27,7 +36,7 @@ Listed below are steps for adding examples:
 4. Submit a [Pull Request](#quick-guide-to-submitting-a-pull-request-in-github).
 
 
-# Quick Guide for Pull Requests:
+#### Quick Guide for Pull Requests:
 Listed below are steps to submitting a Pull Request in GitHub:
 
 1. Fork the repository.
@@ -35,3 +44,4 @@ Listed below are steps to submitting a Pull Request in GitHub:
 3. Squash your commits into a single one ([more](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)).
 4. Rebase against `origin/master`, push to your fork and submit a pull request.
 
+[Find more detailed guide here](https://guides.github.com/activities/hello-world/)
