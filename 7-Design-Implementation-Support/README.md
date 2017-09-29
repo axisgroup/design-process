@@ -24,4 +24,4 @@ Functional specs document describes the functionality and expected behaviors of 
 --
 ### [Schedule for Design Implementation Support](SCHEDULE.md)
 ### [Examples of Design Implementation Support phase](EXAMPLES.md)
-### [Phase Checklist](CHECKLIST.md)
+### [Phase Checklist](../7-Design-Implementation-Support/Phase-7-Checklist.md)
