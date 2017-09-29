@@ -67,6 +67,6 @@ The team should also identify key reports or screenshots that would be useful to
 --
 ### [Schedule for Pre-Engagement](SCHEDULE.md)
 ### [Examples of Pre-Engagement phase](EXAMPLES.md)
-### [Phase Checklist](CHECKLIST.md)
+### [Phase Checklist](../0-Pre-Engagement/Phase-0-Checklist.md)
 
 
