@@ -8,7 +8,7 @@ Validation table](../Exercises/assumptions-validations.md)
 
 ---
 
-### Tasks/Activities for Validate
+## Methods in Validate Phase
 
 #### Stakeholder/User Review
 
