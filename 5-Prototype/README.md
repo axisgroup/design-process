@@ -51,4 +51,4 @@ Interesting debate about paper prototyping:
 ---
 ### [Schedule for Prototype](SCHEDULE.md)
 ### [Examples of Prototype phase](EXAMPLES.md)
-### [Phase Checklist](CHECKLIST.md)
+### [Phase Checklist](../5-Prototype/Phase-5-Checklist.md)
