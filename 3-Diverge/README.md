@@ -23,7 +23,7 @@ Each team member should organize their ideas on either paper, whiteboard, or Ske
 
 ---
 
-### Methods in Diverge Phase
+## Methods in Diverge Phase
 
 
 #### Exploratory Research
