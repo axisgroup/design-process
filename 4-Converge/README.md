@@ -17,7 +17,7 @@ should help the team engage this conversation.
 
 ---
 
-### Tasks/Activities for Converge
+## Methods in Converge Phase
 
 #### [Silent Critique](../4-Converge/Methods/silent-critique.md)
 This critique exercise is a way to get everyones input in a short amount of
