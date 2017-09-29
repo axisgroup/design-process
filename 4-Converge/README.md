@@ -65,7 +65,7 @@ applicable and throw away any that aren't.
 
 ### [Schedule for Converge](SCHEDULE.md)
 ### [Examples of Converge phase](EXAMPLES.md)
-### [Phase Checklist](CHECKLIST.md)
+### [Phase Checklist](../4-Converge/Phase-4-Checklist.md)
 
 
 
