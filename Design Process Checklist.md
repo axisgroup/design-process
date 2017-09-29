@@ -25,7 +25,7 @@
 - [ ] Update interview checklist
 
 
-Phase 2. Define
+### Phase 2. Define
 
 - [ ] Personas
 - [ ] Empathy map
