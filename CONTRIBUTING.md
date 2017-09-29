@@ -30,8 +30,9 @@ The description file should include:
 The more examples that we have the better it will be to spread knowledge and experience of running the sprints. 
 Listed below are steps for adding examples:
 
-1. Add new project by duplicating the example project folder.
-2. Edit the README in that folder and add any other assets that support the explanation of the sprint such as photos, documents, prototypes or videos.
+1. Create a topic branch
+2. Edit the README in the folder where you want to add new assets
+3. Add assets that support the explanation of the sprint such as photos, documents, prototypes or videos.
 3. Add references on the separate phases to the respective parts of the example.
 4. Submit a [Pull Request](#quick-guide-to-submitting-a-pull-request-in-github).
 
