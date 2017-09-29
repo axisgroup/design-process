@@ -97,6 +97,6 @@ relationships.
 --
 ### [Schedule for Understand](SCHEDULE.md)
 ### [Examples of Understand phase](EXAMPLES.md)
-### [Phase Checklist](CHECKLIST.md)
+### [Phase Checklist](../1-Understand/Phase-1-Checklist.md)
 
 
