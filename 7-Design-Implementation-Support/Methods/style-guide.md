@@ -11,10 +11,10 @@ The design team has multiple options on how to produce the style guide depending
 * There are also Sketch plugins that can help with design specs, such as Sketch Measure which export specs into html files. The design team needs to make sure all the layers are grouped and named properly so that the files are easy to read.
 
 
-[Style Guide Example](design-process/images/style-guide-colors.png)
+![Style Guide Example](/images/style-guide-colors.png)
 
 
 InVision Inspect Mode:
 
-[InVision Inspect Mode](/images/InVision-inspect.png)
+![InVision Inspect Mode](/images/InVision-inspect.png)
 
