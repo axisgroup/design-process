@@ -16,15 +16,11 @@ This document intends to provide a walkthrough of each step in our design proces
 * [Design Implementation Support Phase](7-Design-Implementation-Support)
 
 ## What is a design engagement?
-A design engagement is a technique to quickly solve design problems and test the viability of a solution.
-It allows to better understand the problem at hand, create prototypes and choose a viable solution to the problem at hand.
+Axis design engagement brings UX design and data visualization principles to BI projects to produce design specs for highly usable, useful, and desirable data applications that support business decisions.
 
 #### Why do a design engagement?
-A design engagement orients the team and aims our efforts towards a mutual goal.
-Design thinking and visual analytics design engagements keep us on target and invest our time and money wisely.
-Design engagements are useful when kicking off a new business, product, feature, or workflow. 
-Design engagements can also be used to solve problems with an existing products, features, or workflows 
-and help make them better and efficient.
+Most clients have a good understanding of their business objectives and their data systems. However, they don't know how to map their data to their business objectives with visual analytics that efficiently drive results. This results in low-value applications that are rejected by users.<br>
+Our goal is to clarify a vision for a data app and then translate that vision into a highly usable design that can be implemented, ensuring that clients get their app builds right the first time.
 
 #### What should you expect to have at the end of a design sprint?
 At the end of the design engagement, the team will understand the problem and will have validated whether 
@@ -37,37 +33,36 @@ The Design process at Axis Group is divided into six phases,
 Understand, Define, Diverge, Decide, Prototype, and Validate.
 
 #### [Pre-Engagement](0-Pre-Engagement)
-Typically, this phase would require performing research on the client and their industry. This phase is non-billable.
+Typically, this phase would require performing research on the client and their industry. 
 The pre-engagement phase should be mainly utilized to formulate a common ground of the ‘job to be done.’ 
 The problem could evolve over further discussions, but it should be agreed upon by the entire team. 
 This should serve as a starting point for discussions with the client. 
 
 #### [Understand](1-Understand)
 The Understand phase develops a common understanding of the context within which we are working and all the elements in that context: 
-the customer, their job to be done, and the business our client hopes to support by servicing the job to be done. 
+the personas, their goals and responsibilities, business processes, decisions and actions, etc. 
 We want to expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
 
 #### [Define](2-Define)
-The Define phase focusses on formulating a ‘mission statement’ for the application or problem at hand. 
+The Define phase focuses on formulating a ‘mission statement’ centered around established personas for the application or problem at hand. 
 This problem definition should be agreed upon by all team members, including clients, 
 and should serve as a reference point for further discussions. 
-The problem statement should encompass a clear scope of the ‘job to be done’ and should serve as a baseline.
+
 
 #### [Diverge](3-Diverge)
 The Diverge phase generates insights and concepts for solutions. 
-Our goal is to explore as many possibilities as possible, regardless of how feasible or viable. 
+Our goal is to explore as many possibilities as possible, with considerations of effort to build. 
 Insights are born from this explosion of possibilities by considering the implications 
 of radically different approaches to solving a problem. 
 These insights can become valuable differentiating forces and the source of inspiration for unique solutions.
 
 #### [Converge](4-Converge)
-The Converge phase takes all the possibilities generated over the past two phases 
-and homes in on a single version to prototype and test with existing or potential customers. 
-By exploring and eliminating so many options, we have reason to be more confident in our choices.
+During the Converge phase we take all the concepts generated in the diverge phase, group them into logical and meaningful categories, evaluate and prioritize them both within the design team and with the client.
+By exploring and eliminating many options, we have reason to be more confident in our design decisions.
 
 #### [Prototype](5-Prototype)
 The Prototype phase develops a prototype that fills our riskiest knowledge gaps and assumptions. 
-Pan and Paper sketches, Sketch + Envision, and QlikSense are all valid mediums. 
+Pen and Paper sketches, Sketch + InVision, and QlikSense are all valid mediums. 
 The medium should be determined by our time constraints and learning goals.
 
 #### [Validate](6-Validate)
