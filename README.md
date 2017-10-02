@@ -20,16 +20,16 @@ A design engagement is a technique to quickly solve design problems and test the
 It allows to better understand the problem at hand, create prototypes and choose a viable solution to the problem at hand.
 
 #### Why do a design engagement?
-A design engaement orients the team and aims our efforts towards a mutual goal.
+A design engagement orients the team and aims our efforts towards a mutual goal.
 Design thinking and visual analytics design engagements keep us on target and invest our time and money wisely.
 Design engagements are useful when kicking off a new business, product, feature, or workflow. 
 Design engagements can also be used to solve problems with an existing products, features, or workflows 
 and help make them better and efficient.
 
 #### What should you expect to have at the end of a design sprint?
-At the end of the design emgagement, the team will understand the problem and will have validated whether 
+At the end of the design engagement, the team will understand the problem and will have validated whether 
 we have a viable solution to begin building or whether we need to keep searching for a solution. 
-Design engagement helps channel efforts towards building a solution that engances usability and 
+Design engagement helps channel efforts towards building a solution that enhances usability and 
 user experience of interacting with the solution, while achieving the business goal. 
 
 ## Design Engagement Overview
@@ -79,5 +79,5 @@ assumptions and have confidence in our next steps.
 The Design Implementation Support phase encompasses all efforts towards supporting development 
 once the design prototype is approved by the client.
 This might entail continued oversight on development and ensuring that the development is as per specifications.
-In addition to availability to support and answer any questions or converns faced during development, 
+In addition to availability to support and answer any questions or concerns faced during development, 
 any documentation required to turn over development responsibilities to internal teams shall be created in this phase.
