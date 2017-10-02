@@ -18,6 +18,8 @@ Example:
 This exercise isn't limited to the Understand phase, but also can be applied in the Diverge phase. The team can use this approach to collect and group visual concepts. 
 
 
+--
+
 References:
 
 http://www.balancedscorecard.org/portals/0/pdf/affinity.pdf
