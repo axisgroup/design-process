@@ -44,23 +44,22 @@ After a period of debriefing, the design lead should send a Thank You email to t
 ## Methods in the Understand phase:
 
 
-#### [Standard Set of Questions](../1-Understand/Methods/standard-questions.md)
+#### [User Interviews](../1-Understand/Methods/user-interviews.md)
 
-Sometimes we won't have enough time in the Pre-Engagement phase to do all the background research necessary for drafting more specific and tailored questions. In those scenarios, use this standard set of questions to start off an interview and gain a good understanding of the user's need. 
+Conducting user interviews is the primary and required method the design team uses in the understand phase. By talking to the users directly, we can learn what they do, what they need and all the reasons behind. 
 
-#### [Observation](.../1-Understand/Methods/observation.md)
+##### [Observation](.../1-Understand/Methods/observation.md)
 
-Observation of the user's typical interaction with the existing solution is useful in providing context. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's true workflow and the ways their needs are and aren't being met.  
-
-
-#### [Five Whys](../1-Understand/Methods/five-whys.md)
-
-This activity is meant to dig down deep into what the actual reasons are for a
-problem or what the problem actually is. It is good to use when the apparent
-problem seems to only be a symptom of a larger problem. 
+During the interview session, it's always useful to observe the user's interactions with the existing solution. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's actual workflow and where their needs are or aren't being met. 
 
 
-#### [Interview Checklist](../1-Understand/Methods/interview-checklist.md)
+##### [Five Whys](../1-Understand/Methods/five-whys.md)
+
+During the interview, the designer can perform this activity to dig down deep into what the actual reasons are for a
+problem or what the problem actually is. It is good to use when the apparent problem seems to only be a symptom of a larger problem. 
+
+
+#### [Running List of AQI](../1-Understand/Methods/running-list-of-aqi.md)
 
 Throughout the Understand phase, we will ask questions we don’t have
 answers to and identify assumptions we are relying on. We will capture these
