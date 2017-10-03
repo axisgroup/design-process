@@ -21,7 +21,6 @@ A style guide should specify all styling related rules and details of the design
 
 Functional specs document describes the functionality and expected behaviors of all elements in the design. 
 
---
-### [Schedule for Design Implementation Support](SCHEDULE.md)
-### [Examples of Design Implementation Support phase](EXAMPLES.md)
+---
+
 ### [Phase Checklist](../7-Design-Implementation-Support/Phase-7-Checklist.md)
