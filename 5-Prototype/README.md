@@ -6,7 +6,9 @@ During this phase, the designers will build high fidelity mockups and assemble p
 ---
 ## Inputs/Outputs
 ###### Inputs/Prerequisites:
-* Ideas from the converge phase
+* Concepts from the converge phase: The team should look at individual concepts created in the converge phase and think of how they can work together in a dashboard. 
+
+* Artifacts created in other phases like user stories, storyboarding etc can be also used as inputs.
 
 
 ###### Outputs/Artifacts:
