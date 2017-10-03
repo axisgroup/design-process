@@ -1,4 +1,4 @@
-# Validate: Test the right path
+# Validate: Refine the prototype
 
 Reactions to competitive demos, our assumptions for the prototype, what we were
 looking for and the reactions to the prototype.
