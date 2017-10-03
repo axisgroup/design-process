@@ -12,7 +12,7 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 
 ###### Outputs/Artifacts:
-* High Fidelity mockups of the application
+* High Fidelity mockups of the application.
 
 
 ## Methods in Prototype Phase
