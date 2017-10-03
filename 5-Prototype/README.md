@@ -4,6 +4,14 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 
 ---
+## Inputs/Outputs
+###### Inputs/Prerequisites:
+* Ideas from the converge phase
+
+
+###### Outputs/Artifacts:
+* High Fidelity mockups of the application
+
 
 ## Methods in Prototype Phase
 
