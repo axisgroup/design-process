@@ -1,15 +1,13 @@
 ﻿## Understand: Gather existing knowledge, understand the users, expose assumptions and unknowns
 
 The first phase of the design sprint is about gathering all existing
-information/knowledge on the business, the customer and the problem and exposing
+information/knowledge on the business, the users and the problem and exposing
 our assumptions and knowledge gaps. 
 
 Throughout the Understand phase, you should be working on understanding the business, who is
-going to be using the product, how this product is solving a problem that those
-users have. What are the situations that users will be using the product or
+going to be using the product, what do users currently use and how do they use it?. What are the situations that users will be using the product or
 feature? What are their motivations behind using it? What are any outside
-motivators that might effect their use? What are their goals? The whole team should think about what
-success looks like for the project and client but also look at what success looks like for this design engagement.
+motivators that might effect their use? What are their goals? 
 
 The team should also talk about what they don't know and where there are knowledge gaps. The team should cover existing research done before the sprint and review analysis of competitive products.
 
