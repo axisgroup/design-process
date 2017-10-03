@@ -15,8 +15,10 @@ Example:
 #### 2. Business Model Canvas Questionnaire
 The [Business Model Canvas](https://hbr.org/resources/images/article_assets/2013/10/canvas1.gif) is a useful tool to understand a business as a whole. By filling out questions around the company's key activities, value propositions, customer segments, cost structure, and revenue stream, the team will gain a comprehensive understanding of how the business is run, and what in particular is important.
 
-#### 3. Key Metrics & Processes Definitions
-To establish a baseline of understanding and start interviews with a common language, it'll be important for team members to research basic processes and metrics common to the industry and/or business domain.
+If can't to find all the answers with online research, the designer can use this canvas to guide pre-kickoff meetings with SD, SME or client champion to collect information more effectively. 
+
+#### 3. Key Metrics & Definitions in Industry or Business Domain
+To establish a baseline of understanding and start interviews with a common language, it'll be important for team members to research basic terms, definitions and common metrics within the industry and/or business domain.
 
 [Morningstar](www.morningstar.com) provides helpful definitions of key metrics and ratios.
 [Investopedia](http://www.investopedia.com/) also provides detailed descriptions on financial processes and calculations.  
