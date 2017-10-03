@@ -1,8 +1,6 @@
 # Converge: Choose the right path
 
-During Converge our goal is to take all of the possibilities
-that we have exposed over the past two phases and hone in on a single version of
-the prototype that we will build in the next phase.
+During Converge our goal is to take all of the ideas/concepts that were generated in the diverge phase and hone in on specific concepts that will be incorporated in the prototype that we will build in the next phase.
 
 Throughout Converge, the team should be thinking about the bigger
 assumptions that are the most important to test.
@@ -20,7 +18,7 @@ should help the team engage this conversation.
 ## Methods in Converge Phase
 
 #### [Silent Critique](../4-Converge/Methods/silent-critique.md)
-This critique exercise is a way to get everyones input in a short amount of
+This critique exercise is a way to get everyone's input in a short amount of
 time. At the end of the exercise you'll have a heat map of the ideas people find
 really interesting.
 
@@ -43,7 +41,7 @@ The groupings could potentially become the different views in the application. T
 
 #### [Map Personas to Views](../4-Converge/Methods/personas-to-views.md)
 
-After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the  process. 
+After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the process. 
 
 #### [User Workflow](../4-Converge/Methods/user-workflow.md)
 
@@ -51,14 +49,13 @@ A user workflow chart adds more details to the personas to views mapping, by sho
 
 #### Concept Review with Client
 
-Reviewing visualization concepts with the client allows the team to validate the usefulness, usability, and desiredness of their ideas. It is also a check point for the team to confirm whether we're on the right track or not in general. 
+Reviewing visualization concepts with the client allows the team to validate the usefulness and usability of their ideas. This also serves as a way to eliminate concepts that aren't effective and hone in on the most valuable concepts in the define phase. It is also a check point for the team to confirm whether they're on the right track or not. 
 
 The concepts don't need to be high fidelity for this review, but they should be presentable and organized in a meaningful way. Potential views and the mapping between personas and views can also be reviewed by the client for validation purpose. 
 
 #### Back Burner Board
 
-As a group review all the Back burner ideas. Document the ones that are still
-applicable and throw away any that aren't.
+As a group review all the Back burner ideas. Document the ones that are still applicable and throw away any that aren't.
 
 
 ---
