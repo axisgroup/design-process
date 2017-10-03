@@ -2,8 +2,7 @@
 
 The validate phase is used to collect feedback on the prototype and refine the design further.
 Going into each validation test you should have a plan of what you are validating and how you
-know if that is successful or not. This is best achieved through a [Assumption /
-Validation table](../Exercises/assumptions-validations.md)
+know if that is successful or not.
 
 ---
 
@@ -11,7 +10,7 @@ Validation table](../Exercises/assumptions-validations.md)
 
 #### Stakeholder/User Review
 
-Reviewing the design with stakeholders and users is the core activity in the validation phase. It allows the design team to observe users' reactions to the design and to collect their feedback, so that they can better refine the design.
+Reviewing the design with stakeholders and users is the core activity in the validation phase. It allows the design team to observe user reactions to the design and to collect their feedback, so that they can better refine the design.
 
 
 #### Technical Review
@@ -29,8 +28,6 @@ The design team will take the feedback from the stakeholder/user review and impl
 Sometimes the design team can't address all the needs of the users because of either time constraints or technology limitations. In such situations, it is helpful to document these unfulfilled needs as recommendations for future engagements. 
 
 
--- 
-
 #### Usability Testing
 
 This is the most used form of testing. Bring in 4–6 potential users and show
@@ -39,7 +36,7 @@ and be sure to follow a script to cover the assumptions that you are testing.
 With their permission you can record these but it's best to see them as they happen.
 
 
-#### Survey Test
+#### Survey
 
 This is a good way to reach a bunch of potential users and see their answers.
 Create a simple form with [Google Forms](http://www.google.com/forms/about/)
