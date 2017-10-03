@@ -1,7 +1,6 @@
 # Validate: Refine the prototype
 
-Reactions to competitive demos, our assumptions for the prototype, what we were
-looking for and the reactions to the prototype.
+The validate phase is used to collect feedback on the prototype and refine the design further.
 Going into each validation test you should have a plan of what you are validating and how you
 know if that is successful or not. This is best achieved through a [Assumption /
 Validation table](../Exercises/assumptions-validations.md)
@@ -27,7 +26,7 @@ The design team will take the feedback from the stakeholder/user review and impl
 
 #### Future Recommendations
 
-Sometimes the desgin team can't address all the needs of the users because either time constraint or technology limitations. In such situations, it is helpful to document these unfulfilled needs as recommendations for future engagements. 
+Sometimes the design team can't address all the needs of the users because of either time constraints or technology limitations. In such situations, it is helpful to document these unfulfilled needs as recommendations for future engagements. 
 
 
 -- 
