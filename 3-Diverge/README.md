@@ -38,7 +38,7 @@ A warm up exercise to start generating ideas. People are given time to individua
 Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes a sheet of printer paper, folds it in half 3 times to get 8 rectangles. They then have 5 minutes to sketch out ideas for a specific feature or flow in a product. After they’re done, they share with the team.
 
 
---
+---
 
 ### [Phase Checklist](../3-Diverge/Phase-3-Checklist.md)
 
