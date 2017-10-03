@@ -94,9 +94,8 @@ An Affinity Diagram is a tool that gathers large amounts of language data (ideas
 opinions, issues) and organizes them into groupings based on their natural
 relationships.
 
---
-### [Schedule for Understand](SCHEDULE.md)
-### [Examples of Understand phase](EXAMPLES.md)
+---
+
 ### [Phase Checklist](../1-Understand/Phase-1-Checklist.md)
 
 
