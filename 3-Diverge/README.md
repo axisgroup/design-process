@@ -8,6 +8,9 @@ inspiration. Also, once we begin eliminating some these options in the next phas
 
 * Have a mindset of "Yes" and constantly ask “How might we?”
 
+---
+
+
 ## Input/Output
 
 ###### Inputs/Prerequisites:
