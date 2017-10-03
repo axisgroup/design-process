@@ -17,7 +17,7 @@ The team should familiarize themselves with each persona's goals, tasks, and key
 
 ###### Outputs/Artifacts:
 
-* Rough Sketches of Ideas
+* Visualization Concepts: 
 Each team member should organize their ideas on either paper, whiteboard, or Sketch -- whatever works best for sharing and discussion.
 
 ---
