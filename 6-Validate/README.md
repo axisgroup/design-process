@@ -49,16 +49,6 @@ Post the form to forums or other places that would have ideal users on it.
 Make sure the form is easy to fill out
 and open ended enough to collect qualitative information.
 
-#### Fake landing page
-
-To judge interest create a fake landing page with email collection.
-This could be something as simple
-as a [Launchrock](http://launchrock.co/) page
-or a [Squarespace](http://www.squarespace.com/) site or a
-completely custom site with a [FormKeep](https://formkeep.com/) form
-for email collection. Run Google Analytics and see how many people sign up and
-how many people visit.
-
 ---
 
 ### [Phase Checklist](/6-Validate/Phase-6-Checklist.md)
