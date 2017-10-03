@@ -21,6 +21,9 @@ A spreadsheet is useful for capturing this information in a table format, like s
 | Key Questions	| Question 1    |			  |  	|
 |  				| Question 2    |			  |  	|
 
+[Here's a template on SharePoint](https://axisgrp.sharepoint.com/Shared%20Documents/Design%20Engagement%20Resources/Interview%20Checklist.xlsx?d=w43d16b48a2af4d02b4c9b825f20bb056)
+
+
 #### 2. Business Model Canvas Questionnaire
 The [Business Model Canvas](https://hbr.org/resources/images/article_assets/2013/10/canvas1.gif) is a useful tool to understand a business as a whole. By filling out questions around the company's key activities, value propositions, customer segments, cost structure, and revenue stream, the team will gain a comprehensive understanding of how the business is run, and what in particular is important.
 
