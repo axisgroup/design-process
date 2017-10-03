@@ -1,6 +1,8 @@
-This running list includes any assumptions, key ideas, and questions that were formed during the Pre-Engagement phase. It will evolve with the project, with items being added and resolved as the engagement progresses. It will also serve useful as a paper trail for future design decisions.
+## Running List of AQI
 
-The team can use this list to help guide interviews and keep track of what is learned.
+This running list includes any assumptions, key ideas, and questions that were formed during the Pre-Engagement phase. It will evolve with the project, with items being added and resolved as the engagement progresses. The team can use this list to help guide interviews, keep track of what is learned, and support future design decisions.
+
+---
 
 A spreadsheet is useful for capturing this information in a table format, like so:
 
