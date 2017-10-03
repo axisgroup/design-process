@@ -25,7 +25,7 @@ develop an understanding of the industry that the client is in, the client's bus
 
 * Existing documents or requests for documents
 
-If time allows, the team should document research outcomes as they would be useful in future phases to ensure that the team has common grounds for formulating assumptions and identifying risks. The research can also serve as a repository for any similar sprints in future.
+If time allows, the team should document research outcomes as they would be useful in future phases to ensure that the team has common grounds for formulating assumptions and identifying risks. The research can also serve as a repository for any similar design engagements in future.
 
 The team should identify resources and key stakeholders from the client-side and send out requests to schedule interviews, and request for additional material/information. This ensures that the client is prepared with information that the design team might require
 to better understand the problem at hand. 
@@ -35,13 +35,13 @@ to better understand the problem at hand.
 ## Methods in the Pre-Engagement phase:
 
 #### [Preliminary Research](../0-Pre-Engagement/Methods/preliminary-research.md)
-The team should capture the research performed on the company, industry, business function, and client history. This will provide a baseline for future design deicisions, and can easily be passed on to other team members to bring them up to speed. 
+The team should capture the research performed on the company, industry, business function, and client history. This will provide a baseline for future design decisions, and can easily be passed on to other team members to bring them up to speed. 
 
 #### [Running List of Assumptions, Questions, Ideas (AQI)](../0-Pre-Engagement/Methods/running-list-of-aqi.md)
 This running list needs to be updated throughout the process so that it provides a paper trail for the design concepts and decisions.
 
 #### [Pre-Kickoff Meetings](../0-Pre-Engagement/Methods/prekickoff.md)
-The design team should take the time to collaborate with the Solutions Director (SD) to discuss and thoroughly understand the Statement of Work (SOW), talk to the Subject Matter Experts (SMEs) to learn more about the industry or business domains, and meet with the client champion to understand overall background and expectations of the engagement. This shall ensure a common grounds ofunderstanding the 'job to be done.' 
+The design team should take the time to collaborate with the Solutions Director (SD) to discuss and thoroughly understand the Statement of Work (SOW), talk to the Subject Matter Experts (SMEs) to learn more about the industry or business domains, and meet with the client champion to understand overall background and expectations of the engagement. This shall ensure a common grounds of understanding the 'job to be done.' 
 
 #### [Schedule Interviews and Request Information](../0-Pre-Engagement/Methods/schedule-interview.md)
 The team should send out requests to schedule interviews with the client and block time on their calendars to gather further understanding of the problem. This shall ensure that the client is available to answer questions, provide insight, and provide any additional information that might be required by designers to further their understanding. The team should also identify key reports or screenshots that would be useful to obtain prior to interviewing users. 
