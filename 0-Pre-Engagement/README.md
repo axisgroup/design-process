@@ -49,7 +49,7 @@ to better understand the problem at hand.
 
 ## Tasks/Activities in the Pre-Engagement phase:
 
-#### [Capturing Research](../0-Pre-Engagement/Methods/capturing-research.md)
+#### [Preliminary Research](../0-Pre-Engagement/Methods/preliminary-research.md)
 The team should capture the research performed on the company, industry, business function, and client history. This will provide a paper trail for future design deicisions, and can easily be passed on to other team members to bring them up to speed. Included in this activity is the Interview Checklist, which will serve as a running list of assumptions, key ideas, and questions relevant to the engagement. 
 
 #### [Pre-Kickoff Meeting](../0-Pre-Engagement/Methods/prekickoff.md)
