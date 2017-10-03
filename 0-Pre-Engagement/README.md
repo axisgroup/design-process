@@ -37,7 +37,7 @@ to better understand the problem at hand.
 #### [Preliminary Research](../0-Pre-Engagement/Methods/preliminary-research.md)
 The team should capture the research performed on the company, industry, business function, and client history. This will provide a baseline for future design deicisions, and can easily be passed on to other team members to bring them up to speed. 
 
-#### [Running List of Assumptions, Questions, Ideas (AQI)]
+#### [Running List of Assumptions, Questions, Ideas (AQI)](../0-Pre-Engagement/Methods/running-list-of-aqi.md)
 This running list needs to be updated throughout the process so that it provides a paper trail for the design concepts and decisions.
 
 #### [Pre-Kickoff Meetings](../0-Pre-Engagement/Methods/prekickoff.md)
