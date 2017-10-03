@@ -42,7 +42,7 @@ This should serve as a starting point for discussions with the client.
 The purpose of the understand phase is to develop an understanding of the users and their goals. We typically talk to users and stakeholders during this phase, to understand their business processes, goals and responsibilities, decisions and actions, etc. We also expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
 
 #### [Define](2-Define)
-The define phase focuses on conclidating what we learnt from the understand phase and defining personas for the application. This serves as a reference point for further discussions and design decisions. 
+The define phase focuses on consolidating what we learnt from the understand phase and defining personas for the application. This serves as a reference point for further discussions and design decisions. This phase helps further define the scope and vision for the project with users and stakeholders.
 
 #### [Diverge](3-Diverge)
 The Diverge phase generates insights and concepts for solutions. 
@@ -60,7 +60,7 @@ High fidelity mockups that closely represent what the final solution will look l
 These high fidelity mockups are created based on concepts from the diverge and converge phases. Sketch, InVision, and Qlik Sense are all valid mediums. 
 
 #### [Validate](6-Validate)
-The purpose of the validate phase is to receive feedback on high fidelity mockups from users and stakholders. Iterations are made to the mockups based on the feedback received. A design engagement might have multiple rounds of iteration depending on the time frame of the project. 
+The purpose of the validate phase is to receive feedback on high fidelity mockups from users and stakeholders. Iterations are made to the mockups based on the feedback received. A design engagement might have multiple rounds of iteration depending on the time frame of the project. 
 
 #### [Design Implementation Support](7-Design-Implementation-Support)
 The Design Implementation Support phase encompasses all efforts towards supporting development 
