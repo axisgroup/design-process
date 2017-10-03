@@ -1,6 +1,8 @@
 # Design Implementation Support: Documentation of the design
 The Design Implementation Support phase encompasses all efforts towards supporting development once the design prototype is approved by the client. This might entail continued oversight on development and ensuring that the development is as per specifications. In addition to availability to support and answer any questions or concerns faced during development, any documentation required to turn over development responsibilities to internal teams shall be created in this phase.
 
+---
+
 
 ## Inputs/Outputs
 ###### Inputs/Prerequisites:
