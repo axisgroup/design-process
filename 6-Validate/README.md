@@ -13,6 +13,8 @@ High fidelity mockup: The prototype designed from the previous phase is presente
 ###### Outputs/Artifacts:
 High mockup with iterations: The output is still high fidelity mockups but with changes implemented based on feedback received.
 
+---
+
 
 ## Methods in Validate Phase
 
