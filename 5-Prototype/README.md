@@ -10,11 +10,10 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 * Artifacts created in other phases like user stories, storyboarding etc can be also used as inputs.
 
----
-
 ###### Outputs/Artifacts:
 * High fidelity mockups of the application.
 
+---
 
 ## Methods in Prototype Phase
 
