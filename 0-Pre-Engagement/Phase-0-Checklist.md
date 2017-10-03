@@ -3,7 +3,6 @@
 - [ ] Capture preliminary research
   - [ ] Business model
   - [ ] Company annual/10k report
-  - [ ] Business functions
   - [ ] Key metrics & definitions in the industry or business domain
 - [ ] Initial interview checklist
 - [ ] Pre-kickoff meeting with SD
