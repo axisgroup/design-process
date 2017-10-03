@@ -1,13 +1,15 @@
-# Preliminary Research
+## Preliminary Research
 
 The team should capture the research performed on the company, industry, business function, and client history. This will provide a paper trail for future design deicisions, and can easily be passed on to other team members to bring them up to speed. 
 
 ---
 
-## Methods to Capture Research
 
 #### 1. Annual Report / 10K Report / 10Q Report
 For public companies, these financial reports are available online. Annual report or 10K report provides a high level view of past year's operation, business strategies, major business issues and certified financial details. A 10Q report provides similar information for the past quarter. 
+
+Example:
+[GE 10K Report](http://www.ge.com/ar2016/10k-highlights/)
 
 
 #### 2. Business Model Canvas Questionnaire
