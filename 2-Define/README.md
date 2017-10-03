@@ -1,49 +1,32 @@
-﻿# Define: Synthesizing the research into usable models
+﻿## Define: Synthesizing the research into usable models
 
 The second phase of the design sprint is all about synthesizing research and information 
 collected in the Understand phase into usable models. Usable models could be of various 
 types like Personna Cards, Scenarios, and Task Analyses.
 
 Throughout the Define phase, you should be working on creating usable models
-based out on the research and understansing of the problem statement.
-The team should be vigilant of the business process of the client, and should be able to 
-model the process, as well as identify where the solution at work fits in the process.
-The team should be able to synthesize the outcomes of interviews with clients and consolidate
-them into creating multiple personas which reqresent various client segments.  
-
-The team should also advance the understanding of the job at hand into defining scenarios
-that would cement use cases of the solution.At the end of Define phase, the team should 
-have developed concrete user scenarios, personas, and strong task analyses.
+based out on the research and understanding of the problem statement.
+The team should be vigilant of the business process of the client as well as identify where the solution at work fits in the process. The team should be able to synthesize the outcomes of user interviews and consolidate them into a single or multiple personas. The define phase typically involves creating personas but could also include user scenarios and task analysis depending on what's possible in the time frame. 
 
 ---
 
-## A Guide for Define:
+## Input/Output:
 
-As you work through the Define phase of an engagement there will be a lot of
-discussion regarding scenarios and personas that encompass the entire domain of the 
-client use cases.
-
-Explore scenarios and embrace an open mind to appreciate all aspects of client tasks that
-shall be touched by the outcome of the design sprint.
 
 ###### Inputs/Prerequisites:
 
 * Notes from Interviews: 
-The team should revisit knowledge from client interviews so as to build robust definitions
-of client scenarios and strong personas.
+The team should revisit knowledge from client interviews to build personas.
  
 * Assumptions and Key Take-aways:
-The team should be mindful of assumptions and key take-aways from client interviews. This
+The team should be mindful of assumptions and key take-aways from user interviews. This
 shall provide ability to better develop user scenarios and personas that address
 a wide range of possibilities and use cases. 
 
 ###### Outputs/Artifacts:
 
 * Personas
-The team should develop personas, based on the problem definition and client interviews.
-Multiple personas should be created so that various client and user traits can be addressed
-during designing the solution. Personas clearly outline user traits and help develop 
-user scenarios. 
+The team should develop personas, based on the user interviews. Personas define common goals, tasks and activities of either a group of users or individual users. 
 
 * User Scenarios
 The team should hash out scenarios in which the solution that the engagement aims to achieve 
