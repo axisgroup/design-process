@@ -16,7 +16,7 @@ Reviewing the design with stakeholders and users is the core activity in the val
 
 #### Technical Review
 
-The designer needs to walk the developer throught the design, and make sure everything is possible to build and raise red flags if anything takes extra effort. This step is especially important if an estimate of build document is one of the final deliverables.
+The designer needs to walk the developer through the design, and make sure everything is possible to build and raise red flags if anything takes extra effort. This step is especially important if an estimate of build document is one of the final deliverables.
 
 
 #### Refine Design
