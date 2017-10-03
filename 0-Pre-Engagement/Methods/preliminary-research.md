@@ -9,7 +9,7 @@ The team should capture the research performed on the company, industry, busines
 For public companies, these financial reports are available online. Annual report or 10K report provides a high level view of past year's operation, business strategies, major business issues and certified financial details. A 10Q report provides similar information for the past quarter. 
 
 Example:
-[GE 10K Report](http://www.ge.com/ar2016/10k-highlights/?target=“_blank”)
+[GE 10K Report](http://www.ge.com/ar2016/10k-highlights/)
 
 
 #### 2. Business Model Canvas Questionnaire
