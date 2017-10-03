@@ -1,4 +1,4 @@
-# Capturing Research
+# Preliminary Research
 
 The team should capture the research performed on the company, industry, business function, and client history. This will provide a paper trail for future design deicisions, and can easily be passed on to other team members to bring them up to speed. 
 
