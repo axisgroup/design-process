@@ -1,4 +1,4 @@
-# Design Implementation Support: Illuminating all possible paths
+# Design Implementation Support: Documentation of the design
 
 
 ---
