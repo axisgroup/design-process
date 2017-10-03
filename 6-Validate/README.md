@@ -59,7 +59,6 @@ completely custom site with a [FormKeep](https://formkeep.com/) form
 for email collection. Run Google Analytics and see how many people sign up and
 how many people visit.
 
---
-### [Schedule for Validate](SCHEDULE.md)
-### [Examples of Validate phase](EXAMPLES.md)
+---
+
 ### [Phase Checklist](/6-Validate/Phase-6-Checklist.md)
