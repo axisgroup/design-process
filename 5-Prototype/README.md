@@ -29,15 +29,15 @@ Sketch is the primary tool the team uses to create high fidelity mockups. Here a
 
 #### Prototype with InVision
 
-Invision really great for being able to take mockups from Photoshop or Sketch and
+InVision really great for being able to take mockups from Photoshop or Sketch and
 allow for users to click through different states or pages. 
 
 Example of a prototype on InVision: [Prototype: Conflicts in Democratic Republic of Congo](https://invis.io/3VBJDMIGC)
 
 
-#### QlikSense
+#### Qlik Sense
 
-When mocking up a QlikSense app, it is sometimes easier build sheets directly in QlikSense, especially when there's sample data provided. The team can also explore extension objects on [Qlik Branch](http://branch.qlik.com)
+When mocking up a Qlik Sense app, it is sometimes easier build sheets directly in Qlik Sense, especially when there's sample data provided. The team can also explore extension objects on [Qlik Branch](http://branch.qlik.com)
 
 #### Tumult Hype
 
