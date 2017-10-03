@@ -2,6 +2,12 @@
 
 
 ---
+## Inputs/Outputs
+###### Inputs/Prerequisites:
+* High fidelity mockups
+
+###### Outputs/Artifacts:
+* The output could be any of the methods listed below
 
 ## Methods in Design Implementation Support Phase
 
