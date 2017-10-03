@@ -6,22 +6,8 @@ The team should capture the research performed on the company, industry, busines
 
 ## Methods to Capture Research
 
-#### 1. Interview Checklist 
-The interview checklist includes any assumptions, key ideas, and questions that were formed during the Pre-Engagement phase. This checklist will evolve with the project, with items being added and resolved as the engagement progresses. It will also serve useful as a paper trail for future design decisions.
-The team should use this checklist to help guide interviews and keep track of what is learned.
-
-A spreadsheet is useful for capturing this information in a table format, like so:
-
-| 				| 				| Who to Ask/Confirm With | Follow Up Notes |
-| ------------- | ------------- | -------------			  | ------------- 	|
-| Assumption 	| Assumption 1  | 			  |  	|						
-|  				| Assumption 2  | 			  |  	|
-| Key Ideas		| Idea 1	    | 			  |  	|
-|  				| Idea 2	    |			  |  	|
-| Key Questions	| Question 1    |			  |  	|
-|  				| Question 2    |			  |  	|
-
-[Here's a template on SharePoint](https://axisgrp.sharepoint.com/Shared%20Documents/Design%20Engagement%20Resources/Interview%20Checklist.xlsx?d=w43d16b48a2af4d02b4c9b825f20bb056)
+#### 1. Annual Report / 10K Report / 10Q Report
+For public companies, these financial reports are available online. Annual report or 10K report provides a high level view of past year's operation, business strategies, major business issues and certified financial details. A 10Q report provides similar information for the past quarter. 
 
 
 #### 2. Business Model Canvas Questionnaire
