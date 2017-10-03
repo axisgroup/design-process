@@ -1,4 +1,4 @@
-﻿## Understand: Gather existing knowledge, understand the users, expose assumptions and unknowns
+﻿## Understand: Gather existing knowledge, understand users and their goals, expose assumptions and unknowns
 
 The first phase of the design engagement is about understanding the users, their goals and needs, understanding the stakeholders vision for the project, gathering existing knowledge on the business, and exposing assumptions and knowledge gaps. 
 
