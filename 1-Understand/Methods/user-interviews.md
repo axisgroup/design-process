@@ -1,3 +1,12 @@
+## User Interviews
+
+A user interview is a meeting where the design team asks questions to the potential users of the intended solution. During the session, a designer should lead the conversation and ask questions, and another resource should take comprehensive notes for later discussion.
+
+The purpose of the questions is to understand the group of users that the interviewee represents. Not just what they want to see in a report, but what they need in order to make effective business decisions. 
+
+
+Here are some sample questions:
+
 Understand the role:
 * What is your role in the organization?
 * What are your responsibilities?
