@@ -39,7 +39,7 @@ The problem could evolve over further discussions, but it should be agreed upon 
 This should serve as a starting point for discussions with the client. 
 
 #### [Understand](1-Understand)
-The purpose of the understand phase is to develop an understanding of the users and their goals. We typically talk to users and stakeholders during this phase, to understand their business processes, goals and responsibilities, decisions and actions, etc. We also expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
+The first phase of the design sprint is about gathering existing information on the business, the users and their goals. We typically talk to users and stakeholders during this phase, to understand their business processes, goals and responsibilities, decisions and actions, etc. We also expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
 
 #### [Define](2-Define)
 The define phase focuses on consolidating what we learnt from the understand phase and defining personas for the application. This serves as a reference point for further discussions and design decisions. This phase helps further define the scope and vision for the project with users and stakeholders.
