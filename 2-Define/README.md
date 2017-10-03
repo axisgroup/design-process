@@ -1,8 +1,8 @@
 ﻿## Define: Synthesizing the research into usable models
 
-The second phase of the design sprint is all about synthesizing research and information 
+The second phase of the design engagement is all about synthesizing research and information 
 collected in the Understand phase into usable models. Usable models could be of various 
-types like Personna Cards, Scenarios, and Task Analyses.
+types like Persona Cards, Scenarios, and Task Analyses.
 
 Throughout the Define phase, you should be working on creating usable models
 based out on the research and understanding of the problem statement.
@@ -43,8 +43,8 @@ the business process that the design engagement aims to address.
 
 #### [Personas](../2-Define/Methods/personas.md)
 
-Creating personas help categorize and segment various aspects of the problem and their 
-desired solution. They aid in providing personal caracteristics and attributes to 
+Creating personas help categorize and segment various aspects of the problem and the 
+desired solution. They aid in providing personal characteristics and attributes to 
 multiple viewpoints of the problem that the team as well as clients could easily relate to. 
 Creating personas should be a comprehensive task that takes all outcomes of interviews
 with the client and assumptions, bundled into a relatable use case.
@@ -64,7 +64,7 @@ It is useful for working through user flow, moving features to the back burner b
 Identifying the problem will help to determine if there is a problem, if that problem is solvable, and how to solve that problem. This step will be the first step to answering this question: What is this solution, and is it useful?
 
 #### [User Scenarios](../2-Define/Methods/user-scenarios.md)
-A user scenario is a detailed narrative that focuses on one persona. By typing it out, the team thinks throught the details and tell a compelling, easy-to-understand story about the user's needs.
+A user scenario is a detailed narrative that focuses on one persona. By typing it out, the team thinks through the details and tell a compelling, easy-to-understand story about the user's needs.
 
 #### [Storyboard](../2-Define/Methods/storyboard.md)
 Storyboards illustrate the how the user interact with the solution, and what the user does, thinks, or feels in the process. 
@@ -76,7 +76,7 @@ A user journey map demonstrates the flow of user experience, and highlights user
 Task analysis is the process of learning how the users perform their tasks and achieve the intended goals. It helps the designer decide the tasks the solution needs to support and define the navigation and workflow. 
 
 #### [User Stories](../2-Define/Methods/user-stories.md)
-User stories are brief statements (1 or 2 sentences each) regarding the requirement of the solution from the end-user's perspective. It is a very simple method to document design requirements and it helps the design team communicate with both the client and the develpers.
+User stories are brief statements (1 or 2 sentences each) regarding the requirement of the solution from the end-user's perspective. It is a very simple method to document design requirements and it helps the design team communicate with both the client and the developers.
 
 #### [Use Cases](../2-Define/Methods/use-cases.md)
 A use case describes a list of actions or event steps that a user takes to achieve a goal or accomplish a task. It is also used to document requirements, in a much more elaborated manner compared to user stories. 
