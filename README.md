@@ -39,15 +39,10 @@ The problem could evolve over further discussions, but it should be agreed upon 
 This should serve as a starting point for discussions with the client. 
 
 #### [Understand](1-Understand)
-The Understand phase develops a common understanding of the context within which we are working and all the elements in that context: 
-the personas, their goals and responsibilities, business processes, decisions and actions, etc. 
-We want to expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
+The purpose of the understand phase is to develop an understanding of the users and their goals. We typically talk to users and stakeholders during this phase, to understand their business processes, goals and responsibilities, decisions and actions, etc. We also expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
 
 #### [Define](2-Define)
-The Define phase focuses on formulating a ‘mission statement’ centered around established personas for the application or problem at hand. 
-This problem definition should be agreed upon by all team members, including clients, 
-and should serve as a reference point for further discussions. 
-
+The define phase focuses on conclidating what we learnt from the understand phase and defining personas for the application. This serves as a reference point for further discussions and design decisions. 
 
 #### [Diverge](3-Diverge)
 The Diverge phase generates insights and concepts for solutions. 
@@ -61,14 +56,11 @@ During the Converge phase we take all the concepts generated in the diverge phas
 By exploring and eliminating many options, we have reason to be more confident in our design decisions.
 
 #### [Prototype](5-Prototype)
-The Prototype phase develops a prototype that fills our riskiest knowledge gaps and assumptions. 
-Pen and Paper sketches, Sketch + InVision, and QlikSense are all valid mediums. 
-The medium should be determined by our time constraints and learning goals.
+High fidelity mockups that closely represent what the final solution will look like are created in the prototype phase. 
+These high fidelity mockups are created based on concepts from the diverge and converge phases. Sketch, InVision, and Qlik Sense are all valid mediums. 
 
 #### [Validate](6-Validate)
-The Validate phase tests our prototype with existing or potential customers. 
-By the end of this phase, we should have validated or invalidated our riskiest knowledge gaps and 
-assumptions and have confidence in our next steps.
+The purpose of the validate phase is to receive feedback on high fidelity mockups from users and stakholders. Iterations are made to the mockups based on the feedback received. A design engagement might have multiple rounds of iteration depending on the time frame of the project. 
 
 #### [Design Implementation Support](7-Design-Implementation-Support)
 The Design Implementation Support phase encompasses all efforts towards supporting development 
