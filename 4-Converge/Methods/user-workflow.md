@@ -22,6 +22,6 @@ The user workflow could be combined with the views summary and the personas to v
 
 
 <br>
-Example:
+##### Example:
 
 ![User Workflow](/images/user-workflow.jpg)
