@@ -1,22 +1,28 @@
-We love new ideas that push this repository and design sprints forward. We are using [GitHub issues](https://github.com/axisgroup/design-process/issues/) 
+We love new ideas that push this repository and design engagement forward. We are using [GitHub issues](https://github.com/axisgroup/design-process/issues/) 
 for tracking our work on the repository. Here are the ways that you can contribute:
 
-## Maintenance and Improvements
+## Contribute with Issues
+All the open issues are being tracked on the [issue](https://github.com/axisgroup/design-process/issues/new) page. You can contribute by adding new issues, or solving an existing issue.
 
-### Submit a new issue
+##### Submit a new issue
+If you find a mistake, or have questions about the process, you can add a new [issue](https://github.com/axisgroup/design-process/issues/new), and one of the design team members will review the issue and respond to it.
 
-If you find a mistake or have some questions with the repository, please add a new [issue](https://github.com/axisgroup/design-process/issues/new).
-
-### Work on an existing issue
-
+##### Work on an existing issue
 1. You can find the list of open issues [here](https://github.com/axisgroup/design-process/issues) 
 2. Enter your thoughts as comments  
 3. Assign yourself to the issue if you want to make some changes so that we know someone is working on it
 4. Make changes and submit a Pull Request. [Here's how](#quick-guide-for-pull-requests).
 
-### Recommend a method
+<br>
 
-If you want to recommend a method for our design engagement, you can add a new .md file that describes the method under the folder [Methods](https://github.com/axisgroup/design-process/Methods) in your branch and then submit a pull request. 
+## Make Changes in Your Branch
+You can create a new branch, which is essentially a duplicate of the repo for you, and make changes under your branch. Then submit a pull request, which is a request to merge your branch with the master branch. The design team will review the pull request and decide whether we should merge the branchs or not. 
+
+Here are a couple things you can do in your branch:
+
+##### Recommend a method
+
+If you have successful experience using a method and you want to recommend it to the design engagement, you can add a new .md file that describes the method under the folder [Methods](https://github.com/axisgroup/design-process/Methods) in your branch and then submit a pull request. 
 
 The description file should include:
 * Definition and purpose of the method
@@ -25,25 +31,17 @@ The description file should include:
 * Examples
 * References or resources
 
-### Add photos, examples & case studies from previous engagements
+##### Add photos, examples & case studies from previous engagements
 
 The more examples that we have the better it will be to spread knowledge and experience of running the sprints. 
 Listed below are steps for adding examples:
 
-1. Create a topic branch
+1. Create your branch
 2. Edit the README in the folder where you want to add new assets
 3. Add assets that support the explanation of the sprint such as photos, documents, prototypes or videos.
 3. Add references on the separate phases to the respective parts of the example.
 4. Submit a [Pull Request](#quick-guide-to-submitting-a-pull-request-in-github).
 
---
+---
 
-### Quick Guide for Pull Requests:
-Listed below are steps to submitting a Pull Request in GitHub:
-
-1. Fork the repository.
-2. Make your changes in a topic branch.
-3. Squash your commits into a single one ([more](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)).
-4. Rebase against `origin/master`, push to your fork and submit a pull request.
-
-[More detailed guide on pull request](https://guides.github.com/activities/hello-world/)
+### Quick Guide for Pull Requests (https://guides.github.com/activities/hello-world/)
