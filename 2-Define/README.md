@@ -1,11 +1,7 @@
 ﻿## Define: Synthesizing the research into usable models
 
 The second phase of the design engagement is all about synthesizing research and information 
-collected in the Understand phase into usable models. Usable models could be of various 
-types like Persona Cards, Scenarios, and Task Analyses.
-
-Throughout the Define phase, you should be working on creating usable models
-based on the user interviews. The team should be able to synthesize the outcomes of user interviews and consolidate them into personas. The define phase typically involves creating personas but could also include user scenarios and task analysis depending on what's possible in the time frame. 
+collected in the Understand phase. The team should be able to synthesize the outcomes of user interviews and consolidate them into personas. The define phase typically involves creating personas but could also include some of the methods listed below depending on what's possible in the project time frame.  
 
 ---
 
