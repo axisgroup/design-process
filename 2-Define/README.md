@@ -40,7 +40,7 @@ the business process that the design engagement aims to address.
 
 ## Methods in the Define phase:
 
-#### [Personas](../2-Define/Methods/personas.md)
+#### [Personas](../2-Define/Methods/personas.md) (Required)
 
 Creating personas help categorize and segment various aspects of the problem and the 
 desired solution. They aid in providing personal characteristics and attributes to 
@@ -87,7 +87,22 @@ and could also help realize potential risks.
 
 
 ---
+## Phase Checklist
 
-### [Phase Checklist](../2-Define/Phase-2-Checklist.md)
+### Phase 2. Define
 
+- [ ] Personas (Required)
+- [ ] Empathy map
+- [ ] Org chart
+- [ ] Problem statement
+- [ ] Card sorting
+- [ ] User scenario
+- [ ] Storyboard
+- [ ] User journey map
+- [ ] Task analysis
+- [ ] User stories/Use cases
+- [ ] Business process mapping
+
+
+[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
 
