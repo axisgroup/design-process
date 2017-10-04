@@ -44,8 +44,6 @@ Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes 
 
 ## Phase Checklist
 
-### Phase 3. Diverge
-
 One of the 3 methods - Brainstorm, Crazy 8's, Affinity mapping - should be required.
 
 - [ ] Exploratory research
