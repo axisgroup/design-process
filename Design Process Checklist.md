@@ -4,29 +4,29 @@
   - [ ] Business model
   - [ ] Company annual/10k report
   - [ ] Key metrics & definitions in the industry or business domain
-- [ ] Initial interview checklist
+- [ ] Create Running List of AQI (Required)
 - [ ] Pre-kickoff meeting with SD
-  - [ ] SOW walk-through
+  - [ ] SOW walk-through (Required)
 - [ ] Pre-kickoff meeting with client champion
-  - [ ] A list of roles/people involved
-- [ ] Schedule interviews
+  - [ ] A list of roles/people involved (Required)
+- [ ] Schedule interviews (Required)
 - [ ] Request existing documents, such as sample reports or screenshots
 
 
 ### Phase 1. Understand
 
-- [ ] Review existing documents 
+- [ ] Review existing documents (Required)
 - [ ] Create data dictionary
-- [ ] User interviews
+- [ ] User interviews (Required)
   - [ ] Observation
   - [ ] Five why’s
 - [ ] Affinity mapping 
-- [ ] Update interview checklist
+- [ ] Update Running List of AQI (Required)
 
 
 ### Phase 2. Define
 
-- [ ] Personas
+- [ ] Personas (Required)
 - [ ] Empathy map
 - [ ] Org chart
 - [ ] Problem statement
@@ -41,8 +41,11 @@
 
 ### Phase 3. Diverge
 
+One of the 3 methods - Brainstorm, Crazy 8's, Affinity mapping - should be required.
+
 - [ ] Exploratory research
 - [ ] Mind mapping
+- [ ] Brainstorm 
 - [ ] Crazy 8’s
 - [ ] Storyboard
 - [ ] Affinity mapping
@@ -52,27 +55,29 @@
 
 - [ ] Silent critique
 - [ ] 3 minute critique
-- [ ] Group concepts into views
-- [ ] Map personas to views
+- [ ] Group concepts into views (Required, but can happen in Prototype phase)
+- [ ] Map personas to views (Required)
 - [ ] User workflow
-- [ ] Concept review with client
+- [ ] Concept review with client (Required)
 - [ ] Back burner board
 
 
 ### Phase 5. Prototype
 
+One of the 2 methods - Hi-fi mockup in Sketch, Mockup in Qlik Sense - should be required depending on the platform.
+
 - [ ] Wireframe
 - [ ] Hi-fi mockup in Sketch
-- [ ] InVision prototype 
-- [ ] Qlik Sense mockup
+- [ ] InVision prototype (Required)
+- [ ] Mockup in Qlik Sense
 - [ ] Tumult Hype prototype
 
 
 ### Phase 6. Validate
 
-- [ ] Stakeholder/user review
-- [ ] Technical review
-- [ ] Refine design
+- [ ] Stakeholder/user review (Required)
+- [ ] Technical review (Required)
+- [ ] Refine design (Required)
 - [ ] Future recommendations
 - [ ] Usability test
 
@@ -82,6 +87,7 @@
 - [ ] User stories / use cases
 - [ ] Style guide
 - [ ] Functional specs
+- [ ] Hand-off session with development team (Required)
 
 --
 
