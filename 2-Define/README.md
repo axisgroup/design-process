@@ -12,27 +12,27 @@ based on the user interviews. The team should be able to synthesize the outcomes
 ## Input/Output:
 
 
-###### Inputs/Prerequisites:
+#### Inputs/Prerequisites:
 
-* Notes from Interviews: 
+###### Notes from Interviews: 
 The team should revisit knowledge from client interviews to build personas.
  
-* Assumptions and Key Take-aways:
+###### Assumptions and Key Take-aways:
 The team should be mindful of assumptions and key take-aways from user interviews. This
 shall provide ability to better develop user scenarios and personas that address
 a wide range of possibilities and use cases. 
 
-###### Outputs/Artifacts:
+#### Outputs/Artifacts:
 
-* Personas: 
+###### Personas: 
 The team should develop personas, based on the user interviews. Personas define common goals, tasks and activities of either a group of users or individual users. 
 
-* User Scenarios: 
+###### User Scenarios: 
 The team should hash out scenarios in which the solution that the engagement aims to achieve 
 shall interact with the users. Determining user scenarios would better help the team to design
 a truly usable and viable solution to the problem at hand.  
 
-* Task Analysis: 
+###### Task Analysis: 
 The team should perform detailed task analysis to clearly determine aspects of 
 the business process that the design engagement aims to address. 
 
