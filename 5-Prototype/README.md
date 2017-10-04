@@ -1,6 +1,6 @@
 # Prototype
 
-During this phase, the designers will build high fidelity mockups and assemble prototype for the validation phase. For the hi-fi mockups, the designers need to iron out the layout, styles and interactions. Even though fake data is used in the mockups, the designer should still insert some realistic data for better storytelling. 
+During this phase, the designers will build high fidelity mockups based on concepts from the diverge phase. For the hi-fi mockups, the designers need to iron out the layout, styles and interactions. Even though fake data is used in the mockups, the designer should still insert some realistic data for better storytelling. 
 
 
 ---
