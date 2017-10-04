@@ -1,5 +1,15 @@
-A persona is typically defined by the user's role in the organization. It represents a group of users in the same position with same business goals.
+## Personas
 
+#### What is it?
+A persona is typically defined by the user's role in the organization but this isn't always the case. It represents a group of users with same business goals. 
+
+#### Why do you use it?
+During user interviews you might find that multiple users of the same role can have different priorities, motivations and pain points. By creating a persona for a group of users, you define what the common goals and needs of the group are. Personas define who you are designing for.
+
+#### When to do it?
+Personas should be created after conducting user interviews and reviewing notes. 
+
+#### How to do it?
 The following elements should be included in a persona card:
 
 * Title - Persona's role in the organization
@@ -17,6 +27,6 @@ The following elements should be included in a persona card:
 * Key Questions to answer
 * Notes & Quotes
 
-Example:
+#### Example
 
  ![Persona Large Example](/images/Persona-Large.png?raw=true "Persona Example")
