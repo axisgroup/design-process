@@ -28,7 +28,9 @@ Here are the three simple steps:
    * Select "Master" as base (should be default), and your branch as compare
    * Click on create pull request button
 
+Here's a more detailed guide to [Pull Requests](https://guides.github.com/activities/hello-world/)
 
+<br>
 Here are some examples of changes you can make in your branch:
 
 #### Recommend a method
@@ -52,6 +54,4 @@ Listed below are steps for adding examples:
 3. Add references on the separate phases to the respective parts of the example.
 4. Submit a Pull Request
 
----
 
-### [Quick Guide for Pull Requests](https://guides.github.com/activities/hello-world/)
