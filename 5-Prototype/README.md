@@ -17,8 +17,6 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 ## Methods in Prototype Phase
 
-One of the 2 methods - Hi-fi mockup in Sketch, Mockup in Qlik Sense - should be required depending on the platform.
-
 #### [Wireframe](/5-Prototype/Methods/wireframe.md)
 
 Building a wireframe before producing the high fidelity mockups could be very beneficial. A wireframe allows the team to quickly explore different layouts and establish the workflow without worrying about the styling details. 
@@ -63,8 +61,6 @@ Interesting debate about paper prototyping:
 ---
 
 ## Phase Checklist
-
-### Phase 5. Prototype
 
 One of the 2 methods - Hi-fi mockup in Sketch, Mockup in Qlik Sense - should be required depending on the platform.
 
