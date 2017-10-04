@@ -4,10 +4,10 @@ for tracking our work on the repository. Here are the ways that you can contribu
 ## Contribute with Issues
 All the open issues are being tracked on the [issue](https://github.com/axisgroup/design-process/issues/new) page. You can contribute by adding new issues, or solving an existing issue.
 
-##### Submit a new issue
+#### Submit a new issue
 If you find a mistake, or have questions about the process, you can add a new [issue](https://github.com/axisgroup/design-process/issues/new), and one of the design team members will review the issue and respond to it.
 
-##### Work on an existing issue
+#### Work on an existing issue
 1. You can find the list of open issues [here](https://github.com/axisgroup/design-process/issues) 
 2. Enter your thoughts as comments  
 3. Assign yourself to the issue if you want to make some changes so that we know someone is working on it
@@ -20,7 +20,7 @@ You can create a new branch, which is essentially a duplicate of the repo for yo
 
 Here are some examples of changes you can make in your branch:
 
-##### Recommend a method
+#### Recommend a method
 
 If you have successful experience using a method and you want to recommend it to the design engagement, you can add a new .md file that describes the method under the folder [Methods](https://github.com/axisgroup/design-process/Methods) in your branch and then submit a pull request. 
 
@@ -31,7 +31,7 @@ The description file should include:
 * Examples
 * References or resources
 
-##### Add photos, examples & case studies from previous engagements
+#### Add photos, examples & case studies from previous engagements
 
 The more examples that we have the better it will be to spread knowledge and experience of running the sprints. 
 Listed below are steps for adding examples:
