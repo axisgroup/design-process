@@ -1,4 +1,16 @@
-When a user demonstrates the process of using a report or an app, the designer needs to understand the user's thought process, observe the chain of actions, and identify any gaps or pain points. 
+## Observation
+
+#### What is it?
+When a user demonstrates the process of using a report or an app, the designer needs to understand the user's thought process, observe the chain of actions, and identify any gaps or pain points.  
+
+#### Why do you use it?
+It provides an insight into the user's current workflow and helps identify pain points and advantages of what they currently use.
+
+#### When to do it?
+Obervation can be part of a user interview or can be set up as a seperate session. Remind the user to bring any existing material they use. This could be reports, a BI tool, excel files, word docs etc.
+
+#### How to do it?
+Observe the user interact with a report or application. Here are some example questions that can help with observation
 
 * What is the first thing you look at?
 * What does it measure? 
