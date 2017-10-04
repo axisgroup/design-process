@@ -47,9 +47,8 @@ The description file should include:
 The more examples that we have the better it will be to spread knowledge and experience of running the sprints. 
 Listed below are steps for adding examples:
 
-1. Create your branch
-2. Edit the README in the folder where you want to add new assets
-3. Add assets that support the explanation of the sprint such as photos, documents, prototypes or videos.
+1. Edit the README in the folder where you want to add new assets
+2. Add assets that support the explanation of the engagement such as photos, documents, prototypes or videos.
 3. Add references on the separate phases to the respective parts of the example.
 4. Submit a Pull Request
 
