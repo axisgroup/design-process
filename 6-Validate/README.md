@@ -7,11 +7,13 @@ know if that is successful or not.
 ---
 ## Input/Output
 
-###### Inputs/Prerequisites:
-High fidelity mockup: The high fidelity mockups are presented to users to collect feedback
+#### Inputs/Prerequisites:
+###### High fidelity mockup
+The high fidelity mockups are presented to users to collect feedback on them.
 
-###### Outputs/Artifacts:
-High fidelity mockup with iterations: The output is still high fidelity mockups but with changes implemented based on feedback received.
+#### Outputs/Artifacts:
+###### High fidelity mockup with iterations: 
+The output is still high fidelity mockups but with changes implemented based on feedback received.
 
 ---
 
