@@ -1,4 +1,15 @@
+## Five Whys
+
+#### What is it?
 The Five Whys is a fantastic method to use to get to the core of a person’s beliefs and motivations. The designer can use this method while conducting an interview and start with really broad questions like “Do you save much money?” or “How was your harvest this year?” Then, by asking why five times we can get to some essential answers to complicated problems. 
+
+#### Why do you use it?
+By why multiple times you can uncover the underlying problem.
+
+#### When to do it?
+Five why's can be used during a user interview.
+
+#### How to do it?
 
 Steps:
 1. This one is pretty easy. Start by asking a pretty broad question about your Interview participant’s habits or behaviors then ask “why” to their response five times in a row. 
@@ -6,16 +17,16 @@ Steps:
 3. Write down what you hear, paying special attention to moments when it feels like you’ve moved a level deeper into understanding why the person does what she does.
 4. Keep in mind that you might not get to the core stuff until the fourth or fifth “Why.” 
 
-### Example: ###
+#### Example: ####
 
-#### Question 1 ####
+### Question 1 ###
 Q1. Why are processing of jobs delayed?	
 
 A1.1 There is no computerized solution to handle job applications.
 
 A1.2 There was no formal set of procedures to handle job requests, and procedures were passed on by mouth as opposed to being documented.
 
-#### Question 2 ####
+### Question 2 ###
 Q2.1 Why is there no computerized solution to handle job applications?
 
 A2.1 There was staff resistance.
@@ -24,7 +35,7 @@ Q2.2 Why was there was no formal set of procedures to handle job requests, and w
 
 A2.2 There was no system in place to do so.
 
-#### Question 3 ####
+### Question 3 ###
 Q3.1 Why was there staff resistance?
 
 A3.1.1 They were not explained the full benefits of the system.
@@ -36,7 +47,7 @@ A3.1.3 They were uncomfortable about changing the way they worked.
 Q3.2 Why wasn’t there a system in place to handle job requests?
 A3.2 The company grew at an exponential rate that there was no time to document anything.
 
-#### Question 4 ####
+### Question 4 ###
 Q4.1 Why were staff not explained the full benefits of the system?
 
 A4.1 There was a lack of communication.
@@ -55,7 +66,7 @@ Q4.4 Why did the company grow at an exponential rate that there was no time to d
 
 A4.4 There was insufficient planning.
 
-#### Question 5 ####
+### Question 5 ###
 Q5.1 Why was there was a lack of communication?
 
 A5.1 We assumed that the benefits were obvious.
