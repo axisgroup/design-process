@@ -1,17 +1,7 @@
 # Converge: Choose the right path
 
-During Converge our goal is to take all of the ideas/concepts that were generated in the diverge phase and hone in on specific concepts that will be incorporated in the prototype that we will build in the next phase.
+During Converge our goal is to take all of the ideas/concepts that were generated in the diverge phase and hone in on specific concepts that will be incorporated in the prototype that we will build in the next phase. Converging on ideas might involve picking existing concepts to move forward with, making changes to existing concepts or even combining concepts to form a new idea.
 
-Throughout Converge, the team should be thinking about the bigger
-assumptions that are the most important to test.
-This should lead to a discussion
-about what [type of
-prototype](../4-Prototype#activities-for-prototype) will do the
-best job of validating or invalidating it.
-Activities such as
-[Assumption / Test Table](../Exercises/assumptions.md)
-and [Final Storyboard](#final-storyboard)
-should help the team engage this conversation.
 
 ---
 ## Inputs/Outputs
