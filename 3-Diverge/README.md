@@ -24,9 +24,6 @@ Each team member should organize their ideas on either paper, whiteboard, or Ske
 
 ## Methods in Diverge Phase
 
-One of the 3 methods - Brainstorm, Crazy 8's, Affinity mapping - should be required.
-
-
 #### Exploratory Research
 
 Before sketching ideas, each individual can search online for visualization examples that answer similar business questions.
