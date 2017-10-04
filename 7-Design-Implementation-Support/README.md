@@ -9,7 +9,7 @@ The Design Implementation Support phase encompasses all efforts towards supporti
 ###### High fidelity mockups
 
 #### Outputs/Artifacts:
-###### The output could be any of the methods listed below
+###### Any of the methods listed below
 
 ---
 
