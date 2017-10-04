@@ -59,8 +59,6 @@ and open ended enough to collect qualitative information.
 
 ## Phase Checklist
 
-### Phase 6. Validate
-
 - [ ] Stakeholder/user review (Required)
 - [ ] Technical review (Required)
 - [ ] Refine design (Required)
