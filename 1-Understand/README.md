@@ -77,7 +77,23 @@ opinions, issues) and organizes them into groupings based on their natural
 relationships.
 
 ---
+## Phase Checklist
 
-### [Phase Checklist](../1-Understand/Phase-1-Checklist.md)
+### Phase 2. Define
+
+- [ ] Personas (Required)
+- [ ] Empathy map
+- [ ] Org chart
+- [ ] Problem statement
+- [ ] Card sorting
+- [ ] User scenario
+- [ ] Storyboard
+- [ ] User journey map
+- [ ] Task analysis
+- [ ] User stories/Use cases
+- [ ] Business process mapping
+
+
+[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
 
 
