@@ -35,7 +35,8 @@ This critique exercise is more open and allows for a more detailed conversation.
 It gives the person that came up with the idea to add any remaining details or
 correct any wrong interpretations.
 
-#### Group Concepts into Views
+#### Group Concepts into Views 
+(Required, but can happen in Prototype phase)
 
 After visualization concepts are developed, the team needs to group the concepts into different views. They could be grouped by
 * business function
@@ -46,7 +47,8 @@ After visualization concepts are developed, the team needs to group the concepts
 
 The groupings could potentially become the different views in the application. The team should discuss and weigh out the pros and cons of each group of views. Then decide which views the app should have, and what the workflow should be. 
 
-#### [Map Personas to Views](../4-Converge/Methods/personas-to-views.md)
+#### [Map Personas to Views](../4-Converge/Methods/personas-to-views.md) 
+(Required)
 
 After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the process. 
 
@@ -55,6 +57,7 @@ After views are decided, the team needs to map personas to the views. The mappin
 A user workflow chart adds more details to the personas to views mapping, by showing how the user navigates through the different views of the app.
 
 #### Concept Review with Client
+(Required)
 
 Reviewing visualization concepts with the client allows the team to validate the usefulness and usability of their ideas. This also serves as a way to eliminate concepts that aren't effective and hone in on the most valuable concepts in the define phase. It is also a check point for the team to confirm whether they're on the right track or not. 
 
@@ -67,8 +70,20 @@ As a group review all the Back burner ideas. Document the ones that are still ap
 
 ---
 
-### [Phase Checklist](../4-Converge/Phase-4-Checklist.md)
+## Phase Checklist
 
+### Phase 4. Decide
+
+- [ ] Silent critique
+- [ ] 3 minute critique
+- [ ] Group concepts into views (Required, but can happen in Prototype phase)
+- [ ] Map personas to views (Required)
+- [ ] User workflow
+- [ ] Concept review with client (Required)
+- [ ] Back burner board
+
+
+[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
 
 
 
