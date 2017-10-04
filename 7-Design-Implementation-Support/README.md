@@ -32,6 +32,10 @@ A style guide should specify all styling related rules and details of the design
 
 Functional specs document describes the functionality and expected behaviors of all elements in the design. 
 
+#### [Design Hand Off](../7-Design-Implementation-Support/Methods/design-handoff.md)
+
+After the design is approved by client, the design team needs to communicate with the development team and provide supporting documents to make sure they fully understand the design they are going to build.
+
 ---
 
 ## Phase Checklist
