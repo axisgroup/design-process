@@ -17,6 +17,8 @@ During this phase, the designers will build high fidelity mockups and assemble p
 
 ## Methods in Prototype Phase
 
+One of the 2 methods - Hi-fi mockup in Sketch, Mockup in Qlik Sense - should be required depending on the platform.
+
 #### [Wireframe](/5-Prototype/Methods/wireframe.md)
 
 Building a wireframe before producing the high fidelity mockups could be very beneficial. A wireframe allows the team to quickly explore different layouts and establish the workflow without worrying about the styling details. 
@@ -27,7 +29,7 @@ Building a wireframe before producing the high fidelity mockups could be very be
 Sketch is the primary tool the team uses to create high fidelity mockups. Here are some useful resources for the team: [Axis Design Resources](https://drive.google.com/drive/folders/0BwLVd0W-_5qwZEZnMzRETEZ5QjA)
 
 
-#### Prototype with InVision
+#### Prototype with InVision (Required)
 
 InVision really great for being able to take mockups from Photoshop or Sketch and
 allow for users to click through different states or pages. 
@@ -60,4 +62,16 @@ Interesting debate about paper prototyping:
 
 ---
 
-### [Phase Checklist](../5-Prototype/Phase-5-Checklist.md)
+## Phase Checklist
+
+### Phase 5. Prototype
+
+One of the 2 methods - Hi-fi mockup in Sketch, Mockup in Qlik Sense - should be required depending on the platform.
+
+- [ ] Wireframe
+- [ ] Hi-fi mockup in Sketch
+- [ ] InVision prototype (Required)
+- [ ] Mockup in Qlik Sense
+- [ ] Tumult Hype prototype
+
+[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
