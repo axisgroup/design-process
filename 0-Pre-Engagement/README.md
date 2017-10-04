@@ -47,5 +47,21 @@ The design team should take the time to collaborate with the Solutions Director 
 The team should send out requests to schedule interviews with the client and block time on their calendars to gather further understanding of the problem. This shall ensure that the client is available to answer questions, provide insight, and provide any additional information that might be required by designers to further their understanding. The team should also identify key reports or screenshots that would be useful to obtain prior to interviewing users. 
 
 ---
-### [Phase Checklist](../0-Pre-Engagement/Phase-0-Checklist.md)
+### Phase 0. Pre-engagement 
+
+- [ ] Capture preliminary research
+  - [ ] Business model
+  - [ ] Company annual/10k report
+  - [ ] Key metrics & definitions in the industry or business domain
+- [ ] Initial interview checklist
+- [ ] Pre-kickoff meeting with SD
+  - [ ] SOW walk-through
+- [ ] Pre-kickoff meeting with client champion
+  - [ ] A list of roles/people involved
+- [ ] Schedule interviews
+- [ ] Request existing documents, such as sample reports or screenshots
+
+
+[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
+
 
