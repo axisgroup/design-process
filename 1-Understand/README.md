@@ -44,7 +44,7 @@ After a period of debriefing, the design lead should send a Thank You email to t
 ## Methods in the Understand phase:
 
 
-#### [User Interviews](../1-Understand/Methods/user-interviews.md)
+#### [User Interviews](../1-Understand/Methods/user-interviews.md) (Required)
 
 Conducting user interviews is the primary and required method the design team uses in the understand phase. By talking to the users directly, we can learn what they do, what they need and all the reasons behind. 
 
@@ -59,7 +59,7 @@ During the interview, the designer can perform this activity to dig down deep in
 problem or what the problem actually is. It is good to use when the apparent problem seems to only be a symptom of a larger problem. 
 
 
-#### [Running List of AQI](../1-Understand/Methods/running-list-of-aqi.md)
+#### [Running List of AQI](../1-Understand/Methods/running-list-of-aqi.md) (Required)
 
 Throughout the Understand phase, we will ask questions we don’t have
 answers to and identify assumptions we are relying on. We will capture these
