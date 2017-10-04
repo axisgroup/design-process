@@ -36,8 +36,6 @@ Functional specs document describes the functionality and expected behaviors of 
 
 ## Phase Checklist
 
-### Phase 7. Design Implementation Support
-
 - [ ] User stories / use cases
 - [ ] Style guide
 - [ ] Functional specs
