@@ -41,7 +41,7 @@ After the design is approved by client, the design team needs to communicate wit
 ## Phase Checklist
 
 - [ ] User stories / use cases
-- [ ] Style guide
+- [ ] Design specs
 - [ ] Functional specs
 - [ ] Hand-off session with development team (Required)
 
