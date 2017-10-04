@@ -11,7 +11,7 @@ know if that is successful or not.
 High fidelity mockup: The high fidelity mockups are presented to users to collect feedback
 
 ###### Outputs/Artifacts:
-High mockup with iterations: The output is still high fidelity mockups but with changes implemented based on feedback received.
+High fidelity mockup with iterations: The output is still high fidelity mockups but with changes implemented based on feedback received.
 
 ---
 
