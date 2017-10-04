@@ -79,19 +79,15 @@ relationships.
 ---
 ## Phase Checklist
 
-### Phase 2. Define
+### Phase 1. Understand
 
-- [ ] Personas (Required)
-- [ ] Empathy map
-- [ ] Org chart
-- [ ] Problem statement
-- [ ] Card sorting
-- [ ] User scenario
-- [ ] Storyboard
-- [ ] User journey map
-- [ ] Task analysis
-- [ ] User stories/Use cases
-- [ ] Business process mapping
+- [ ] Review existing documents (Required)
+- [ ] Create data dictionary
+- [ ] User interviews (Required)
+  - [ ] Observation
+  - [ ] Five why’s
+- [ ] Affinity mapping 
+- [ ] Update Running List of AQI (Required)
 
 
 [Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
