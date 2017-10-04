@@ -15,11 +15,13 @@ should help the team engage this conversation.
 
 ---
 ## Inputs/Outputs
-###### Inputs/Prerequisites:
-* Concepts from the diverge phase: The team should look at all the concepts created in the diverge phase and use methods listed below to hone in on certain concepts and refine them further.
+#### Inputs/Prerequisites:
+###### Concepts from the diverge phase: 
+The team should look at all the concepts created in the diverge phase and use methods listed below to hone in on certain concepts and refine them further.
 
-###### Outputs/Artifacts:
-* Refined concepts: These are concepts that will be used to create the high fidelity mockups in the next phase.
+#### Outputs/Artifacts:
+###### Refined concepts: 
+These are concepts that will be used to create the high fidelity mockups in the next phase.
 
 
 ## Methods in Converge Phase
