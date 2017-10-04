@@ -8,7 +8,7 @@ A user workflow enables the design team to demonstrate to the client how and why
 
 #### When to do it?
 After views are generated if the flow remains at the view level, or after high fidelity mockups are produced if the flow dives deeper into components in the views. It is also a time consuming method, therefore the team can only do it when time allows.<br>
-The user workflow could be combined with the views summary and the personas to views mapping. 
+User workflow could be combined with the views summary and the personas to views mapping. 
 
 #### How to do it?
 1. Lay out the views (or components) the persona needs to use.
