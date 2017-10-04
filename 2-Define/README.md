@@ -1,4 +1,4 @@
-﻿## Define: Synthesizing the research into usable models
+﻿## Define: Consolidating Research
 
 The second phase of the design engagement is all about synthesizing research and information 
 collected in the Understand phase. The team should be able to synthesize the outcomes of user interviews and consolidate them into personas. The define phase typically involves creating personas but could also include some of the methods listed below depending on what's possible in the project time frame.  
