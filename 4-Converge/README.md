@@ -69,8 +69,6 @@ As a group review all the Back burner ideas. Document the ones that are still ap
 
 ## Phase Checklist
 
-### Phase 4. Decide
-
 - [ ] Silent critique
 - [ ] 3 minute critique
 - [ ] Group concepts into views (Required, but can happen in Prototype phase)
