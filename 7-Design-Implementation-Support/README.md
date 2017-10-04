@@ -24,11 +24,11 @@ User stories can document all the features the app needs to support. The design 
 
 Similar to user stories, use cases can also be used as documentation of design features to facilitate communication between designers and developers. 
 
-#### [Style Guide](../7-Design-Implementation-Support/Methods/style-guide.md)
+#### [Design Specifications Document](../7-Design-Implementation-Support/Methods/design-specs.md)
 
 A style guide should specify all styling related rules and details of the design, such as colors, fonts, spacing and positioning. 
 
-#### [Functional Specs](../7-Design-Implementation-Support/Methods/functional-specs.md)
+#### [Functional Specifications Document](../7-Design-Implementation-Support/Methods/functional-specs.md)
 
 Functional specs document describes the functionality and expected behaviors of all elements in the design. 
 
