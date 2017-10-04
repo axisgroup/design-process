@@ -8,22 +8,22 @@ develop an understanding of the industry that the client is in, the client's bus
 
 ## Input/Output
 
-###### Inputs/Prerequisites:
+#### Inputs/Prerequisites:
 
-* Statement of Work (SOW)
+###### Statement of Work (SOW)
 
 
-###### Outputs/Artifacts:
+#### Outputs/Artifacts:
 
-* Key Takeaways from Preliminary Research
+###### Key Takeaways from Preliminary Research
 
-* Running List of Assumptions, Questions, and Ideas (AQI)
+###### Running List of Assumptions, Questions, and Ideas (AQI)
 
-* A list of roles that will be involved in the project
+###### A list of roles that will be involved in the project
 
-* Requests to schedule interviews
+###### Requests to schedule interviews
 
-* Existing documents or requests for documents
+###### Existing documents or requests for documents
 
 If time allows, the team should document research outcomes as they would be useful in future phases to ensure that the team has common grounds for formulating assumptions and identifying risks. The research can also serve as a repository for any similar design engagements in future.
 
