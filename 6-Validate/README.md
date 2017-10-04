@@ -8,7 +8,7 @@ know if that is successful or not.
 ## Input/Output
 
 ###### Inputs/Prerequisites:
-High fidelity mockup: The prototype designed from the previous phase is presented to users to collect feedback
+High fidelity mockup: The high fidelity mockups are presented to users to collect feedback
 
 ###### Outputs/Artifacts:
 High mockup with iterations: The output is still high fidelity mockups but with changes implemented based on feedback received.
