@@ -44,4 +44,4 @@ Listed below are steps for adding examples:
 
 ---
 
-### Quick Guide for Pull Requests (https://guides.github.com/activities/hello-world/)
+### [Quick Guide for Pull Requests](https://guides.github.com/activities/hello-world/)
