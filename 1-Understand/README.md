@@ -3,7 +3,7 @@
 The first phase of the design engagement is about understanding the users, their goals and needs, understanding the stakeholders vision for the project, gathering existing knowledge on the business, and exposing assumptions and knowledge gaps. 
 
 Throughout the Understand phase, you should be working on understanding the business, who is
-going to be using the product, what do users currently use and how do they use it?. In what situations will the user be using the product or feature? What are their motivations behind using it? What are any outside motivators that might affect their use? What are their goals? What do they do on a daily basis?
+going to be using the product, what are their goals? what do users currently use and how do they use it? In what situations will the user be using the product or feature? What are their motivations behind using it? What are any outside motivators that might affect their use?  
 
 The team should also talk about what they don't know and where there are knowledge gaps. At the end of Understand phase, the team should have established a solid understanding of the users and the problem at hand.
 
@@ -12,9 +12,9 @@ The team should also talk about what they don't know and where there are knowled
 
 #### Inputs/Prerequisites:
 
-###### Industry and Client research: 
+###### Industry and client research: 
 The team should perform industry research to determine trends, and understand industry standards and best practices.
-The team should also perform extensive research on the client, understand their business process(es), and their competitors.
+The team should also perform extensive research on the client, understand their business processes, and their competitors.
 Additionally, the team should view pre-existing solutions that may already exist, in order to eliminate the need to 're-invent the wheel' and save time and effort. 
 
 ###### Reviewing client's currently existing solution:
@@ -34,7 +34,7 @@ The team should use this checklist to help guide interviews and keep track of wh
 All team members present at a meeting ought to upload raw notes to a central repository such as SharePoint. 
 
 ###### Interview Checklist Changes:
-The raw notes can be used to update the interview checklist. Design members can decide which assumptions have been addressed, what key ideas an themes were mentioned, and what new questions have arisen. 
+The raw notes can be used to update the interview checklist. Design members can decide which assumptions have been addressed, what key ideas and themes were mentioned, and what new questions have arisen. 
 
 ###### Follow-Up Email:
 After a period of debriefing, the design lead should send a Thank You email to the people that were interviewed and include, if possible, a brief list of key items learned, or any pending questions that still exist. 
