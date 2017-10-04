@@ -89,8 +89,6 @@ and could also help realize potential risks.
 ---
 ## Phase Checklist
 
-### Phase 2. Define
-
 - [ ] Personas (Required)
 - [ ] Empathy map
 - [ ] Org chart
