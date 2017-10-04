@@ -18,17 +18,17 @@ High mockup with iterations: The output is still high fidelity mockups but with 
 
 ## Methods in Validate Phase
 
-#### Stakeholder/User Review
+#### Stakeholder/User Review (Required)
 
 Reviewing the design with stakeholders and users is the core activity in the validation phase. It allows the design team to observe user reactions to the design and to collect their feedback, so that they can better refine the design.
 
 
-#### Technical Review
+#### Technical Review (Required)
 
 The designer needs to walk the developer through the design, and make sure everything is possible to build and raise red flags if anything takes extra effort. This step is especially important if an estimate of build document is one of the final deliverables.
 
 
-#### Refine Design
+#### Refine Design (Required)
 
 The design team will take the feedback from the stakeholder/user review and implement changes to the prototype, and then circle back to the stakeholders and users to get further feedback or approval.
 
@@ -57,4 +57,15 @@ and open ended enough to collect qualitative information.
 
 ---
 
-### [Phase Checklist](/6-Validate/Phase-6-Checklist.md)
+## Phase Checklist
+
+### Phase 6. Validate
+
+- [ ] Stakeholder/user review (Required)
+- [ ] Technical review (Required)
+- [ ] Refine design (Required)
+- [ ] Future recommendations
+- [ ] Usability test
+
+[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
+
