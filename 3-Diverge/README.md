@@ -40,7 +40,19 @@ Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes 
 
 ---
 
-### [Phase Checklist](../3-Diverge/Phase-3-Checklist.md)
+## Phase Checklist
+
+### Phase 3. Diverge
+
+One of the 3 methods - Brainstorm, Crazy 8's, Affinity mapping - should be required.
+
+- [ ] Exploratory research
+- [ ] Mind mapping
+- [ ] Brainstorm 
+- [ ] Crazy 8’s
+- [ ] Storyboard
+- [ ] Affinity mapping
 
 
+[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
 
