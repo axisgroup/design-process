@@ -11,10 +11,10 @@ After concepts and views are decided, before building high fidelity mockups.
 
 #### How to do it?
 1. Lay out all the content that belongs to this view, such as buttons, filters, dropdowns, and charts.
-2. Group them logically into components
+2. Group them logically into components.
 3. Lay out different components on the page using boxes. Each box represents one component.
-4. Explore different layouts
-5. Review the layout and decide which one to use
+4. Explore different layouts.
+5. Review the layout, make adjustments, and decide on one to use for mockups.
 
 <br>
 
