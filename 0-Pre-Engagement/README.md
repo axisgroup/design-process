@@ -49,8 +49,6 @@ The team should send out requests to schedule interviews with the client and blo
 ---
 ## Phase Checklist:
 
-### Phase 0. Pre-engagement 
-
 - [ ] Capture preliminary research
   - [ ] Business model
   - [ ] Company annual/10k report
