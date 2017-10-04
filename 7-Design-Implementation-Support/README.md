@@ -34,4 +34,14 @@ Functional specs document describes the functionality and expected behaviors of 
 
 ---
 
-### [Phase Checklist](../7-Design-Implementation-Support/Phase-7-Checklist.md)
+## Phase Checklist
+
+### Phase 7. Design Implementation Support
+
+- [ ] User stories / use cases
+- [ ] Style guide
+- [ ] Functional specs
+- [ ] Hand-off session with development team (Required)
+
+[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
+
