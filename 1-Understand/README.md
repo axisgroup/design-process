@@ -43,19 +43,21 @@ After a period of debriefing, the design lead should send a Thank You email to t
 
 ## Methods in the Understand phase:
 
+#### Review existing documents (Required)
+It is valuable to review existing documents to understand what information users currently look at and how they get to the information they need. 
 
 #### [User Interviews](../1-Understand/Methods/user-interviews.md) (Required)
 
 Conducting user interviews is the primary and required method the design team uses in the understand phase. By talking to the users directly, we can learn what they do, what they need and all the reasons behind. 
 
-##### [Observation](.../1-Understand/Methods/observation.md)
+  ##### [Observation](.../1-Understand/Methods/observation.md)
 
-During the interview session, it's always useful to observe the user's interactions with the existing solution. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's actual workflow and where their needs are or aren't being met. 
+  During the interview session, it's always useful to observe the user's interactions with the existing solution. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's actual workflow and where their needs are or aren't being met. 
 
 
-##### [Five Whys](../1-Understand/Methods/five-whys.md)
+  ##### [Five Whys](../1-Understand/Methods/five-whys.md)
 
-During the interview, the designer can perform this activity to dig down deep into what the actual reasons are for a
+  During the interview, the designer can perform this activity to dig down deep into what the actual reasons are for a
 problem or what the problem actually is. It is good to use when the apparent problem seems to only be a symptom of a larger problem. 
 
 
@@ -78,8 +80,6 @@ relationships.
 
 ---
 ## Phase Checklist
-
-### Phase 1. Understand
 
 - [ ] Review existing documents (Required)
 - [ ] Create data dictionary
