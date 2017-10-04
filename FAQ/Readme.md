@@ -1,27 +1,34 @@
-## What are the differeces between all the user related research methods like "user story", "use case", "user scenario", etc?
-
-See this presentation [Similar Design Methods](https://invis.io/8ADPQ09QX)
-
-
---
-
-## What softwares or tools can I use during the process?
-
-Here are some tools for digital whiteboarding and remote collaboration:
-
-* [InVision Freehand](https://www.invisionapp.com/feature/freehand)
-* [Realtime Board](https://realtimeboard.com/) 
-* [Mural](https://mural.co/#)
+## What are the differeces between the following methods: 
+* User Story
+* Use Case
+* User Scenario
+* Storyboard 
+* User Journey
+* Task Analysis
+* User Flow
 
 
---
+#### Answer:
+On a high level, these methods can all help us understand the users and define the requirements. But there are differences in their specific purposes, and they each has a unique format. 
 
-## What resources do we have?
+###### Purpose:
+* User Stories and Use Cases are mostly used to capture specific design requirements. They both can help designers prioritize user's needs and features in the design, and they can facilitate communication between the design team and the development team.
 
-* [Interview Checklist Template](https://axisgrp.sharepoint.com/Shared%20Documents/Design%20Engagement%20Resources/Interview%20Checklist.xlsx?d=w43d16b48a2af4d02b4c9b825f20bb056&csf=1)
-* [Axis Design Style Guide](https://drive.google.com/open?id=0B3RhFswo7vVxVlBCR1Y3dHRZXzA)
-* [Axis Design Resources](https://drive.google.com/open?id=0B2jmfR7rci5mV3BId2FkbG9NYjA)
-* Design method collections:
-  * [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/methods/)
-  * [MediaLab Amsterdan Design Method Toolkit](http://medialabamsterdam.com/toolkit/)
-  * [IDEO Design Kit](http://www.designkit.org/methods)
+* User Scenarios and Storyboards both focus on telling a compelling story, which can help the team convey important messages to the client, such as "how this problem prevents this persona from succeeding" or "how this design feature helps solving this problem". 
+
+* User Journey, Task Analysis, and User Flows all describe the steps between a start and an end point. User Journey highlights the user's emotional experience along the steps. Task Analysis focuses on the tasks the user performs and breaks down tasks into sub-tasks. User Flow, or User Workflow, focuses more on the user's interaction with the intended solution. It usually describes the steps the user should/might take instead of what the user currently does in reality.
+
+
+###### Format:
+* User Story - One sentence text following this template: "As a (role), I want/need (requirement), so that (reason/benefit)."
+* Use Case - Text with multiple sections including "Use Case Name", "Actor", "Steps", etc.
+* User Scenario - One or two paragraphs of narratives
+* Storyboard - A series of sketches/images within frames
+* User Journey - A linear flow chart, usually with multiple lanes in a tabular format
+* Task Analysis - A hierarchical flow chart
+* User Flow - A free-form flow chart
+
+
+For more details on these 7 methods, see this presentation [Similar Design Methods](https://invis.io/8ADPQ09QX)
+
+---
