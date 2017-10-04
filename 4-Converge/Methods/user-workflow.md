@@ -20,8 +20,8 @@ After views are generated if the flow remains at the view level, or after high f
 
 The user workflow could be combined with the views summary and the personas to views mapping. 
 
-
 <br>
+
 ##### Example:
 
 ![User Workflow](/images/user-workflow.jpg)
