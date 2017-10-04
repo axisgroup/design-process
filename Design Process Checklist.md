@@ -4,7 +4,7 @@
   - [ ] Business model
   - [ ] Company annual/10k report
   - [ ] Key metrics & definitions in the industry or business domain
-- [ ] Create Running List of Assumptions, Questions, and Ideas (Required)
+- [ ] Create Running List of Assumptions, Questions, and Ideas (AQI) (Required)
 - [ ] Pre-kickoff meeting with SD
   - [ ] SOW walk-through (Required)
 - [ ] Pre-kickoff meeting with client champion
