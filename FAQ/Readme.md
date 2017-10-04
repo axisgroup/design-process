@@ -1,4 +1,4 @@
-## What are the differeces between the following methods: 
+## What are the differences between the following methods: 
 * User Story
 * Use Case
 * User Scenario
