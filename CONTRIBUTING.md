@@ -18,7 +18,7 @@ If you find a mistake, or have questions about the process, you can add a new [i
 ## Make Changes in Your Branch
 You can create a new branch, which is essentially a duplicate of the repo for you, and make changes under your branch. Then submit a pull request, which is a request to merge your branch with the master branch. The design team will review the pull request and decide whether we should merge the branchs or not. 
 
-Here are a couple things you can do in your branch:
+Here are some examples of changes you can make in your branch:
 
 ##### Recommend a method
 
