@@ -7,9 +7,12 @@ The Design Implementation Support phase encompasses all efforts towards supporti
 ## Inputs/Outputs
 #### Inputs/Prerequisites:
 ###### High fidelity mockups
+###### Prototype
 
 #### Outputs/Artifacts:
-###### Any of the methods listed below
+###### User Stories/Use Cases
+###### Design Specifications Document
+###### Functional Specifications Document
 
 ---
 
