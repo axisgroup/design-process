@@ -10,14 +10,14 @@ can become valuable differentiating forces and the source of unique solutions. A
 
 ## Input/Output
 
-###### Inputs/Prerequisites:
+#### Inputs/Prerequisites:
 
-* Personas and Key Questions: 
+###### Personas and Key Questions: 
 The team should familiarize themselves with each persona's goals, tasks, and key questions, as these are what will lay the groundwork for the Diverge phase. 
 
-###### Outputs/Artifacts:
+#### Outputs/Artifacts:
 
-* Visualization Concepts: 
+###### Visualization Concepts: 
 Each team member should organize their ideas on either paper, whiteboard, or Sketch -- whatever works best for sharing and discussion.
 
 ---
