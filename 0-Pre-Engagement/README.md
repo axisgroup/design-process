@@ -17,7 +17,7 @@ develop an understanding of the industry that the client is in, the client's bus
 
 ###### Key Takeaways from Preliminary Research
 
-###### Running List of Assumptions, Questions, and Ideas (AQI)
+###### Running List of AQI (Assumptions, Questions and Ideas)
 
 ###### A list of roles that will be involved in the project
 
@@ -37,8 +37,8 @@ to better understand the problem at hand.
 #### [Preliminary Research](../0-Pre-Engagement/Methods/preliminary-research.md)
 The team should capture the research performed on the company, industry, business function, and client history. This will provide a baseline for future design decisions, and can easily be passed on to other team members to bring them up to speed. 
 
-#### [Running List of Assumptions, Questions, Ideas (AQI)](../0-Pre-Engagement/Methods/running-list-of-aqi.md) (Required)
-This running list needs to be updated throughout the process so that it provides a paper trail for the design concepts and decisions.
+#### [Running List of AQI](../0-Pre-Engagement/Methods/running-list-of-aqi.md) (Required)
+The Running List of AQI (Assumptions, Questions and Ideas) needs to be updated throughout the process so that it provides a paper trail for the design concepts and decisions.
 
 #### [Pre-Kickoff Meetings](../0-Pre-Engagement/Methods/prekickoff.md) (Required)
 The design team should take the time to collaborate with the Solutions Director (SD) to discuss and thoroughly understand the Statement of Work (SOW), talk to the Subject Matter Experts (SMEs) to learn more about the industry or business domains, and meet with the client champion to understand overall background and expectations of the engagement. This shall ensure a common grounds of understanding the 'job to be done.' 
@@ -53,7 +53,7 @@ The team should send out requests to schedule interviews with the client and blo
   - [ ] Business model
   - [ ] Company annual/10k report
   - [ ] Key metrics & definitions in the industry or business domain
-- [ ] Create Running List of Assumptions, Questions, and Ideas (AQI) (Required)
+- [ ] Create Running List of AQI (Assumptions, Questions and Ideas) (Required)
 - [ ] Pre-kickoff meeting with SD
   - [ ] SOW walk-through  (Required)
 - [ ] Pre-kickoff meeting with client champion
