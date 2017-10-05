@@ -70,11 +70,10 @@ In addition to availability to support and answer any questions or concerns face
 any documentation required to turn over development responsibilities to internal teams shall be created in this phase.
 <br>
 
+---
+
 ##### [Design Process Checklist](Design-Process-Checklist.md)
 This checklist includes all the methods in all phases that could be applied in the current design process. Some tasks are marked "Required" which means they are essential to the success of the engagement and should take priority. 
-<br>
-
----
 
 ##### [Design Resources](Resources)
 In this folder you can find useful resources, including design resources that are created by Axis team, design method collections, and useful online tools. We will keep updating this folder as we discover more useful resources in the future. 
