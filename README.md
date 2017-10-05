@@ -70,21 +70,23 @@ In addition to availability to support and answer any questions or concerns face
 any documentation required to turn over development responsibilities to internal teams shall be created in this phase.
 <br>
 
-##### [Design Process Checklist](design-process/Design-Process-Checklist.md)
+##### [Design Process Checklist](Design-Process-Checklist.md)
 This checklist includes all the methods in all phases that could be applied in the current design process. Some tasks are marked "Required" which means they are essential to the success of the engagement and should take priority. 
 <br>
 
-##### [Design Resources](Resources)
+---
 
+##### [Design Resources](Resources)
+In this folder you can find useful resources, including design resources that are created by Axis team, design method collections, and useful online tools. We will keep updating this folder as we discover more useful resources in the future. 
 
 ##### [Frequently Asked Questions](FAQ)
-
+We will answer questions in the Issue section, and collect frequently asked ones in here and answer in detail.
 
 ##### [Contributing](CONTRIBUTING.md)
+We welcome anyone to contribute to this design process documentation, and here's how you can start.
+
 ---
 
 #### [License](/LICENSE)
 
 Copyright © 2017 Axis Group, llc. The information contained in this document is free, and may be redistributed under the terms specified in the license.
-
-The underlying repository structure is derived from [Thought Bot's Design Sprint](https://github.com/thoughtbot/design-sprint) and may be redistributed under the [MIT License](https://github.com/thoughtbot/design-sprint/blob/master/LICENSE.md).
