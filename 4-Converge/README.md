@@ -70,7 +70,7 @@ As a group review all the Back burner ideas. Document the ones that are still ap
 - [ ] Back burner board
 
 
-[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
+[Full Design Process Checklist](../Design-Process-Checklist.md)
 
 
 
