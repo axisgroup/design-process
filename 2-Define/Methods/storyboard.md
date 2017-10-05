@@ -10,11 +10,11 @@ Storyboarding in UX is tool which help you visually predict and explore a userâ€
 Use this method after the user interviews or while thinking of concepts
 
 #### How to do it?
-Think about your product as if it was a movie in terms of how people would use it. You don't need to be an artist to create a storyboard. Focus on the story rather than the quality of your drawings. Rough sketches and stick figures are prefectly acceptable.
+Think about your product as if it was a movie in terms of how people would use it. You don't need to be an artist to create a storyboard. Focus on the story rather than the quality of your drawings. Rough sketches and stick figures are perfectly  acceptable. 
 
-Think about the character for your storyboard - Who is the persona? What are their goals, motivations etc?(persona cards can help feed this)
-Decide on the plot - The storyboard starts with a trigger and shows subsequent steps of how the narrative unfolds. 
-Visualize the scene or the world in which the character lives
+Who is the character for your storyboard? - Who is the persona? What are their goals, motivations etc.? (persona cards can help feed this)
+What is the plot? - The storyboard starts with a trigger and shows subsequent steps of how the narrative unfolds. 
+What do the scenes look like? Think about the context you need to provide. Visualize the world in which the character lives.
 
 * Start with plain text and arrows that breaks the story up. 
 * Add emotions to the text.
