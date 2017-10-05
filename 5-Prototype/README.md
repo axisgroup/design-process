@@ -70,4 +70,4 @@ One of the 2 methods - Hi-fi mockup in Sketch, Mockup in Qlik Sense - should be 
 - [ ] Mockup in Qlik Sense
 - [ ] Tumult Hype prototype
 
-[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
+[Full Design Process Checklist](../Design-Process-Checklist.md)
