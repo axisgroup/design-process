@@ -87,4 +87,4 @@ This checklist includes all the methods in all phases that could be applied in t
 
 Copyright © 2017 Axis Group, llc. The information contained in this document is free, and may be redistributed under the terms specified in the license.
 
-The underlying repository structure is derived from Thought Bot's Design Sprint (https://github.com/thoughtbot/design-sprint) and may be redistributed under the MIT License(https://github.com/thoughtbot/design-sprint/blob/master/LICENSE.md).
+The underlying repository structure is derived from [Thought Bot's Design Sprint](https://github.com/thoughtbot/design-sprint) and may be redistributed under the [MIT License](https://github.com/thoughtbot/design-sprint/blob/master/LICENSE.md).
