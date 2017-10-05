@@ -1,4 +1,6 @@
-## What are the differences between the following methods: 
+# Frequently Asked Questions
+
+## 1. What are the differences between the following methods: 
 * User Story
 * Use Case
 * User Scenario
