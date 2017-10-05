@@ -11,7 +11,7 @@ User journey mapping is a process to deconstruct a user’s experience with a pr
 
 #### How to do it?
 
-Alternatively, a user journey map can also be constructed like a big table:
+A user journey map can be constructed with this template:
 
 ![User Journey 3](/images/user-journey-3.png)
 
