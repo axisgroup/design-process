@@ -1,5 +1,16 @@
-A user scenario is a detailed narrative, which describes how a user interacts with a solution to accomplish his/her business goals. It is typically used to provide a picture of the intended user experience (i.e. what ideally should happen), but can equally outline what currently happens. 
+## User Scenario
 
+#### What is it?
+A user scenario is a detailed narrative, which describes how a user interacts with a solution to accomplish his/her business goals. It is typically used to provide a picture of the intended user experience (i.e. what ideally should happen), but can equally outline what currently happens.
+
+#### Why do you use it?
+Creating user scenarios helps the team get into the mindset of the user. It's also a great exercise for the team to tell a story to the user. 
+
+#### When to use it?
+User scenarios are created after the understand phase. 
+
+
+#### How to do it?
 The scenario should include the five W's: 
 * Who is the main actor?
 * When does it happen?
@@ -12,7 +23,7 @@ And details, like:
 * What a user might feel
 * What a user might say to another user
 
-A user scenario is similar to task analysis as in they both describe the tasks a user needs to perform to achive a goal. However, a user scenario is more elaborated and focused more an the interaction with the intended solution. It's a great exercise for the team to tell a story to the user. 
+A user scenario is similar to task analysis as in they both describe the tasks a user needs to perform to achive a goal. However, a user scenario is more elaborated and focused more on the narrative and interaction with the intended solution. 
 
 
 
@@ -20,10 +31,10 @@ A user scenario is similar to task analysis as in they both describe the tasks a
 
 Harriet, a local art event organizer, has a problem: she needs to find a great film for her December event. Getting into her psyche, Harriet is specifically looking for a film with a winter theme. Her motivation might be that she needs to attract a larger-than-average attendance to make up for a small failure at the last screening.
 
-Harriet starts out on the home page and quickly conducts a search. She spends a little time searching and browsing, watches a clip here and there, and finally settles on a film that interests her. She reads some details about the film, including reviews from both LUX and other searchers, plus bookmarks the artist for later screenings. Finally she puts the film in her basket and hires the artist during checkout. Harriet has successfully completed her goal — she found a wintry film for her December event.
+Harriet starts out on the home page and quickly conducts a search. She spends a little time searching and browsing, watches a clip here and there, and finally settles on a film that interests her. She reads some details about the film, including reviews from both LUX and other searchers, plus bookmarks the artist for later screenings. Finally, she puts the film in her basket and hires the artist during checkout. Harriet has successfully completed her goal — she found a wintry film for her December event.
 
 
--- 
+---
 
 References:
 
