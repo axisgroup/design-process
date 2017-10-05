@@ -21,7 +21,6 @@ After the session, the designer should send out a follow-up email to the intervi
   
 <br>
 
-
 ##### Sample questions:
 
 Understand the role:
