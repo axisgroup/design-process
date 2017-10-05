@@ -20,7 +20,6 @@ After views are decided.
 3. Connect the persona to views and weight the lines by frequency of use or priority of the goals achieved in each view
 4. After all personas are mapped to views, mark each view with colored dots. Each color represents a persona, and the dots have 3 forms that represent whether this persona is a primary user, a secondary user, or not an intended user of this view.
 
-![View Summary Legend](/images/view-summary-legend.png)
 
 <br>
 
