@@ -10,7 +10,7 @@ After the research phase, there could be many thoughts and ideas in the designer
 In the Diverge phase, as a preparation for concept generation. 
 
 #### How to do it?
-Mind mapping is a simple process. Grab a pen and a piece of paper, and simply start writing or drawing until you think all the thoughts are laid out on paper. 
+Mind mapping is a simple process. Grab a pen and a piece of paper, and simply start writing or drawing until you think all the thoughts are laid out on paper. Then you can review the thoughts and ideas on the paper, and try to connect them with lines.
 
 ##### Example:
 
