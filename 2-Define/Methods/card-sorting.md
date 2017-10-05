@@ -53,8 +53,7 @@ It could be conducted during the interview with if the team is onsite, which req
 4. Pool all the cards together without overlapping, and place a set of categories on a whiteboard.
 5. Ask the participants to pick up cards and arrange them on the whiteboard under the categoties.
 6. Evaluate the sorting:
-  * Are all the cards categorized? 
-   * If not, are those not categorized cards important? 
+  * Are all the cards categorized? If not, are those not categorized cards important? 
   * Does the sorting make sense to everybody?
 7. Take a picture and move on to the next set of categories.
 
