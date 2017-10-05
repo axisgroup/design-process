@@ -88,6 +88,6 @@ relationships.
 - [ ] Update Running List of AQI (Required)
 
 
-[Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
+[Full Design Process Checklist](../Design-Process-Checklist.md)
 
 
