@@ -44,13 +44,13 @@ The description file should include:
 * Examples
 * References or resources
 
-#### Add photos, examples & case studies from previous engagements
+#### Add photos and examples from previous engagements
 
 The more examples that we have the better it will be to spread knowledge and experience of running the sprints. 
 Listed below are steps for adding examples:
 
 1. Edit the README in the folder where you want to add new assets
-2. Add assets that support the explanation of the engagement such as photos, documents, prototypes or videos.
+2. Add assets that support the explanation of the engagement such as photos, documents, prototypes or videos. Make sure the examples are anonymized. 
 3. Add references on the separate phases to the respective parts of the example.
 4. Submit a Pull Request
 
