@@ -1,4 +1,4 @@
-## User Story
+## User Stories
 
 #### What is it?
 User stories are brief statements regarding the requirements of the system from an end-user perspective. It is often used in agile software development.
