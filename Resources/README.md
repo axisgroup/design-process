@@ -1,7 +1,7 @@
 ## Axis Design Resources
 
 * [Running List of Assumptions, Questions, and Ideas Template](https://axisgrp.sharepoint.com/Shared%20Documents/Design%20Engagement%20Resources/Interview%20Checklist.xlsx?d=w43d16b48a2af4d02b4c9b825f20bb056&csf=1)
-* [Axis Design Style Guide](https://drive.google.com/open?id=0B3RhFswo7vVxVlBCR1Y3dHRZXzA)
+* [Axis Design Style Guide](https://sites.google.com/view/style-guide)
 * [Axis Design Research Book](https://drive.google.com/open?id=0B2jmfR7rci5mS3BNMmw0U2FxSEU)
 * [Axis Design Template (Sketch file)](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk)
 
@@ -10,7 +10,7 @@
   * [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/methods/)
   * [MediaLab Amsterdan Design Method Toolkit](http://medialabamsterdam.com/toolkit/)
   * [IDEO Design Kit](http://www.designkit.org/methods)
-  
+
 
 ## Online softwares:
 
