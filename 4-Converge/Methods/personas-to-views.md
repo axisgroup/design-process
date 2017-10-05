@@ -22,7 +22,7 @@ After views are decided.
 
 <br>
 
-You can use our [Axis Design Template](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk)(Sketch file) to create personas, views, and the mapping.
+You can use our [Axis Design Template](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk) (Sketch file) to create personas, views, and the mapping.
 
 <br>
 
