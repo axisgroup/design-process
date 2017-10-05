@@ -6,6 +6,9 @@ Crazy 8’s is a fast sketching exercise that challenges people to sketch 8 idea
 #### Why do you do it?
 The goal is to push beyond your first idea, which is frequently not the most innovative, and generate a wide variety of solutions to your challenge.
 
+#### Who should do it?
+This method is most useful with multiple participants, typically a team of designers, but given proper context and guidance, other team members could participate as well.
+
 #### When to do it?
 In the diverge phase, for concept generation.
 
