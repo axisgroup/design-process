@@ -12,6 +12,7 @@ User interviews are the first phase of any project and should be conducted on al
 #### How to do it?
 During the session, a designer should lead the conversation and ask questions, and another resource should take comprehensive notes for later discussion. Ensure that the user being interviewed feels comfortable. This could be done by letting the user know that this is not an interrogation  session but just a means for the design team to understand the user's goals, current activities, tasks etc. Remember to steer the conversation in the right direction if the user goes off topic during the interview. Always thank the user for their time at the end of the session. Also, remind the user to bring any existing material they use if you would like to have them walk through it during the interview. For example, you could set up an interview such that in the second half the user walks through how they use current excel reports to get their job done.
 <br>
+
 After the session, the designer should send out a follow-up email to the interviewees to:
   * Thank them for their time and for providing valuable information
   * Provide a few key takeaways and mention the notes will be further organized
