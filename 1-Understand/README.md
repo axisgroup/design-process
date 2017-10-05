@@ -63,9 +63,7 @@ problem or what the problem actually is. It is good to use when the apparent pro
 
 #### [Running List of AQI](../0-Pre-Engagement/Methods/running-list-of-aqi.md) (Required)
 
-Throughout the Understand phase, we will ask questions we don’t have
-answers to and identify assumptions we are relying on. We will capture these
-assumptions and questions for later organization and analysis.
+Throughout the Understand phase, we will ask questions we don’t have answers to and identify assumptions we are relying on. We will update the Running List Of AQI (Assumptions, Questions and Ideas) for later organization and analysis.
 
 We will also be generating a lot of ideas throughout the week. Some of the ideas
 will be pertinent to the tasks at hand, but others, although interesting, won’t
