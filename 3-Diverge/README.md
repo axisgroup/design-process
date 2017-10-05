@@ -36,6 +36,13 @@ A warm up exercise to start generating ideas. People are given time to individua
 Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes a sheet of printer paper, folds it in half 3 times to get 8 rectangles. They then have 5 minutes to sketch out ideas for a specific feature or flow in a product. After they’re done, they share with the team.
 
 
+#### [Affinity Mapping](../1-Understand/Methods/affinity-mapping.md)
+Affinity mapping can also be used in this phase to collect and organize ideas from designers (instead of answers from interviewees). 
+
+#### [Storyboard](../2-Define/Methods/storyboard.md)
+Sometimes two or multiple concepts could be used to answer one business question. A storyboard can be used in this case to group these concepts and tell a story.
+
+
 ---
 
 ## Phase Checklist
@@ -46,8 +53,8 @@ One of the 3 methods - Brainstorm, Crazy 8's, Affinity mapping - should be requi
 - [ ] Mind mapping
 - [ ] Brainstorm 
 - [ ] Crazy 8’s
-- [ ] Storyboard
 - [ ] Affinity mapping
+- [ ] Storyboard
 
 
 [Full Design Process Checklist](https://github.com/axisgroup/design-process/blob/master/Design%20Process%20Checklist.md)
