@@ -48,7 +48,7 @@ A good alternative to raw HTML & CSS is to use [Hype](http://tumult.com/hype/) w
 HTML & CSS prototypes tend to be the most time consuming but are best for
 heavier web interactions like filling out forms.
 
-#### [Paper Prototype](http://alistapart.com/article/paperprototyping)
+#### Paper Prototype
 
 Paper prototyping is as low-fi as you can get for a prototype. It is especially useful when you are under a time crunch to produce a prototype. It also allows for the whole team to contribute. Because the prototype is sketches on paper you are relying much more on the imagination of the participant. It gives you the ability to prototype on the fly, even during the session with the participant.
 
