@@ -69,6 +69,6 @@ This might entail continued oversight on development and ensuring that the devel
 In addition to availability to support and answer any questions or concerns faced during development, 
 any documentation required to turn over development responsibilities to internal teams shall be created in this phase.
 
-#### [License](/License.md)
+#### [License](/LICENSE)
 
 Copyright © 2017 Axis Group, llc. The information contained in this document is free, and may be redistributed under the terms specified in the license.
