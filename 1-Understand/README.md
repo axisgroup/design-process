@@ -25,7 +25,7 @@ Questions should be drafted around the existing solution to determine what its p
 The team should have already scheduled and confirmed interviews with multiple resources, at various levels, from client-side.
 
 ###### Running List of AQI:
-The team should have started the Running List of AQI, which includes any assumptions, key ideas, and questions that were formed during the Pre-Engagement phase. This checklist will evolve with the project, with items being added and resolved as the engagement progresses. It will also serve useful as a paper trail for future design decisions.
+The team should have started the Running List of AQI (Assumptions, Questions and Ideas), which includes any assumptions, key ideas, and questions that were formed during the Pre-Engagement phase. This checklist will evolve with the project, with items being added and resolved as the engagement progresses. It will also serve useful as a paper trail for future design decisions.
 The team should use this checklist to help guide interviews and keep track of what is learned.
 
 #### Outputs/Artifacts: 
@@ -34,7 +34,7 @@ The team should use this checklist to help guide interviews and keep track of wh
 All team members present at a meeting ought to upload raw notes to a central repository such as SharePoint. 
 
 ###### Running List of AQI Updates:
-The raw notes can be used to update the interview checklist. Design members can decide which assumptions have been addressed, what key ideas and themes were mentioned, and what new questions have arisen. 
+The raw notes can be used to update the Running List of AQI (Assumptions, Questions and Ideas). Design members can decide which assumptions have been addressed, what key ideas and themes were mentioned, and what new questions have arisen. 
 
 ###### Follow-Up Email:
 After a period of debriefing, the design lead should send a Thank You email to the people that were interviewed and include, if possible, a brief list of key items learned, or any pending questions that still exist. 
