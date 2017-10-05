@@ -24,13 +24,14 @@ Identify the task or goal that the user is trying to accomplish
 List down the sequence of steps that will enable the user to accomplish his task or goal. 
 
 <br>
-#### Example:
 
-##### Use case: Review Records   
+##### Example:
 
-##### Actor: Doctor
+###### Use case: Review Records   
 
-##### Steps:
+###### Actor: Doctor
+
+###### Steps:
 * Doctor walks into room
 * Doctor sees patient in bed
 * Doctor identifies patient in bed
