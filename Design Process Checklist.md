@@ -16,7 +16,6 @@
 ### Phase 1. Understand
 
 - [ ] Review existing documents (Required)
-- [ ] Create data dictionary
 - [ ] User interviews (Required)
   - [ ] Observation
   - [ ] Five why’s
@@ -47,8 +46,8 @@ One of the 3 methods - Brainstorm, Crazy 8's, Affinity mapping - should be requi
 - [ ] Mind mapping
 - [ ] Brainstorm 
 - [ ] Crazy 8’s
-- [ ] Storyboard
 - [ ] Affinity mapping
+- [ ] Storyboard
 
 
 ### Phase 4. Decide
