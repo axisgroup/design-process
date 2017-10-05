@@ -1,6 +1,6 @@
 ## Running List of AQI
 
-This running list includes any assumptions, key ideas, and questions that were formed during the Pre-Engagement phase. It will evolve with the project, with items being added and resolved as the engagement progresses. The team can use this list to help guide interviews, keep track of what is learned, and support future design decisions.
+This running list includes any assumptions, questions and ideas that were formed during the Pre-Engagement phase. It will evolve with the project, with items being added and resolved as the engagement progresses. The team can use this list to help guide interviews, keep track of what is learned, and support future design decisions.
 
 ---
 
