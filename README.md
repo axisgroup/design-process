@@ -87,6 +87,6 @@ We welcome anyone to contribute to this design process documentation, and here's
 
 ---
 
-#### [License](/LICENSE)
+#### [License](/LICENSE.md)
 
 Copyright © 2017 Axis Group, llc. The information contained in this document is free, and may be redistributed under the terms specified in the license.
