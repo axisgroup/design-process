@@ -4,7 +4,7 @@
 User stories are brief statements regarding the requirements of the system from an end-user perspective. It is often used in agile software development.
 
 #### Why do you use it?
-User stories are concise, easy to understand and are a great way to captures requirements. They can break down a project into smaller milestones that the team can work towards achieving.
+User stories are concise, easy to understand and are a great way to capture requirements. They can break down a project into smaller milestones that the team can work towards achieving.
 
 #### When to use it?
 This method is used early on in the process after the understand phase. 
