@@ -15,7 +15,7 @@ This document intends to provide a walkthrough of each step in our design proces
 * [Validate Phase](6-Validate)
 * [Design Implementation Support Phase](7-Design-Implementation-Support)
 
-## What is a design engagement?
+#### What is a design engagement?
 Axis design engagement brings UX design and data visualization principles to BI projects to produce design specs for highly usable, useful, and desirable data applications that support business decisions.
 
 #### Why do a design engagement?
@@ -68,6 +68,20 @@ once the design prototype is approved by the client.
 This might entail continued oversight on development and ensuring that the development is as per specifications.
 In addition to availability to support and answer any questions or concerns faced during development, 
 any documentation required to turn over development responsibilities to internal teams shall be created in this phase.
+<br>
+
+##### [Design Process Checklist](design-process/Design-Process-Checklist.md)
+This checklist includes all the methods in all phases that could be applied in the current design process. Some tasks are marked "Required" which means they are essential to the success of the engagement and should take priority. 
+<br>
+
+##### [Design Resources](Resources)
+
+
+##### [Frequently Asked Questions](FAQ)
+
+
+##### [Contributing](CONTRIBUTING.md)
+---
 
 #### [License](/LICENSE)
 
