@@ -1,15 +1,30 @@
-User journey mapping is a way to deconstruct a user’s experience with a product or service as a series of steps and themes. Along the steps, it also highlights user's thoughts, feelings/emothions, and goals. 
+## User Journey Mapping
 
-Example:
+#### What is it?
+User journey mapping is a process to deconstruct a user’s experience with a product or service as a series of steps and themes. Along the steps, it highlights user's thoughts, feelings/emothions, and goals. 
 
-![User Journey 1](/images/user-journey-1.jpg)
+#### Why do you do it?
 
-<br>
+
+#### When to do it?
+
+
+#### How to do it?
+
 Alternatively, a user journey map can also be constructed like a big table:
 
 ![User Journey 3](/images/user-journey-3.png)
 
---
+<br>
+
+##### Example:
+
+![User Journey Example](/images/user-journey-4.png)
+
+![User Journey Example](/images/user-journey-1.jpg)
+
+<br>
+---
 
 References:
 
@@ -18,3 +33,5 @@ https://medium.com/@harrybr/how-to-run-an-empathy-user-journey-mapping-workshop-
 https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php
 
 https://designsprintkit.withgoogle.com/methods/understand/user-journey-mapping/
+
+http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/
