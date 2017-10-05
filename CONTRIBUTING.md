@@ -1,7 +1,9 @@
+## Contributing
+
 We love new ideas that push this repository and design engagement forward. We are using [GitHub issues](https://github.com/axisgroup/design-process/issues/) 
 for tracking our work on the repository. Here are the ways that you can contribute:
 
-## Contribute with Issues
+### Contribute with Issues
 All the open issues are being tracked on the [issue](https://github.com/axisgroup/design-process/issues/new) page. You can contribute by adding new issues, or solving an existing issue.
 
 #### Submit a new issue
@@ -15,7 +17,7 @@ If you find a mistake, or have questions about the process, you can add a new [i
 
 <br>
 
-## Make Changes in Your Branch
+### Make Changes in Your Branch
 You can create a new branch, which is essentially a duplicate of the repo for you, and make changes under your branch. Then submit a pull request, which is a request to merge your branch with the master branch. The design team will review the pull request and decide whether we should merge the branchs or not. 
 Here are the three simple steps:
 1. Create a branch
