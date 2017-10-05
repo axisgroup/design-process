@@ -28,3 +28,5 @@ References:
 http://www.dummies.com/business/business-strategy/how-to-create-a-problem-statement-in-business-analysis/
 
 https://www.slideshare.net/SantoshKumarSingh13/how-to-define-business-problem-statement
+
+http://www.ceptara.com/blog/how-to-write-problem-statement
