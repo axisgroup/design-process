@@ -21,9 +21,8 @@ After the session, the designer should send out a follow-up email to the intervi
   
 <br>
 
-##### Example:
 
-Here are some sample questions:
+##### Sample questions:
 
 Understand the role:
 * What is your role in the organization?
