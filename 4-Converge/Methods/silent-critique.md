@@ -18,6 +18,7 @@ After concepts are generated, before concept review with client.
 4. Color code all stickers with categories like "liked" or "questioned".
 
 <br>
+
 ##### Example:
 
 ![Silent Critique](/images/silent-critiques.png)
