@@ -72,16 +72,16 @@ any documentation required to turn over development responsibilities to internal
 
 ---
 
-##### [Design Process Checklist](Design-Process-Checklist.md)
+#### [Design Process Checklist](Design-Process-Checklist.md)
 This checklist includes all the methods in all phases that could be applied in the current design process. Some tasks are marked "Required" which means they are essential to the success of the engagement and should take priority. 
 
-##### [Design Resources](Resources)
+#### [Design Resources](Resources)
 In this folder you can find useful resources, including design resources that are created by Axis team, design method collections, and useful online tools. We will keep updating this folder as we discover more useful resources in the future. 
 
-##### [Frequently Asked Questions](FAQ)
+#### [Frequently Asked Questions](FAQ)
 We will answer questions in the Issue section, and collect frequently asked ones in here and answer in detail.
 
-##### [Contributing](CONTRIBUTING.md)
+#### [Contributing](CONTRIBUTING.md)
 We welcome anyone to contribute to this design process documentation, and here's how you can start.
 
 ---
