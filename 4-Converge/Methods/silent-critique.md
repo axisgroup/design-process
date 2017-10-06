@@ -20,9 +20,9 @@ After concepts are generated, before concept review with client.
 <br>
 ##### Example:
 
-![Silent Critique](/images/silent-critiques.png?raw=true "Silent Critique")
+![Silent Critique](/images/silent-critiques.png)
 
-![Silent Critique Equifax](/images/silent-critique-equifax.jpg?raw=true "Silent Critique Equifax")
+![Silent Critique](/images/silent-critique-2.png)
 
 
 ---
