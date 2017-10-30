@@ -29,17 +29,17 @@ Design engagement helps channel efforts towards building a solution that enhance
 user experience of interacting with the solution, while achieving the business goal. 
 
 ## Design Engagement Overview
-The Design process at Axis Group is divided into six phases, 
+The Design process at Axis Group is divided into six phases: 
 Understand, Define, Diverge, Decide, Prototype, and Validate.
 
 #### [Pre-Engagement](0-Pre-Engagement)
 Typically, this phase would require performing research on the client and their industry. 
-The pre-engagement phase should be mainly utilized to formulate a common ground of the ‘job to be done.’ 
+The pre-engagement phase should be utilized mainly to formulate a common ground of the ‘job to be done.’ 
 The problem could evolve over further discussions, but it should be agreed upon by the entire team. 
 This should serve as a starting point for discussions with the client. 
 
 #### [Understand](1-Understand)
-The first phase of the design sprint is about gathering existing information on the business, the users and their goals. We typically talk to users and stakeholders during this phase, to understand their business processes, goals and responsibilities, decisions and actions, etc. We also expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
+The first phase of the design sprint is about gathering existing information on the business, the users, and their goals. We typically talk to users and stakeholders during this phase to understand their business processes, goals, responsibilities, decisions, and actions. We also expose risky knowledge gaps and assumptions so we can make plans to reduce those risks and move forward with confidence.
 
 #### [Define](2-Define)
 The define phase focuses on consolidating what we learnt from the understand phase and defining personas for the application. This serves as a reference point for further discussions and design decisions. This phase helps further define the scope and vision for the project with users and stakeholders.
@@ -52,7 +52,7 @@ of radically different approaches to solving a problem.
 These insights can become valuable differentiating forces and the source of inspiration for unique solutions.
 
 #### [Converge](4-Converge)
-During the Converge phase we take all the concepts generated in the diverge phase, group them into logical and meaningful categories, evaluate and prioritize them both within the design team and with the client.
+During the Converge phase we take all the concepts generated in the diverge phase, group them into logical and meaningful categories, and then evaluate and prioritize them both within the design team and with the client.
 By exploring and eliminating many options, we have reason to be more confident in our design decisions.
 
 #### [Prototype](5-Prototype)
@@ -79,7 +79,7 @@ This checklist includes all the methods in all phases that could be applied in t
 In this folder you can find useful resources, including design resources that are created by Axis team, design method collections, and useful online tools. We will keep updating this folder as we discover more useful resources in the future. 
 
 #### [Frequently Asked Questions](FAQ)
-We will answer questions in the Issue section, and collect frequently asked ones in here and answer in detail.
+We will collect and answer questions in detail in the Issue section.
 
 #### [Contributing](CONTRIBUTING.md)
 We welcome anyone to contribute to this design process documentation, and here's how you can start.
