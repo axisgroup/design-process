@@ -37,3 +37,8 @@ After the session, the designer should send out a follow-up email to the intervi
 * What are the possible outcomes (actions or decisions) of the process?
 * What are the triggers for such actions or decisions?
 * What are the pain points of the current process/solution?
+
+<br>
+
+##### Helpful Links:
+*[Art of the User Interview](https://blog.marvelapp.com/art-user-interview/?utm_source=weekly-newsletter&utm_medium=email&utm_campaign=marvel-newsletter-2017-11-06&utm_term=)
