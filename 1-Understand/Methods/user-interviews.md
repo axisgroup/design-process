@@ -41,4 +41,4 @@ After the session, the designer should send out a follow-up email to the intervi
 <br>
 
 ##### Helpful Links:
-*[Art of the User Interview](https://blog.marvelapp.com/art-user-interview/?utm_source=weekly-newsletter&utm_medium=email&utm_campaign=marvel-newsletter-2017-11-06&utm_term=)
+* [Art of the User Interview](https://blog.marvelapp.com/art-user-interview/?utm_source=weekly-newsletter&utm_medium=email&utm_campaign=marvel-newsletter-2017-11-06&utm_term=)
