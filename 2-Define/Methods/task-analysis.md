@@ -25,7 +25,7 @@ In the define phase, after establishing personas.
 
 ![Task Analysis Hierarchical](/images/task-analysis-2.jpg?raw=true "Task Analysis Hierarchical")
 
-![Task Analysis from Questions](/images/task-analysis.jpg?raw=true "Task Analysis from Questions")
+![Task Analysis from Questions](/images/task-analysis.png?raw=true "Task Analysis from Questions")
 
 ---
 
