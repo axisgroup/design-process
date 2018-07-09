@@ -13,8 +13,8 @@ Personas should be created after conducting user interviews and reviewing notes.
 The following elements should be included in a persona card:
 
 * Title - Persona's role in the organization
-* Business Goals
-* Business Fundtions
+* Business Goals - The persona's highest level success criteria 
+* Business Functions
 * Key Attributes:
   * Frequency of use:                 Once a year <---> Multiple times a day
   * Time of use:                          Seconds <---> Hours
