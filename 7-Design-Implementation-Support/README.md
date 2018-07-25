@@ -31,6 +31,9 @@ Similar to user stories, use cases can also be used as documentation of design f
 
 Design specs document should specify all styling related rules and details of the design, such as colors, fonts, spacing and positioning. 
 
+#### [Mockups to data map](../7-Design-Implementation-Support/Methods/mockups-to-data-map.md)
+This artifact maps all the data elements like dimmensions and measures to objects/charts within the mockups.
+
 #### [Functional Specifications Document](../7-Design-Implementation-Support/Methods/functional-specs.md)
 
 Functional specs document describes the functionality and expected behaviors of all elements in the design. 
