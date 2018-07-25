@@ -13,7 +13,13 @@ During the define phase to summarize findings from methods like user Interviews,
 To produce an empathy map, you'll need to find answers to the questions in the empathy map canvas below:
 
 
-![Empathy Map Template](/images/EmpathyMap.jpg?raw=true "Empathy Map Canvas")
+![Empathy Map Template](/images/EmpathyMap.jpg?raw=true "Empathy Map Template")
+
+
+
+You can use the list of emotions below to help fill out the feelings section of the empathy map
+![Emotions List](/images/EmotionsList.jpg?raw=true "Emotions List")
+
 
 
 ---
