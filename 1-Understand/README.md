@@ -46,6 +46,9 @@ After a period of debriefing, the design lead should send a Thank You email to t
 #### Review existing documents (Required)
 It is valuable to review existing documents to understand what information users currently look at and how they get to the information they need. 
 
+#### [Business Deep Dive](../1-Understand/Methods/Business-deep-dive.md) (Required)
+A business deep deep is a method used to get an understanding of the industry, various business functions and processes involved. This is a method that's required and is conducted before the user interviews.
+
 #### [User Interviews](../1-Understand/Methods/user-interviews.md) (Required)
 
 Conducting user interviews is the primary and required method the design team uses in the understand phase. By talking to the users directly, we can learn what they do, what they need and all the reasons behind. 
