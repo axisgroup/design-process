@@ -12,7 +12,7 @@ A business deep dive is the first step in the research phase and is conducted be
 #### How to do it?
 A Business deep dive ideally involves talking to a stakeholder/client champion/business SME to understand their business. In situations where a business expert is not available on the client side, a business deep dive can be conducted internally with an industry expert or someone who has previously worked with the client.
 During a business deep dive, there should be a designer leading the conversation and also a note taker. 
-*S tart the deep dive by getting a broad understanding of how the industry works.
+* Start the deep dive by getting a broad understanding of how the industry works.
 * Understand the different business functions within the company and how they interact with each other. You can also map out a high level business process across different business functions
 * Focus on a business function and understand the business processes within that business function. This business process at this level covers multiple roles at the company.
 * You can go even deeper than the step above and map out the business process for a single persona but we recommend doing this during the user interview. 
@@ -90,6 +90,6 @@ c. Consulting
       * Understand
       * Define
       * Diverge
-    * Decide
-    * Prototype
-    * Validate
+      * Decide
+      * Prototype
+      * Validate
