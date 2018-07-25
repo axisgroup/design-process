@@ -86,10 +86,10 @@ c. Consulting
 
 ##### Single-role Process
 c. Consulting   
-    b. UX Designer - Design Solution   
-        * Understand   
-        * Define   
-        * Diverge   
-        * Decide   
-        * Prototype   
-        * Validate   
+            b. UX Designer - Design Solution   
+                        * Understand   
+                        * Define   
+                        * Diverge   
+                        * Decide   
+                        * Prototype   
+                        * Validate   
