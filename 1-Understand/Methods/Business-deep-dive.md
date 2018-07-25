@@ -77,7 +77,7 @@ d. Accounting - Process Payments
 
 ##### Single-function, Multi-role Process (Flow Diagram, not always linear)
 c. Consulting
-            a. Design Architect - Oversee Design Process    
+    a. Design Architect - Oversee Design Process    
             b. UX Designer - Design Solution    
             c. Solutions Architect - Oversee Development Process    
             d. Solutions Consultant - Develop Solution   
