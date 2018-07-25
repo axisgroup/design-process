@@ -23,4 +23,4 @@ User workflow could be combined with the views summary and the personas to views
 
 ##### Example:
 
-![User Workflow](/images/user-workflow.jpg)
+![User Workflow](/images/UserWorkflow.jpg)
