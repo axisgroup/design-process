@@ -18,7 +18,7 @@ During a business deep dive, there should be a designer leading the conversation
 * You can go even deeper than the step above and map out the business process for a single persona but we recommend doing this during the user interview. 
 
 #### Sample Questions:
-#####Industry & Business Knowledge
+##### Industry & Business Knowledge
 How does the industry work? What’s their typical business model?
 What are some common KPIs in this industry/business?
 How does this specific business work?
@@ -70,26 +70,26 @@ Notes from the business deepdive
 
 #### Examples
 ##### Cross Functional Process (How the business works)
-a. Marketing - Generate Qualified Leads
-b. Sales - Convert Leads into Sales
-c. Consulting - Create and Deliver Solutions
-d. Accounting - Process Payments
+a. Marketing - Generate Qualified Leads   
+b. Sales - Convert Leads into Sales   
+c. Consulting - Create and Deliver Solutions   
+d. Accounting - Process Payments   
 
 ##### Single-function, Multi-role Process (Flow Diagram, not always linear)
 c. Consulting
-  a. Design Architect - Oversee Design Process 
-  b. UX Designer - Design Solution
-  c. Solutions Architect - Oversee Development Process
-  d. Solutions Consultant - Develop Solution
-  e. Data Scientist - Create Data Science Solution
-  f. Engagement Manager - Manage Project Progress
+  a. Design Architect - Oversee Design Process    
+  b. UX Designer - Design Solution    
+  c. Solutions Architect - Oversee Development Process    
+  d. Solutions Consultant - Develop Solution   
+  e. Data Scientist - Create Data Science Solution   
+  f. Engagement Manager - Manage Project Progress   
 
 ##### Single-role Process
-c. Consulting
-  b. UX Designer - Design Solution
-      * Understand
-      * Define
-      * Diverge
-      * Decide
-      * Prototype
-      * Validate
+c. Consulting   
+  b. UX Designer - Design Solution   
+      * Understand   
+      * Define   
+      * Diverge   
+      * Decide   
+      * Prototype   
+      * Validate   
