@@ -23,9 +23,11 @@ In the define phase, after establishing personas.
 
 ##### Example:
 
-![Task Analysis Hierarchical](/images/task-analysis-2.jpg?raw=true "Task Analysis Hierarchical")
+![Task Analysis Whiteboard](/images/task-analysis-2.jpg?raw=true "Task Analysis Whiteboard")
 
-![Task Analysis from Questions](/images/task-analysis.png?raw=true "Task Analysis from Questions")
+![Task Analysis Diagram](/images/task-analysis-3.png?raw=true "Task Analysis Diagram")
+
+![Task Analysis Table](/images/task-analysis-4.png?raw=true "Task Analysis Table")
 
 ---
 
