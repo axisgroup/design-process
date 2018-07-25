@@ -18,7 +18,7 @@ To produce an empathy map, you'll need to find answers to the questions in the e
 
 
 You can use the list of emotions below to help fill out the feelings section of the empathy map
-![Emotions List](/images/EmotionsList.jpg?raw=true "Emotions List")
+[Emotions List](../images/EmotionsList.jpg?raw=true "Emotions List")
 
 
 
