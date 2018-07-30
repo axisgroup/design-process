@@ -61,12 +61,12 @@ What’s not being captured but should be?
 Why are they captured/not captured?
 
 ##### Artifacts
-Examples of artifacts that may be created after a business deep dive
-Roles involved and their relationships (org chart)
-Business terms and their definitions list/diagram
-Key dimensions and measures 
-Business workflow example
-Notes from the business deepdive
+Examples of artifacts that may be created after a business deep dive  
+Roles involved and their relationships (org chart)  
+Business terms and their definitions list/diagram  
+Key dimensions and measures   
+Business workflow example  
+Notes from the business deepdive  
 
 #### Examples
 ##### Cross Functional Process (How the business works)
