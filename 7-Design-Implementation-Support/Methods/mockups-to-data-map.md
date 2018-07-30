@@ -28,4 +28,7 @@ The table has the following columns
 * Rules (Constraints around the chart) - For example, certain filters are to be applied in order to view the chart, highlight points in the chart instead of filtering, certain points in the chart are highlighted by default etc.
 
 
-![Mockup to data map](/images/MockupDataMap.jpg?raw=true "Mockup to data map")
+![Mockup to data map](/images/MockupDataMap.jpg?raw=true "Mockup to data map")      
+
+
+[Mockup to data excel template](/Resources/mockup-data-map.xlsx)
