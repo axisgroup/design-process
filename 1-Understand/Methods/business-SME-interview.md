@@ -1,18 +1,18 @@
-## Business deep dive
+## Business SME Interview
 
 #### What is it?
-A business deep dive is a method used to gain an understanding of a business. This involves understanding the different business functions involved, business processes, organization structure etc.
+The Business SME Interview is a method used to gain an understanding of a business. This involves asking questions directed at an SME who has a broader perspective on the business, so as to understand the different business functions involved, business processes, organization structure etc.
 
 #### Why do you use it?
-Having an initial understanding of the business helps the designer speak the same language as the user and ask meaningful questions during the interviews.  It also helps user interviews to be focused on the just user and not on understanding the overall business process of the company. 
+Having an initial understanding of the business helps the designer speak the same language as the user and ask meaningful questions during the user interviews.  It also helps those interviews be focused on just the user and not on understanding the overall business process of the company. 
 
 #### When to do it?
-A business deep dive is the first step in the research phase and is conducted before the user interviews. 
+The Business SME Interview is conducted as part of the first "Understand the Business" portion of the Understand phase, and should be done before the user interviews. 
 
 #### How to do it?
-A Business deep dive ideally involves talking to a stakeholder/client champion/business SME to understand their business. In situations where a business expert is not available on the client side, a business deep dive can be conducted internally with an industry expert or someone who has previously worked with the client.
-During a business deep dive, there should be a designer leading the conversation and also a note taker. 
-* Start the deep dive by getting a broad understanding of how the industry works.
+A Business SME Interview ideally involves talking to a stakeholder/client champion/business SME to understand their business. In situations where a business expert is not available on the client side, the interview can be conducted internally with an industry expert or someone who has previously worked with the client.
+During a business SME interview, there should be a designer leading the conversation and also a note taker. 
+* Start the interview by getting a broad understanding of how the industry works.
 * Understand the different business functions within the company and how they interact with each other. You can also map out a high level business process across different business functions
 * Focus on a business function and understand the business processes within that business function. This business process at this level covers multiple roles at the company.
 * You can go even deeper than the step above and map out the business process for a single persona but we recommend doing this during the user interview. 
