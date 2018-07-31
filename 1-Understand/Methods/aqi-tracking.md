@@ -1,6 +1,6 @@
-## Running List of AQI
+## AQI Tracking
 
-This running list includes any assumptions, questions and ideas that were formed during the Pre-Engagement phase. It will evolve with the project, with items being added and resolved as the engagement progresses. The team can use this list to help guide interviews, keep track of what is learned, and support future design decisions.
+AQI Tracking involves a running list that records any assumptions, questions and ideas that were formed throughout the design process. It will evolve with the project, with items being added and resolved as the project progresses. The team can use this list to help guide interviews, keep track of what is learned, and support future design decisions.
 
 ---
 
