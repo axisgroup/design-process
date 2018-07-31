@@ -1,4 +1,4 @@
-## Business Model Canvas Questionnaire
+## Business Model Canvas Survey
 
 #### What is it?
 The Business Model Canvas is a useful tool to understand a business as a whole.
