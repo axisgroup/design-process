@@ -1,0 +1,60 @@
+## Stakeholder Interview
+
+#### What is it?
+A stakeholder interview is a method intended to understand and agree on project goals, expectations, background, and success criteria of the project. It can also serve as the kickoff meeting. Both the Axis project team as well as the project stakeholders and project manager should be in attendance. A timeline or check-in cadence can also be created during this meeting.
+
+#### Why do you use it?
+This meeting can help clarify any confusions or assumptions, as well as ensure common expectations for the "job to be done." 
+
+#### When to do it?
+At the beginning of a project.
+
+#### How to do it?
+
+###### 1. Understand the background and goal of the project. 
+Discuss the requirements of the solution and the ways in which it'd meet the criteria of being "successful."
+
+###### 2. Confirm the scope
+Confirm that the scope, goals, deliverables, schedule, time frame, and users are still relevant, particularly because things may have changed since the SOW was first drafted. Critical numbers for the egagement: 
+  * number of Personas
+  * number of Views/Screens with consideration of the platform
+  * number of Iterations 
+  
+###### 3. Obtain current reports 
+Obtain any current reports that are used or screenshots of the existing solution. 
+
+###### 4. Plan user interviews
+Decide how many interviews will be necessary, who they will be with, and when they will be. Ensure that they have time blocked on their calendars for the interview(s). Reference the email template below for scheduling interviews.
+
+###### 5. Plan a meeting with the cient's project data expert
+Understand security expectations like:
+  * Is there protected data involved?
+  * Are we allowed to use cloud based software or platform?
+  * Etc. 
+  
+---
+
+#### Output: Email to Users for Scheduling Interviews
+
+Hi [Name],
+
+
+//*Summary of pre-kickoff meeting and logistics. If team members are arriving at different times, include a list or attach a document detailing members' arrival and departure schedules. If interviews must take place virtually, include a time frame that the team is available, and give the client flexibility to schedule within that time frame.*//
+
+
+We’re looking forward to kicking off the project on [date], and being on site from [start date] to [end date]! As previously discussed, we will need to schedule interviews with [list of users/roles]. I’ll leave it up to you to decide the easiest method of communicating the schedule with us, whether it’s via Outlook calendar invites, a spreadsheet, or email, but I’ve included below some helpful details about the required interviews: 
+
+
+|Date|Time Needed|Users|Purpose|
+|------|------|------|------|
+|7/12/17| 1 hour prior to 1PM if possible| Melissa, Justin, 4 end users identified by Melissa/Justin, Paul(optional)| Walk through invision app with [Designer Name].  Understand how it works and how to lead feedback.  Communicate expectations.  Review scope.|
+|7/12/17, 7/13/17 | 12 hours – users should block out time on schedule to validate | Melissa, Justin, 4 end users | Work online testing invision app – explore concepts, views, filters, drill-down, UI/UX in general and leave comments on refinements or additional functionality needed.  Feedback will go directly to Gen and he will work on incorporating changes that are understood and in scope while users are testing. |
+
+
+//*Specifics about what interviewees can expect. Be sure to ask for any reports or screenshots as well.*//
+
+
+Interviewees can expect to be asked about what their roles are, what tasks they perform in [name of application / existing solution], how they do it, and why they do it. We may also ask to observe them use [name of existing solution] in the context of a typical use case. 
+
+Thanks for all your help!
+
