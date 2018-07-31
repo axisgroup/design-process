@@ -4,6 +4,7 @@
 * [Axis Design Style Guide](https://sites.google.com/view/style-guide)
 * [Axis Design Research Book](https://drive.google.com/open?id=0B2jmfR7rci5mS3BNMmw0U2FxSEU)
 * [Axis Design Template (Sketch file)](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk)
+* [Mockup data map (Excel Template)](/Resources/mockup-data-map.xlsx)
 
 
 ## Design method collections:
