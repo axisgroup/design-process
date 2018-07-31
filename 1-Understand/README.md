@@ -79,16 +79,11 @@ In the event that there are more users than can be interviewed, use a survey to 
 During the interview, the designer can perform this activity to dig down deep into what the actual reasons are for a
 problem or what the problem actually is. It is good to use when the apparent problem seems to only be a symptom of a larger problem. 
 
+#### [AQI Tracking](../1-Understand/Methods/aqi-tracking.md) (Required)
 
-#### [Running List of AQI](../1-Understand/Methods/running-list-of-aqi.md) (Required)
+AQI (Assumptions, Questions and Ideas) Tracking will allow designers to monitor the questions that don't yet have answers as well as the assumptions that are being relied upon. Tracking the AQI will be useful for later organization and analysis, and will also provide a paper trail for design concepts and decisions. 
 
-Throughout the Understand phase, we will ask questions we don’t have answers to and identify assumptions we are relying on. We will update the Running List Of AQI (Assumptions, Questions and Ideas) for later organization and analysis.
-
-We will also be generating a lot of ideas throughout the week. Some of the ideas
-will be pertinent to the tasks at hand, but others, although interesting, won’t
-be. We will capture these good but not immediately relevant ‘back-burner ideas’
-on a sticky note board.
-
+We will also be generating a lot of ideas throughout the week. Some of the ideas will be pertinent to the tasks at hand, but others, although interesting, won’t be. We will capture these good but not immediately relevant ‘back-burner ideas’ on a sticky note board.
 
 #### [Affinity Mapping](../1-Understand/Methods/affinity-mapping.md)
 An Affinity Diagram is a tool that gathers large amounts of language data (ideas,
