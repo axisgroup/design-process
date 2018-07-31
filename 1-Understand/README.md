@@ -1,11 +1,6 @@
 ﻿## Understand: Gather existing knowledge, understand users and their goals, expose assumptions and unknowns
 
-The first phase of the design engagement is about understanding the users, their goals and needs, understanding the stakeholders vision for the project, gathering existing knowledge on the business, and exposing assumptions and knowledge gaps. 
-
-Throughout the Understand phase, you should be working on understanding the business, who is
-going to be using the product, what are their goals? what do users currently use and how do they use it? In what situations will the user be using the product or feature? What are their motivations behind using it? What are any outside motivators that might affect their use?  
-
-The team should also talk about what they don't know and where there are knowledge gaps. At the end of Understand phase, the team should have established a solid understanding of the users and the problem at hand.
+The first phase of the design process aims to collect all the information necessary to design an effective and impactful solution. It involves three different areas of focus: the overall business context, the users’ tasks & needs, and the feasibility & availability of the data. At the end of Understand phase, the team should have established a solid understanding of the users and the problem at hand.
 
 ---
 ## Input/Output
@@ -71,15 +66,15 @@ Conducting user interviews is the primary and required method the design team us
 
 It is valuable to review existing documents to understand what information users currently look at and how they get to the information they need. 
 
-##### [Observation](../1-Understand/Methods/observation.md)
+#### [Observation](../1-Understand/Methods/observation.md)
 
 During the interview session, it's always useful to observe the user's interactions with the existing solution. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's actual workflow and where their needs are or aren't being met. 
 
-##### Survey / Questionnaire
+#### Survey / Questionnaire
 
 In the event that there are more users than can be interviewed, use a survey to gather multiple perspectives and understand themes and trends in a user base. 
 
-##### [Five Whys](../1-Understand/Methods/five-whys.md)
+#### [Five Whys](../1-Understand/Methods/five-whys.md)
 
 During the interview, the designer can perform this activity to dig down deep into what the actual reasons are for a
 problem or what the problem actually is. It is good to use when the apparent problem seems to only be a symptom of a larger problem. 
