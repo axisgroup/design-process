@@ -43,22 +43,43 @@ After a period of debriefing, the design lead should send a Thank You email to t
 
 ## Methods in the Understand phase:
 
-#### Review existing documents (Required)
-It is valuable to review existing documents to understand what information users currently look at and how they get to the information they need. 
+### 1. Understand the Business
 
-#### [Business Deep Dive](../1-Understand/Methods/Business-deep-dive.md) (Required)
-A business deep deep is a method used to get an understanding of the industry, various business functions and processes involved. This is a method that's required and is conducted before the user interviews.
+#### [Business SME Interview](../1-Understand/Methods/business-SME-interview.md) (Required)
+
+A business SME interview is a method used to get an understanding of the industry, various business functions and processes involved. This is a method that's required and is conducted before the user interviews.
+
+#### [Desk Research](../1-Understand/Methods/desk-research.md)
+
+Desk research is the act of discovering information about the client through the means of online information. Research can be about the company, industry, business function, and client history.
+
+#### [Business Model Survey](../1-Understand/Methods/business-model-survey.md) 
+
+The Business Model Survey uses the Business Model Canvas as a tool to understand a business as a whole.
+
+### 2. Understand the People
+
+#### [Stakeholder Interview](../1-Understand/Methods/stakeholder-interview.md) (Required)
+
+The Stakeholder Interview can also serve as the kickoff meeting, and should be used to align expectations and understand the "job to be done." 
 
 #### [User Interviews](../1-Understand/Methods/user-interviews.md) (Required)
 
 Conducting user interviews is the primary and required method the design team uses in the understand phase. By talking to the users directly, we can learn what they do, what they need and all the reasons behind. 
 
-##### &nbsp; &nbsp; &nbsp; &nbsp; [Observation](../1-Understand/Methods/observation.md)
+#### Review existing documents (Required)
+
+It is valuable to review existing documents to understand what information users currently look at and how they get to the information they need. 
+
+##### [Observation](../1-Understand/Methods/observation.md)
 
 During the interview session, it's always useful to observe the user's interactions with the existing solution. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's actual workflow and where their needs are or aren't being met. 
 
+##### Survey / Questionnaire
 
-##### &nbsp; &nbsp; &nbsp; &nbsp; [Five Whys](../1-Understand/Methods/five-whys.md)
+In the event that there are more users than can be interviewed, use a survey to gather multiple perspectives and understand themes and trends in a user base. 
+
+##### [Five Whys](../1-Understand/Methods/five-whys.md)
 
 During the interview, the designer can perform this activity to dig down deep into what the actual reasons are for a
 problem or what the problem actually is. It is good to use when the apparent problem seems to only be a symptom of a larger problem. 
@@ -78,6 +99,10 @@ on a sticky note board.
 An Affinity Diagram is a tool that gathers large amounts of language data (ideas,
 opinions, issues) and organizes them into groupings based on their natural
 relationships.
+
+### 3. Understand the Data
+
+Methods to be added.
 
 ---
 ## Phase Checklist
