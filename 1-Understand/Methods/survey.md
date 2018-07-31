@@ -19,3 +19,10 @@ Open ended questions let the users type in any type of response in the form of a
 ##### Close ended/quantitative questions
 Close ended questions can be answered with a fixed set of options like yes/no or, a likert scale, checkboxes, radio buttons etc. They are useful when trying to quantify things and makes data analysis easier. 
 
+##### Tips
+* Use language that’s easy to understand  
+* Order the questions to have some logical flow  
+* Use a neutral tone that will not bias the user  
+* Front load the most important questions in case people lose interest  
+* Keep the survey length short  
+* Include options like don’t know, not applicable  
