@@ -7,7 +7,7 @@ This running list includes any assumptions, questions and ideas that were formed
 A spreadsheet is useful for capturing this information in a table format, like so:
 
 | 				| 				| Who to Ask/Confirm With | Follow Up Notes |
-| ------------- | ------------- | -------------			  | ------------a- 	|
+| ------------- | ------------- | -------------			  | ------------- 	|
 | Assumption 	| Assumption 1  | 			  |  	|						
 |  				| Assumption 2  | 			  |  	|
 | Key Ideas		| Idea 1	    | 			  |  	|
