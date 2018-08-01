@@ -38,6 +38,10 @@ After a period of debriefing, the design lead should send a Thank You email to t
 
 ## Methods in the Understand phase:
 
+### 0. Internal Meeting
+
+Before the engagement begins, have an internal meeting to walk through the SOW, raise any potential risks, and identify the key people on the project. Set up a loose timeline and a plan for knowledge sharing / content management, and discuss any guidelines or rules for data privacy.
+
 ### 1. Understand the Business
 
 #### [Business SME Interview](../1-Understand/Methods/business-SME-interview.md) (Required)
