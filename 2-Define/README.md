@@ -36,6 +36,25 @@ the business process that the design engagement aims to address.
 
 ## Methods in the Define phase:
 
+### Define the business
+#### [Organization Chart](../2-Define/Methods/org-chart.md)
+An organization chart helps the designer clarify the relationship between different personas/roles within the client's organization, and provide a baseline for prioritizing needs or grouping information. It is especially helpful when many personas or multiple business functions are involved in the Understand phase.
+
+#### [Business Process Mapping](../2-Define/Methods/business-process.md)
+The team should make efforts to model the business process that serves as the basis of the 
+problem at hand. This shall help determine any missing aspects or loopholes in the understanding 
+and could also help realize potential risks.
+
+#### [Key Measures]
+
+#### [Preliminary Business Matrix]
+
+#### [Business Terms Diagram]
+
+
+
+### Define the users
+
 #### [Personas](../2-Define/Methods/personas.md) (Required)
 
 Creating personas help categorize and segment various aspects of the problem and the 
@@ -46,9 +65,6 @@ with the client and assumptions, bundled into a relatable use case.
 
 #### [Empathy Map](../2-Define/Methods/empathy-map.md)
 An empathy map is a collaborative tool teams can use to gain a deeper insight into their customers. Much like a user persona, an empathy map can represent a group of users, such as a customer segment. The empathy map was originally created by Dave Gray and has been gaining popularity with the agile community.
-
-#### [Organization Chart](../2-Define/Methods/org-chart.md)
-An organization chart helps the designer clarify the relationship between different personas/roles within the client's organization, and provide a baseline for prioritizing needs or grouping information. It is especially helpful when many personas or multiple business functions are involved in the Understand phase.
 
 #### [Card Sorting](../2-Define/Methods/card-sorting.md)
 
@@ -76,10 +92,6 @@ User stories are brief statements (1 or 2 sentences each) regarding the requirem
 #### [Use Cases](../2-Define/Methods/use-cases.md)
 A use case describes a list of actions or event steps that a user takes to achieve a goal or accomplish a task. It is also used to document requirements, in a much more elaborated manner compared to user stories. 
 
-#### [Business Process Mapping](../2-Define/Methods/business-process.md)
-The team should make efforts to model the business process that serves as the basis of the 
-problem at hand. This shall help determine any missing aspects or loopholes in the understanding 
-and could also help realize potential risks.
 
 
 ---
