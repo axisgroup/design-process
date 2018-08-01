@@ -11,6 +11,6 @@ After the Business SME interview conducted by the designer.
 
 #### How to do it?
 
-Refer to the Axis developer to guide session. Reference [Agile BI Guru](https://agilebi.guru/gathering-data-requirements/) and the [Axis BEAM & UX Design](../Resources/BEAM-and-UX-design.pdf) Whitepaper for more information.
+Refer to the Axis developer to guide session. Reference [Agile BI Guru](https://agilebi.guru/gathering-data-requirements/) and the [Axis BEAM & UX Design](/design-process/Resources/BEAM-and-UX-design.pdf) Whitepaper for more information.
 
 
