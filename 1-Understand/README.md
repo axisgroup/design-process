@@ -70,7 +70,7 @@ It is valuable to review existing documents to understand what information users
 
 During the interview session, it's always useful to observe the user's interactions with the existing solution. By seeing how a report is read during a meeting or how a user clicks through a dashboard to learn information, the team will be able to gain insights into a user's actual workflow and where their needs are or aren't being met. 
 
-#### Survey / Questionnaire
+#### [Survey / Questionnaire](../1-Understand/Methods/survey.md)
 
 In the event that there are more users than can be interviewed, use a survey to gather multiple perspectives and understand themes and trends in a user base. 
 
