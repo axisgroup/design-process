@@ -8,10 +8,15 @@ By mapping out the client's business process, the team can better understand wha
 It is also a great way to demonstrate our knowledge to the stakeholders.
 
 #### When to do it?
-Business process mapping could be done during an interview on a whiteboard, or after the interview in the Define phase. 
+Business process mapping could be done during the business SME interview, a user interview, or after the interviews in the define phase. 
 
 #### How to do it?
-1. Identify the business process you want to map out, and define a start and end point.
+Remember that the business process map can be created at different levels
+* Cross functional process - across multiple business functions   
+* Single function and multi role process - within one business function but involves users of different roles  
+* Single role process - within a single business function and for a specific user role  
+
+1. Identify the business process you want to map out, and define a start and end point. Start at the highest level. 
 2. Collect information about the process:
     * Steps in the process
     * Conditions or triggers
@@ -33,6 +38,7 @@ Here's a detailed guide to Business Process Mapping:
 
 ![Warehouse Operation](/images/warehouse-operations.png?raw=true "Warehouse Operation")
 
+![Procurement Example](/images/business-process.png?raw=true "Warehouse Operation")
 
 ---
 
