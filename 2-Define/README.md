@@ -92,7 +92,9 @@ User stories are brief statements (1 or 2 sentences each) regarding the requirem
 #### [Use Cases](../2-Define/Methods/use-cases.md)
 A use case describes a list of actions or event steps that a user takes to achieve a goal or accomplish a task. It is also used to document requirements, in a much more elaborated manner compared to user stories. 
 
-
+### Define the data
+#### [Modelstormer](../2-Define/Methods/modelstormer.md)
+A collaborative tool used to model business events and their dimensions, and to define simple data structures for BI prototyping.
 
 ---
 ## Phase Checklist
