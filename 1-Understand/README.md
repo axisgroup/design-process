@@ -66,6 +66,11 @@ The Stakeholder Interview can also serve as the kickoff meeting, and should be u
 
 Conducting user interviews is the primary and required method the design team uses in the understand phase. By talking to the users directly, we can learn what they do, what they need and all the reasons behind. 
 
+
+#### [Group Interviews](../1-Understand/Methods/group-interviews.md)
+
+Group interviews are similar to user interviews but with more than one user present. Group interviews are conducted in situations where user interviews are not possbile. 
+
 #### Review existing documents (Required)
 
 It is valuable to review existing documents to understand what information users currently look at and how they get to the information they need. 
