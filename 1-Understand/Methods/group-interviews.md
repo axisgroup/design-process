@@ -13,10 +13,10 @@ Group interviews are conducted in the research phase of the project.
 Group interviews work best with a group of users who work cloesly together,have similar roles, have equal infuence and are impacted by the project in similar ways.  During the session, a designer should lead the conversation and ask questions, and another resource should take comprehensive notes for later discussion. The questions asked during the group interviews can be similar to user interview questions. When the session begins, encourage all the users to participate in the discussion and voice their opinions freely. With group interviews, be sure to moderate the session and ensure that everyone gets to voice their thoughts. You might have to steer the conversation if it starts going off topic. If you notice users who are hestitant to share their opinions, you can send them a follow note to get their thoughts or even have seperate one on one interview with them. 
 
 After the session, you should send out a follow-up email to the interviewees to:  
-Summarize the key takeways you heard from the group interview   
-Thank them for their time and for providing valuable information  
-Let them know what the next steps are at a high level and how their input will be utilized  
-Mention we will reach out if we have new questions  
+* Summarize the key takeways you heard from the group interview   
+* Thank them for their time and for providing valuable information  
+* Let them know what the next steps are at a high level and how their input will be utilized  
+* Mention we will reach out if we have new questions  
 
 
 
