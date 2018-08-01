@@ -11,6 +11,7 @@
   * [Google Design Sprint Kit](https://designsprintkit.withgoogle.com/methods/)
   * [MediaLab Amsterdan Design Method Toolkit](http://medialabamsterdam.com/toolkit/)
   * [IDEO Design Kit](http://www.designkit.org/methods)
+  * [Agile BEAM Templates](https://agilebi.guru/project/business-event-analysis-and-modeling-beam-templates/)
 
 
 ## Online softwares:
