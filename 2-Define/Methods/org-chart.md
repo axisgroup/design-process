@@ -19,3 +19,6 @@ List the users and their roles. Draw the relationship between (for example, who 
 It can also be drafted with small persona cards. The team or the stakeholder can use it as a baseline when prioritizing personas. 
 
 ![Org Chart 2](/images/org-chart-2.png?raw=true "Org Chart 2")
+
+You can also group people in the organization chart by contain geographic information and business domains.
+![Org Chart 3](/images/org-chart-regions.png?raw=true "Org Chart 2")
