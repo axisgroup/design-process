@@ -34,12 +34,12 @@ Here's a detailed guide to Business Process Mapping:
 
 ##### Example:
 
-###### Warehouse Operations:
+###### Warehouse Operations: Single function and multi role process 
 
 ![Warehouse Operation](/images/warehouse-operations.png?raw=true "Warehouse Operation")
 
 
-###### Procurement:
+###### Procurement: Single role process
 ![Procurement Example](/images/business-process.png?raw=true "Business Process")
 
 ---
