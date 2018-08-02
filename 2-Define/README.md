@@ -1,7 +1,6 @@
 ﻿## Define: Consolidating Research
 
-The second phase of the design engagement is all about synthesizing research and information 
-collected in the Understand phase. The team should be able to synthesize the outcomes of user interviews and consolidate them into personas. The define phase typically involves creating personas but could also include some of the methods listed below depending on what's possible in the project time frame.  
+The second phase of the design engagement is all about synthesizing research and information collected in the Understand phase. While the research around the business and data can vary in how they are synthesized (depending on which Define method best fits the project), the user research should be synthesized in at least a persona card and task analysis. Other artifacts can be used to organize additional information that isn't adequately captured in those two artifacts; for example, an empathy map or user journey map can be used to organize more observational and emotion-based data.
 
 ---
 
@@ -50,8 +49,8 @@ During the business SME interview, you might hear the SME talk about some key me
 
 #### [Preliminary Business Matrix]
 
-#### [Business Terms Diagram]
-
+#### [Business Terms Diagram](../2-Define/Methods/business-terms-diagram.md)
+Business terms diagram is a method for organizing the definitions of and relationships between specific business terms. It usually puts these terms in the context of a larger business process, rather than simply listing terms and their definitions. 
 
 
 ### Define the users
