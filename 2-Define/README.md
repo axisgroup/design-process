@@ -47,7 +47,7 @@ and could also help realize potential risks.
 #### Key Measures
 During the business SME interview, you might hear the SME talk about some key measures used in the business. Make a note of these measures and try and understand what the measures mean and why they're used. The purpose of this method is not to get a comprehensive list of every single measure used in the business functions. Look at this as a way to familiarize yourself with some key measures that are important to the business. If users bring up some of these measures during user interviews, you will already have an understanding of what they mean. 
 
-#### [Preliminary Business Matrix]
+#### [Preliminary Business Matrix](../2-Define/Methods/business-matrix.md)
 
 #### [Business Terms Diagram](../2-Define/Methods/business-terms-diagram.md)
 Business terms diagram is a method for organizing the definitions of and relationships between specific business terms. It usually puts these terms in the context of a larger business process, rather than simply listing terms and their definitions. 
