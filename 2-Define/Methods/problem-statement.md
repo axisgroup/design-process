@@ -1,10 +1,10 @@
 ## Problem Statement
 
 #### What is it?
-A problem statement is a clear concise description of the issue that needs to be addressed by the team. 
+A problem statement is a clear concise description of the issue that needs to be addressed by the team. It will address both the technical problem as well as the business problem of the project.
 
 #### Why do you use it?
-A problem statement helps the team establish a clear goal at the beginning, and keep them on track during the engagement. It can also  beused to validate the delivered solution solves the stated problem.
+A problem statement helps the team establish and communicate a clear goal at the beginning, and keep them on track during the engagement. It can also be used to validate that the delivered solution solves the stated problem.
 
 #### When to use it?
 It should be created in the Define phase, and could be used as a guide in later phases.
