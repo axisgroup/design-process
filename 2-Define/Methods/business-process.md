@@ -38,6 +38,8 @@ Here's a detailed guide to Business Process Mapping:
 
 ![Warehouse Operation](/images/warehouse-operations.png?raw=true "Warehouse Operation")
 
+
+###### Procurement:
 ![Procurement Example](/images/business-process.png?raw=true "Business Process")
 
 ---
