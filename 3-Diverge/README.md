@@ -1,6 +1,6 @@
 ## Diverge: Illuminating all possible paths
 
-Our goal is to explore as many ideas as possible, regardless of how feasible they may or may not be. Diverging helps gain insights that comes from radically different perspectives and approaches to solving a problem. Also, once we begin eliminating some these options in the next phase, we are given reason to be more confident in the options we do move forward with because we have explored so many alternatives.
+The Diverge phase gives people on the team space to digest the information and brainstorm on their own, allowing for ideas to be formed without being hindered by others’ opinions. Our goal is to explore as many ideas as possible, all from different perspectives and approaches, regardless of how unfeasible or untraditional they may be - it may happen that one person's idea could spark another, or contribute to someone else's idea. Also, once we begin eliminating some of these options in the next phase, we are given reason to be more confident, since we'll have explored so many alternatives.
 
 * Have a mindset of "Yes" and constantly ask “How might we?”
 
@@ -11,7 +11,7 @@ Our goal is to explore as many ideas as possible, regardless of how feasible the
 
 #### Inputs/Prerequisites:
 
-###### Personas and Key Questions: 
+###### Personas, Tasks, and Key Questions: 
 The team should familiarize themselves with each persona's goals, tasks, and key questions, as these are what will lay the groundwork for the Diverge phase. 
 
 #### Outputs/Artifacts:
