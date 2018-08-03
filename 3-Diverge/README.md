@@ -23,24 +23,17 @@ Each team member should organize their ideas on either paper, whiteboard, or Ske
 
 ## Methods in Diverge Phase
 
+#### Brainstorming Warm-Up
+It may be difficult to automatically transition into ideation mode, which is why it's helpful to do a creative warm-up that'll get the team to start thinking divergently. 
+
 #### Exploratory Research
-
-Before sketching ideas, each individual can search online for visualization examples that answer similar business questions.
-
+Before sketching ideas, each individual can search online for visualization examples that answer similar business questions. It may help to have a reference of different chart types (such as the [Data Viz Catalogue](https://datavizcatalogue.com/)), or to scroll through inspiring examples on [The Pudding](https://pudding.cool/) and [Data Sketches](http://www.datasketch.es/).
 
 #### [Mind Mapping](/3-Diverge/Methods/mind-mapping.md)
 A warm up exercise to start generating ideas. People are given time to individually explore the problem however they choose to.
 
-
 #### [Crazy Eights](../3-Diverge/Methods/crazy-8s.md)
 Borrowed from Google Ventures’ book, Sprint, this exercise, each member takes a sheet of printer paper, folds it in half 3 times to get 8 rectangles. They then have 5 minutes to sketch out ideas for a specific feature or flow in a product. After they’re done, they share with the team.
-
-
-#### [Affinity Mapping](../1-Understand/Methods/affinity-mapping.md)
-Affinity mapping can also be used in this phase to collect and organize ideas from designers (instead of answers from interviewees). 
-
-#### [Storyboard](../2-Define/Methods/storyboard.md)
-Sometimes two or multiple concepts could be used to answer one business question. A storyboard can be used in this case to group these concepts and tell a story.
 
 
 ---
@@ -53,8 +46,6 @@ One of the 3 methods - Brainstorm, Crazy 8's, Affinity mapping - should be requi
 - [ ] Mind mapping
 - [ ] Brainstorm 
 - [ ] Crazy 8’s
-- [ ] Affinity mapping
-- [ ] Storyboard
 
 
 [Full Design Process Checklist](../Design-Process-Checklist.md)
