@@ -2,7 +2,6 @@
 
 During Converge our goal is to take all of the ideas/concepts that were generated in the diverge phase and hone in on specific concepts that will be incorporated in the prototype that we will build in the next phase. Converging on ideas might involve picking existing concepts to move forward with, making changes to existing concepts or even combining concepts to form a new idea.
 
-
 ---
 ## Inputs/Outputs
 #### Inputs/Prerequisites:
@@ -43,7 +42,7 @@ After visualization concepts are developed, the team needs to group the concepts
 
 The groupings could potentially become the different views in the application. The team should discuss and weigh out the pros and cons of each group of views. Then decide which views the app should have, and what the workflow should be. 
 
-#### [Card Sorting](../4-Converge/Methods/card-sorting.md)
+#### [Card Sorting](../2-Converge/Methods/card-sorting.md)
 
 Card sorting helps in the categorizing ideas and concepts. It's useful for obtaining input on what concepts should be grouped together in a screen. 
 
@@ -64,7 +63,6 @@ The concepts don't need to be high fidelity for this review, but they should be 
 #### Back Burner Board
 
 As a group review all the Back burner ideas. Document the ones that are still applicable and throw away any that aren't.
-
 
 ---
 
