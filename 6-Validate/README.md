@@ -2,7 +2,7 @@
 
 The validate phase is used to collect feedback on the prototype and refine the design further.
 Going into each validation test you should have a plan of what you are validating and how you
-know if that is successful or not.
+know if that is successful or not. To view a detailed exploration of validation techniques, view the [Axis Evaluation Toolkit](https://github.com/axisgroup/evaluation-toolkit).
 
 ---
 ## Input/Output
