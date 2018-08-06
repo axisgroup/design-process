@@ -11,7 +11,7 @@ A user journey map could be created in the define phase, after personas are defi
 
 #### How to do it?
 1. Identify the persona's goal, and define a start and end point for the journey.
-2. Build a table with phases or steps through time on the horizontal axis, and themes like "Actions" or "Pain Point" on the vertical axis.
+2. Build a table with phases or steps through time on the horizontal axis, and the themes of "Actions," "Feelings," and "Pain Points" on the vertical axis.
 
 ![User Journey 3](/images/user-journey-3.png)
 
@@ -20,8 +20,6 @@ A user journey map could be created in the define phase, after personas are defi
 <br>
 
 ##### Example:
-
-![User Journey Example](/images/user-journey-4.png)
 
 ![User Journey Example](/images/user-journey-1.jpg)
 
