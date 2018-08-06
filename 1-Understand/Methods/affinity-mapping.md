@@ -17,6 +17,15 @@ Here are the steps to run an Affinity Mapping process:
   * What's the first thing you look at on a typical Monday morning?
   * What is your primary success criteria?
   * What do you worry about on a daily/monthly/quarterly basis?
+ 
+> Other ideas include making lists of the following elements:
+* Key questions to answer
+* Data elements
+   *  Measure
+   *  Dimension
+   *  Measure by Dimension
+   *  Tasks
+Reports
 
 * The users write down their answers on sticky notes, and put them on the whiteboard. 
 * The group talk through their answers.
