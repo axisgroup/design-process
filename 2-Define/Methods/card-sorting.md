@@ -4,11 +4,15 @@
 Card sorting is a technique discovering how the users understand, categorize and prioritize information. Unlike, affinity mapping, the information on the cards needs to be pre-decided before the card sorting session starts.
 
 #### Why do you do it?
-During the understand phase, the design team often collects huge amount of information from both user interviews and existing documents. Card sorting helps the team figure out a way to organize the information that makes the most sense to the users.
+Card sorting can provide insight on how people organize content and information which can help inform the information architecture of an application. 
+Card sorting can be useful in the following scenarios
+* Build the overall structure and navigation for your application
+* Decide what to put on each tab
+* Organize information in the form of cards or tiles
+* Label objects such as charts or tiles
 
 #### When to do it?
-It could be conducted during the interview with if the team is onsite, which requires the team to produce the cards beforehand, or it could be conducted internally after the interview is done. 
-
+It can be done during the Undertand phase if you are trying to improve an existing application's Information Architecture of it could be used in the Diverge and Prototype phase when you are tying to test how to organize newly drawn up concepts.
 
 #### How to do it?
 
