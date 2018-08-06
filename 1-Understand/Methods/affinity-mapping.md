@@ -34,7 +34,6 @@ Here are the steps to run an Affinity Mapping process:
 
 > Themes tend to emerge organically as one is conducting the exercise. The following list offers some inspiration around what these could be:
 > * Needs / Wants / Desires
->
 > Start with a feature wish list and condense into columns of priority for "Needs"(aka Must Haves, Top Priority), "Wants"(Nice to Haves), "Desires" (Would love to have someday...). This activity is great for ironing out which features are most important and which could potentially be put on the back burner list.
 > * Available / Possible / Out of Scope
 > The team needs to understand the readiness and availability of the back end - What is "Available" (achievable in near future), "Possible" (achievable with extra effort on the back end), and "Out of Scope" (technically unrealistic to pursue). This grouping can also be combined with the Needs/Wants/Desires one, to further iron out the priority.
