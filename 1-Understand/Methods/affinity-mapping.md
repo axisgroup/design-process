@@ -52,7 +52,8 @@ Here are the steps to run an Affinity Mapping process:
 
 
 ##### Example:
-![Affinity Mapping](/images/affinity-mapping.jpg?raw=true "Affinity Mapping")
+![Affinity Mapping](/images/affinity-mapping-2.jpg?raw=true "Affinity Mapping")
+*Source [TutsPlus](https://webdesign.tutsplus.com/tutorials/how-to-prepare-and-use-an-affinity-diagram--cms-28388)*
 
 
 This exercise isn't limited to the Understand phase, but also can be applied in the Diverge phase. The team can use this approach to collect and group visual concepts. 
