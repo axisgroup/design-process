@@ -21,7 +21,7 @@ A user journey map could be created in the define phase, after personas are defi
 
 ##### Example:
 
-![User Journey Example](/images/user-journey-1.jpg)
+![User Journey Example](/images/user-journey-1.png)
 
 <br>
 ---
