@@ -13,13 +13,13 @@ We can use this method to understand real user behaviour versus studying them in
 
 #### How to do it?
 
-Before the session you may set expectations with a user that you want to shadow them as they work. Let them know that you may ask them questions as you observe them.
+* Before the session you may set expectations with a user that you want to shadow them as they work. Let them know that you may ask them questions as you observe them.
 
-Be prepared to take notes during the interview or have an assigned note-taker during the session.
+* Be prepared to take notes during the interview or have an assigned note-taker during the session.
 
-Watch the user as they interact with a report or application. Ask questions during the session to get a better sense of how they interact with the report and when they get stuck. If Here are some example questions that can help with observation
+* Watch the user as they interact with a report or application. Ask questions during the session to get a better sense of how they interact with the report and when they get stuck. If Here are some example questions that can help with observation
 
-What is the first thing you look at?
+* What is the first thing you look at?
 What does it measure?
 What is the comparison that tells you whether it is good or bad?
 What is the next thing you look at if it is good/bad?
