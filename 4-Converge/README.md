@@ -46,9 +46,9 @@ The groupings could potentially become the different views in the application. T
 
 Card sorting helps in the categorizing ideas and concepts. It's useful for obtaining input on what concepts should be grouped together in a screen. 
 
-#### [Map Personas to Views](../4-Converge/Methods/personas-to-views.md) (Required)
+#### [Views Summary](../4-Converge/Methods/personas-to-views.md) (Required)
 
-After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the process. 
+The purpose of this artifact is to provide a summary of the different views in the application and the personas who are the using them. The summaries have high level tasks and goals. This will provide paper trail for the design decisions in the process. 
 
 #### [User Workflow](../4-Converge/Methods/user-workflow.md)
 
