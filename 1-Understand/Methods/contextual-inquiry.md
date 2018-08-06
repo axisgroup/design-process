@@ -19,11 +19,11 @@ We can use this method to understand real user behaviour versus studying them in
 
 * Watch the user as they interact with a report or application. Ask questions during the session to get a better sense of how they interact with the report and when they get stuck. If Here are some example questions that can help with observation
 
-* * What is the first thing you look at?
-* * What does it measure?
-* * What is the comparison that tells you whether it is good or bad?
-* * What is the next thing you look at if it is good/bad?
-* * Repeat till the next step is outside of this report/app.
+   * What is the first thing you look at?
+   * What does it measure?
+   * What is the comparison that tells you whether it is good or bad?
+   * What is the next thing you look at if it is good/bad?
+   * Repeat till the next step is outside of this report/app.
 
 Be sensitive to their workflow. You want to ask questions but you also want to be mindful about not interrupting them so much.
 
