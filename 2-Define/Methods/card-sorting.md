@@ -1,11 +1,11 @@
 ## Card Sorting
 
 #### What is it?
-Card sorting is a technique discovering how the users understand, categorize and prioritize information. Unlike, affinity mapping, the information on the cards needs to be pre-decided before the card sorting session starts.
+Card sorting is a technique discovering how the users understand, categorize and prioritize information. This method helps understand a user's mental model for organizing information and can help structure information in a way that makes it easy to find.
 
 #### Why do you do it?
 Card sorting can provide insight on how people organize content and information which can help inform the information architecture of an application. 
-Card sorting can be useful in the following scenarios
+Card sorting can be useful in the following scenarios: 
 * Build the overall structure and navigation for your application
 * Decide what to put on each tab
 * Organize information in the form of cards or tiles
@@ -16,55 +16,46 @@ It can be done during the Undertand phase if you are trying to improve an existi
 
 #### How to do it?
 
-1. Before the card sorting session begins, the team needs to first produce the cards.
+1. Before the card sorting session begins, the team needs to first produce cards. According to [NNgroup](https://www.nngroup.com/articles/card-sorting-definition/), these cards should contain  40–80 items that represent the main content of the application. Write each topic on an individual index card.
 
-###### What could the cards represent
+> These index cards could represent
+>  * Names of sections of the application
+>  * Names of tiles on a page
+>  * Key questions answered by charts
+>  * Description of chart objects
+>  * Data elements
+>    * Measure
+>   * Dimension
+>   * Measure by Dimension
 
-  * Key questions to answer
-  * Data elements
-    * Measure
-    * Dimension
-    * Measure by Dimension
-  * Tasks
-  * Reports
-  * Ideas (for Diverge phase)
+2. Ask the user to  organizes cards into groups. Shuffle the cards and give them to the participant. Ask the user to look at the cards one at a time and place cards that belong together in one pile. 
 
-2. Then the team also needs to decide which type of card sorting session to run. For an internal session, the team can run an open or hybrid card sorting session to explore all meaningful categories. When interviewing users, closed card sorting might be better since it is more structured and the users can focus more on sorting the information rather than thinking what categories there could be. But at the end of a closed card sorting session, the lead of the session can still ask participants if they would rephase the categories, or if they would combine certain categories.
+3. Categorize or label the piles based on the type of card sort you chose to conduct. Open or hybrid card sorting can be used to to explore all meaningful categories. Closed card-sorting sessions on the other hand can provide more structure and focus to the session. At the end of a closed card sorting session, the lead of the session can still ask participants if they would rephase the categories, or if they would combine certain categories.
 
-###### Open / Closed / Hybrid Card Sorting
+>###### Open / Closed / Hybrid Card Sorting
+> * Open card sort: Participants sort cards into categories that make sense to them, and label each category themselves
+> * Closed card sort: Participants sort cards into categories you give them
+> * Hybrid card sort: Participants sort cards into categories you give them, and can create their own categories as well
 
-* Open card sort: Participants sort cards into categories that make sense to them, and label each category themselves
-* Closed card sort: Participants sort cards into categories you give them
-* Hybrid card sort: Participants sort cards into categories you give them, and can create their own categories as well
+4. It is important to remind the user that they can move cards around between groups as they are performing the card sort. They are also not required to categorize/group all cards and it is okay to have a pile of unknown cards.
 
-3. The team also needs to come up with the meaningful categories for the card sorting. This can happen before the session, during the session, or both.
-###### What could the categories be
+5. At the end of a card sorting session you may talk to the user to try and understand their rationale behind grouping cards together.
 
-* Needs / Wants / Desires
-  
-   Start with a feature wish list and condense into columns of priority for "Needs"(aka Must Haves, Top Priority), "Wants"(Nice to Haves), "Desires" (Would love to have someday...). This activity is great for ironing out which features are most important and which could potentially be put on the back burner list.
-  
-* Available / Possible / Out of Scope
+5. Repeat this process for about 15-20 users and then analyze the results.
 
-   The team needs to understand the readiness and availability of the back end - What is "Available" (achievable in near future), "Possible" (achievable with extra effort on the back end), and "Out of Scope" (technically unrealistic to pursue). This grouping can also be combined with the Needs/Wants/Desires one, to further iron out the priority.
-  
-* Timeframe (Daily / Monthly / Quarterly / Annual | Short-term / Long-term)
-* Business Functions
-* Strategic / Operational
-* Analytical / Exploratory
-* High Level / Detail
+6. Analyze the results from card sorts to see common categories across participants. This [article](https://www.uxmatters.com/mt/archives/2010/09/dancing-with-the-cards-quick-and-dirty-analysis-of-card-sorting-data.php) from UXMatters offers actionable tips on analyzing and using results from card sorting.
 
-4. Pool all the cards together without overlapping, and place a set of categories on a whiteboard.
-5. Ask the participants to pick up cards and arrange them on the whiteboard under the categoties.
-6. Evaluate the sorting:
-  * Are all the cards categorized? If not, are those not categorized cards important? 
-  * Does the sorting make sense to everybody?
-7. Take a picture and move on to the next set of categories.
+
+###### Example
+
 
 --- 
 
-Reference:
+Reference
+https://www.nngroup.com/articles/card-sorting-definition/
 
 https://www.optimalworkshop.com/101/card-sorting
 
 https://www.usability.gov/how-to-and-tools/methods/card-sorting.html
+
+http://boxesandarrows.com/analyzing-card-sort-results-with-a-spreadsheet-template/
