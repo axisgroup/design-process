@@ -43,12 +43,12 @@ Here are the steps to run an Affinity Mapping process:
 > * Analytical / Exploratory
 > * High Level / Detail
 
-Pool all the cards together without overlapping, and place a set of categories on a whiteboard.
-Ask the participants to pick up cards and arrange them on the whiteboard under the categoties.
-Evaluate the sorting:
-Are all the cards categorized? If not, are those not categorized cards important?
-Does the sorting make sense to everybody?
-Take a picture and move on to the next set of categories.
+* Pool all the cards together without overlapping, and place a set of categories on a whiteboard.
+* Ask the participants to pick up cards and arrange them on the whiteboard under the categoties.
+* Evaluate the sorting:
+   * Are all the cards categorized? If not, are those not categorized cards important?
+   * Does the sorting make sense to everybody?
+   * Take a picture and move on to the next set of categories.
 
 
 ##### Example:
