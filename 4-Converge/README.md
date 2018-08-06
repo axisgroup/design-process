@@ -31,9 +31,9 @@ This critique exercise is more open and allows for a more detailed conversation.
 It gives the person that came up with the idea to add any remaining details or
 correct any wrong interpretations.
 
-### 2. Group Concepts into Views (Required, but can happen in Prototype phase)
+### 2. Group Concepts (Required)
 
-After visualization concepts are developed, the team needs to group the concepts into different views. They could be grouped by
+After visualization concepts are developed, the team needs to group the concepts by similar purposes. They could be grouped by
 * business function
 * persona
 * time frame
