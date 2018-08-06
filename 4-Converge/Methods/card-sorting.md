@@ -48,12 +48,13 @@ It can also be done during the Undertand phase if you are trying to improve an e
 
 
 ###### Example
-![Card Sorting Example](../images/card-sort.jpg)
+![Card Sorting Example](/images/card-sort.jpg)
 [Source](https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/)
 
 --- 
 
-Reference
+Reference:
+
 https://www.nngroup.com/articles/card-sorting-definition/
 
 https://www.optimalworkshop.com/101/card-sorting
