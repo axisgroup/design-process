@@ -77,12 +77,6 @@ Storyboards illustrate the how the user interact with the solution, and what the
 #### [User Scenarios](../2-Define/Methods/user-scenarios.md)
 A user scenario is a detailed narrative that focuses on one persona. By typing it out, the team thinks through the details and tell a compelling, easy-to-understand story about the user's needs.
 
-###### Useful for grouping and categorizing information
-
-#### [Card Sorting](../2-Define/Methods/card-sorting.md)
-
-Card sorting with the client helps categorize and prioritize features, ideas and different concepts so that it is easier to understand the problem. 
-It is useful for working through user flow, moving features to the back burner board and merging similar ideas.
 
 ###### Useful for creating alignment
 
