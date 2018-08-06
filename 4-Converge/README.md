@@ -42,7 +42,7 @@ After visualization concepts are developed, the team needs to group the concepts
 
 The groupings could potentially become the different views in the application. The team should discuss and weigh out the pros and cons of each group of views. Then decide which views the app should have, and what the workflow should be. 
 
-#### [Card Sorting](../2-Converge/Methods/card-sorting.md)
+#### [Card Sorting](../4-Converge/Methods/card-sorting.md)
 
 Card sorting helps in the categorizing ideas and concepts. It's useful for obtaining input on what concepts should be grouped together in a screen. 
 
