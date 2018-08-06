@@ -28,7 +28,7 @@ We can use this method to understand real user behaviour versus studying them in
 Be sensitive to their workflow. You want to ask questions but you also want to be mindful about not interrupting them so much.
 
 ##### Example:
-![Contextual Inquiry sample video](https://youtu.be/xnBJE2hnAeo)
+[Contextual Inquiry sample video](https://youtu.be/xnBJE2hnAeo)
 
 
 This exercise isn't limited to the Understand phase, but also can be applied in the Validate phase.
