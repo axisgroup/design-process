@@ -52,7 +52,7 @@ Here are the steps to run an Affinity Mapping process:
 
 
 ##### Example:
-![Affinity Mapping](design-process/images/affinity-diagram-2.jpg)
+![Affinity Mapping](/images/affinity-diagram-2.jpg)
 *Source [TutsPlus](https://webdesign.tutsplus.com/tutorials/how-to-prepare-and-use-an-affinity-diagram--cms-28388)*
 
 
