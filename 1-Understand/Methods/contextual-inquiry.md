@@ -37,6 +37,7 @@ This exercise isn't limited to the Understand phase, but also can be applied in 
 ---
 
 References:
+
 https://uxmastery.com/conducting-contextual-enquiry-or-site-visits/
 
 http://practicaluxmethods.com/product/contextual-inquiry/
