@@ -1,9 +1,9 @@
-## Business Terms Diagram
+## Business Terms & Definitions
 
 
 
 #### What is it?
-Business terms diagram is a method for organizing the definitions of and relationships between specific business terms, which could include measures and dimensions. It usually puts these terms in the context of a larger business process, rather than simply listing terms and their definitions. 
+Business Terms & Definitions is a method for organizing the definitions of and relationships between specific business terms, which could include measures and dimensions. It usually puts these terms in the context of a larger business process, rather than simply listing terms and their definitions. 
 
 #### Why do you do it?
 When there are terms & definitions that are very specific to the business, or are not clear/straightforward in their meanings and contexts, it is helpful to organize them in a diagram to 1) confirm understanding with the client, 2) map data points back to a business process or context, and 3) quickly pass on information to other people on the team regarding new terms and their definitions.
