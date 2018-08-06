@@ -49,6 +49,7 @@ It can also be done during the Undertand phase if you are trying to improve an e
 
 ###### Example
 ![Card Sorting Example](/images/card-sort.jpg)
+
 [Source](https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/)
 
 --- 
