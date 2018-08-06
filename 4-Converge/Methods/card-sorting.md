@@ -12,7 +12,8 @@ Card sorting can be useful in the following scenarios:
 * Label objects such as charts or tiles
 
 #### When to do it?
-It can be done during the Undertand phase if you are trying to improve an existing application's Information Architecture of it could be used in the Diverge and Prototype phase when you are tying to test how to organize newly drawn up concepts.
+It can be  used in the Converge and Prototype phase when you are tying to test how to organize newly drawn up concepts.
+It can also be done during the Undertand phase if you are trying to improve an existing application's Information Architecture of an existing application.
 
 #### How to do it?
 
@@ -47,7 +48,8 @@ It can be done during the Undertand phase if you are trying to improve an existi
 
 
 ###### Example
-
+![Card Sorting Example](/images/card-sorting.jpg)
+[Source](https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/)
 
 --- 
 
