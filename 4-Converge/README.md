@@ -31,9 +31,9 @@ This critique exercise is more open and allows for a more detailed conversation.
 It gives the person that came up with the idea to add any remaining details or
 correct any wrong interpretations.
 
-### 2. Group Concepts into Views (Required, but can happen in Prototype phase)
+### 2. Group Concepts (Required)
 
-After visualization concepts are developed, the team needs to group the concepts into different views. They could be grouped by
+After visualization concepts are developed, the team needs to group the concepts by similar purposes. They could be grouped by
 * business function
 * persona
 * time frame
@@ -46,9 +46,9 @@ The groupings could potentially become the different views in the application. T
 
 Card sorting helps in the categorizing ideas and concepts. It's useful for obtaining input on what concepts should be grouped together in a screen. 
 
-#### [Map Personas to Views](../4-Converge/Methods/personas-to-views.md) (Required)
+#### [Views Summary](../4-Converge/Methods/personas-to-views.md) (Required)
 
-After views are decided, the team needs to map personas to the views. The mapping will provide paper trail for the design decisions in the process. 
+The purpose of this artifact is to provide a summary of the different views in the application and the personas who are the using them. The summaries have high level tasks and goals. This will provide paper trail for the design decisions in the process. 
 
 #### [User Workflow](../4-Converge/Methods/user-workflow.md)
 
