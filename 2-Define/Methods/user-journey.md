@@ -1,7 +1,7 @@
 ## User Journey Mapping
 
 #### What is it?
-User journey mapping is a process to deconstruct a user’s experience with a product or service into a series of phases or steps, and along the phases or steps it highlights user's goals, thoughts, feelings/emothions. 
+User journey mapping is a process to deconstruct a user’s experience with a product or service into a series of phases or steps, and along the phases or steps it highlights user's goals, thoughts, feelings/emotions. 
 
 #### Why do you do it?
 It can help the designers understand the user's experience from multiple angles, not just what the user needs to do but also what the user thinks or feels. It also helps the team communicate our understanding or our vision of the user experience with the client.
