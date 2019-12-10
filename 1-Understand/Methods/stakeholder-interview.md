@@ -34,7 +34,7 @@ Understand security expectations like:
   
 ---
 
-#### Output: Email to Users for Scheduling Interviews
+#### Output: Email to Stakeholders for Scheduling Interviews
 
 Hi [Name],
 
@@ -57,4 +57,26 @@ We’re looking forward to kicking off the project on [date], and being on site 
 Interviewees can expect to be asked about what their roles are, what tasks they perform in [name of application / existing solution], how they do it, and why they do it. We may also ask to observe them use [name of existing solution] in the context of a typical use case. 
 
 Thanks for all your help!
+
+#### Output: Email to Users for Interview Prep
+
+Hello,
+ 
+Thank you for your participation in our design interviews next week. 
+
+//*Include a summary of what users should expect to discuss during the meeting*// 
+
+The focus of this 30-45-minute meeting is to understand your business and analytics processes, so that we can prioritize use cases for the design of new, actionable Qlik dashboards. We’ll be seeking to understand:
+1.	Your job responsibilities, tasks, and processes 
+2.	Your frequently asked analytical questions
+3.	Where the gaps, needs, and pain points are in current tools and processes
+We will also be looking for a few people to be engaged for a 2-3 more hours beyond this interview to participate in a follow-up session, answer additional questions, and  provide feedback on the first-iteration design of a Qlik dashboard. Please consider whether you would be interested.
+ 
+//*Outline how users can best prepare for the meeting, and whether they should be prepared to screenshare and walk through reports.*//
+
+For this meeting, it would be helpful to be prepared to:
+1.	Share and walk through any current reports/metrics/analytics you use 
+2.	Review what is helpful, unhelpful, and missing from these reports
+3.	Utilize Skype meeting link below
+ 
 
