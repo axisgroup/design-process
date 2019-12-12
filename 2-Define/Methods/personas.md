@@ -46,3 +46,7 @@ The following elements should be included in a persona card:
 #### Example
 
  ![Persona Example](/images/persona.png?raw=true "Persona Example")
+ 
+ #### Templates
+ * [Word Template](/Resources/persona-card-template.docx)
+ * [Figma Template (web link](https://www.figma.com/file/AZxDs0MpXGq50Tu8iNfkQI/Axis-Design-Engagement-Template-Public?node-id=0%3A1)
