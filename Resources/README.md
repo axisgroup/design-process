@@ -5,8 +5,8 @@
 * [Axis Design Research Book](https://drive.google.com/open?id=0B2jmfR7rci5mS3BNMmw0U2FxSEU)
 * [Axis Design Template (Figma Link)](https://www.figma.com/file/AZxDs0MpXGq50Tu8iNfkQI/Axis-Design-Engagement-Template-Public?node-id=0%3A1)
 * [Axis Design Template (Sketch file)](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk)
-* [Persona Card (Word Template)](/Resources/mockup-data-map.xlsx)
-* [Mockup data map (Excel Template)](/Resources/persona-card-template.doc)
+* [Persona Card (Word Template)](/Resources/persona-card-template.docx)
+* [Mockup data map (Excel Template)](/Resources/mockup-data-map.xlsx)
 
 
 
