@@ -3,8 +3,11 @@
 * [Running List of Assumptions, Questions, and Ideas Template](https://axisgrp.sharepoint.com/Shared%20Documents/Design%20Engagement%20Resources/Interview%20Checklist.xlsx?d=w43d16b48a2af4d02b4c9b825f20bb056&csf=1)
 * [Axis Design Style Guide](https://sites.google.com/view/style-guide)
 * [Axis Design Research Book](https://drive.google.com/open?id=0B2jmfR7rci5mS3BNMmw0U2FxSEU)
+* [Axis Design Template (Figma Link)](https://www.figma.com/file/AZxDs0MpXGq50Tu8iNfkQI/Axis-Design-Engagement-Template-Public?node-id=0%3A1)
 * [Axis Design Template (Sketch file)](https://drive.google.com/open?id=0B2jmfR7rci5mbDVCN3RXaHA2Vlk)
-* [Mockup data map (Excel Template)](/Resources/mockup-data-map.xlsx)
+* [Persona Card (Word Template)](/Resources/mockup-data-map.xlsx)
+* [Mockup data map (Excel Template)](/Resources/persona-card-template.doc)
+
 
 
 ## Design method collections:
