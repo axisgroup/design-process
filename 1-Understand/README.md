@@ -93,7 +93,7 @@ relationships.
 ### 3. Understand the Data
 
 #### [Modelstorming](../1-Understand/Methods/modelstorming.md)
-Modelstorming is a conversation betewen business users and data experts to brainstorm on the data model based on how it relates to business events. 
+Modelstorming is a conversation between business users and data experts to brainstorm on the data model based on how it relates to business events. 
 
 ---
 ## Phase Checklist
